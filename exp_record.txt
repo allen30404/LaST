@@ -1,0 +1,108 @@
+2023-05-18 18:17:21->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_mtklsFalse_MVMmlp_itr0
+normed mse:0.0940, mae:0.2388, rmse:0.3066
+denormed mse:7.9180, mae:2.1913, rmse:2.8139
+normed mse:0.0940, mae:0.2388, rmse:0.3066
+TTTT denormed mse:7.9180, mae:2.1913, rmse:2.8139
+
+
+
+
+2023-05-18 18:29:40->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_mtklsFalse_MVMmlp_itr0
+normed mse:0.1483, mae:0.3123, rmse:0.3851
+denormed mse:12.4899, mae:2.8655, rmse:3.5341
+normed mse:0.1483, mae:0.3123, rmse:0.3851
+TTTT denormed mse:12.4899, mae:2.8655, rmse:3.5341
+
+
+
+
+2023-05-18 22:32:37->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.0317, mae:0.1348, rmse:0.1780
+denormed mse:2.6692, mae:1.2368, rmse:1.6338
+normed mse:0.0317, mae:0.1348, rmse:0.1780
+TTTT denormed mse:2.6692, mae:1.2368, rmse:1.6338
+
+
+
+
+2023-05-18 22:42:55->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.0491, mae:0.1652, rmse:0.2215
+denormed mse:4.1320, mae:1.5157, rmse:2.0327
+normed mse:0.0491, mae:0.1652, rmse:0.2215
+TTTT denormed mse:4.1320, mae:1.5157, rmse:2.0327
+
+
+
+
+2023-05-18 22:53:45->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.0717, mae:0.2029, rmse:0.2677
+denormed mse:6.0360, mae:1.8617, rmse:2.4568
+normed mse:0.0717, mae:0.2029, rmse:0.2677
+TTTT denormed mse:6.0360, mae:1.8617, rmse:2.4568
+
+
+
+
+2023-05-18 23:08:55->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.0940, mae:0.2388, rmse:0.3066
+denormed mse:7.9180, mae:2.1913, rmse:2.8139
+normed mse:0.0940, mae:0.2388, rmse:0.3066
+TTTT denormed mse:7.9180, mae:2.1913, rmse:2.8139
+
+
+
+
+2023-05-18 23:23:33->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.1484, mae:0.3123, rmse:0.3852
+denormed mse:12.4971, mae:2.8663, rmse:3.5351
+normed mse:0.1484, mae:0.3123, rmse:0.3852
+TTTT denormed mse:12.4971, mae:2.8663, rmse:3.5351
+
+
+
+
+#2023-05-19 17:42:38->LaST_Electricity_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.1479, mae:0.2724, rmse:0.3845
+denormed mse:46667.3127, mae:153.0642, rmse:216.0262
+normed mse:0.1479, mae:0.2724, rmse:0.3845
+TTTT denormed mse:46667.3127, mae:153.0642, rmse:216.0262
+
+
+
+
+#2023-05-19 18:10:48->LaST_Electricity_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.1870, mae:0.3063, rmse:0.4325
+denormed mse:59036.0473, mae:172.0814, rmse:242.9733
+normed mse:0.1870, mae:0.3063, rmse:0.4325
+TTTT denormed mse:59036.0473, mae:172.0814, rmse:242.9733
+
+
+
+
+#2023-05-19 18:36:31->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.2441, mae:0.3468, rmse:0.4941
+denormed mse:77054.4082, mae:194.8330, rmse:277.5868
+normed mse:0.2441, mae:0.3468, rmse:0.4941
+TTTT denormed mse:77054.4082, mae:194.8330, rmse:277.5868
+
+
+
+
+#2023-05-19 18:58:16->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.2894, mae:0.3818, rmse:0.5380
+denormed mse:91354.6951, mae:214.5057, rmse:302.2494
+normed mse:0.2894, mae:0.3818, rmse:0.5380
+TTTT denormed mse:91354.6951, mae:214.5057, rmse:302.2494
+
+
+
+
+#2023-05-19 19:15:34->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_itr0
+normed mse:0.3190, mae:0.4183, rmse:0.5648
+denormed mse:100684.2163, mae:235.0059, rmse:317.3078
+normed mse:0.3190, mae:0.4183, rmse:0.5648
+TTTT denormed mse:100684.2163, mae:235.0059, rmse:317.3078
+
+
+
+
