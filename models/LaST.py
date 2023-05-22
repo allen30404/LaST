@@ -194,9 +194,9 @@ class SNet(nn.Module):
         self.inner_s = inner_s
         self.Mean_Var_Model = Mean_Var_Model
         """ VAE Net """
-        self.VarUnit_s = VarUnit(in_dim, inner_s, type = self.Mean_Var_Model)
+        self.VarUnit_s = VarUnit(in_dim, inner_s, type = "mlp")
         self.rec_s = nn.Linear(inner_s, in_dim)
-        self.RecUnit_s = FeedNet(inner_s, in_dim, type=self.Mean_Var_Model, n_layers=1, dropout=dropout)
+        self.RecUnit_s = FeedNet(inner_s, in_dim, type="mlp" ,n_layers=1, dropout=dropout)
         """ Fourier """
         self.FourierNet = NeuralFourierLayer(inner_s, out_dim, seq_len, pred_len)
         self.pred = FeedNet(self.inner_s, self.out_dim, type="mlp", n_layers=1)
@@ -246,17 +246,9 @@ class TNet(nn.Module):
 
         """Muti-Scale Decoder"""
         if self.Decoder_Muti_Scale == True:
-            self.mlp = nn.Linear(201,202)
-            self.deconv1d_muti_scale =  nn.ModuleList([nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=1,padding=1,dilation=2,output_padding=1),
-                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=2,padding=1,output_padding=0),
-                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=4,padding=2,output_padding=0),
-                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=8,padding=4,output_padding=0),
-                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=16,padding=8,output_padding=0),
-                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=32,padding=16,output_padding=0),
-                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=64,padding=32,output_padding=0),])
+            self.deconv1d_muti_scale = nn.ModuleList([nn.Conv1d(in_channels=inner_t,out_channels=inner_t,kernel_size=int(math.pow(2,k)),padding='same') for k in range(self.kernel_max)])
 
-
-            self.decov1d_reduce = nn.ConvTranspose1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,kernel_size=1)
+            self.decov1d_reduce = nn.Conv1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,kernel_size=1,padding='same')
 
 
         """Latent Space"""     
@@ -298,7 +290,6 @@ class TNet(nn.Module):
         """Muti-Scale Decoder"""    
         if self.Decoder_Muti_Scale == True:
             qz_t_rec = qz_t.permute(0,2,1)
-            qz_t_rec = self.mlp(qz_t_rec)
     
             for j in range(self.kernel_max):
                 out_de = self.deconv1d_muti_scale[j](qz_t_rec)

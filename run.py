@@ -110,7 +110,7 @@ mse_ = []
 mses_ = []
 
 if args.evaluate:
-    setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_itr0'.format(args.model, args.data,
+    setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_seed{}_itr0'.format(args.model, args.data,
                                                                               args.features,
                                                                               args.seq_len,
                                                                               args.label_len,
@@ -120,7 +120,8 @@ if args.evaluate:
                                                                               args.dropout,
                                                                               args.Encoder_Muti_Scale,
                                                                               args.Decoder_Muti_Scale,
-                                                                              args.Mean_Var_Model)
+                                                                              args.Mean_Var_Model,
+                                                                              args.seed)
     exp = Exp(args)  # set experiments
     print('>>>>>>>testing : {}<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<'.format(setting))
     mae, maes, mse, mses = exp.test(setting, evaluate=True)
@@ -129,7 +130,7 @@ else:
     if args.itr:
         for ii in range(args.itr):
             # setting record of experiments
-            setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_itr{}'.format(args.model, args.data,
+            setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_seed{}_itr{}'.format(args.model, args.data,
                                                                                        args.features,
                                                                                        args.seq_len,
                                                                                        args.label_len,
@@ -139,7 +140,8 @@ else:
                                                                                        args.dropout,
                                                                                        args.Encoder_Muti_Scale,
                                                                                        args.Decoder_Muti_Scale,
-                                                                                       args.Mean_Var_Model, ii)
+                                                                                       args.Mean_Var_Model,
+                                                                                       args.seed, ii)
 
             exp = Exp(args)  # set experiments
             print('>>>>>>>start training : {}>>>>>>>>>>>>>>>>>>>>>>>>>>'.format(setting))
@@ -164,7 +166,7 @@ else:
         print('Final min normed mse:{:.4f}, mae:{:.4f}'.format(min(mse_), min(mae_)))
         print('Final min denormed mse:{:.4f}, mae:{:.4f}'.format(min(mses_), min(maes_)))
     else:
-        setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_itr0'.format(args.model, args.data,
+        setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_seed{}_itr0'.format(args.model, args.data,
                                                                                   args.features,
                                                                                   args.seq_len,
                                                                                   args.label_len,
@@ -174,7 +176,8 @@ else:
                                                                                   args.dropout,
                                                                                   args.Encoder_Muti_Scale,
                                                                                   args.Decoder_Muti_Scale,
-                                                                                  args.Mean_Var_Model)
+                                                                                  args.Mean_Var_Model,
+                                                                                  args.seed)
         exp = Exp(args)  # set experiments
         print('>>>>>>>start training : {}>>>>>>>>>>>>>>>>>>>>>>>>>>'.format(setting))
         exp.train(setting)
