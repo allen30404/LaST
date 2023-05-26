@@ -306,10 +306,7 @@ class Exp_LaST(Exp_Basic):
         with open('exp_record.txt', 'a') as f:
             f.write('#'+time_exp+'->'+setting+'\n')
             f.write('normed mse:{:.4f}, mae:{:.4f}, rmse:{:.4f}'.format(mse, mae, rmse)+'\n')
-            f.write('denormed mse:{:.4f}, mae:{:.4f}, rmse:{:.4f}'.format(mses, maes, rmses)+'\n')
-            f.write('normed mse:{:.4f}, mae:{:.4f}, rmse:{:.4f}'.format(mse, mae, rmse)+'\n')
-            f.write('TTTT denormed mse:{:.4f}, mae:{:.4f}, rmse:{:.4f}'.format(mses, maes, rmses)+'\n')
-            f.write('\n'+'\n'+'\n'+'\n')
+            f.write('\n'+'\n')
 
 
         return mae, maes, mse, mses

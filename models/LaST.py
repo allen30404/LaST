@@ -335,7 +335,7 @@ class LaST(nn.Module):
         self.Mean_Var_Model = Mean_Var_Model
 
         self.LaSTLayer = LaSTBlock(self.in_dim, self.out_dim, input_len, output_len, SNet, self.inner_s, TNet,
-                                   self.inner_t,self.Encoder_Muti_Scale,self.Decoder_Muti_Scale,Mean_Var_Model, dropout=dropout)
+                                   self.inner_t,self.Encoder_Muti_Scale,self.Decoder_Muti_Scale,self.Mean_Var_Model, dropout=dropout)
 
     def forward(self, x, x_mark=None):
         b, t, _ = x.shape
