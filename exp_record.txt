@@ -5987,3 +5987,1407 @@ normed mse:0.1263, mae:0.1693, rmse:0.3554
 normed mse:0.1023, mae:0.1285, rmse:0.3199
 
 
+#2023-05-26 17:55:37->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed264_itr0
+normed mse:0.0766, mae:0.2071, rmse:0.2768
+
+
+#2023-05-26 19:32:13->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed265_itr0
+normed mse:0.0750, mae:0.2059, rmse:0.2739
+
+
+#2023-05-26 18:04:29->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed180_itr0
+normed mse:0.3231, mae:0.3455, rmse:0.5684
+
+
+#2023-05-26 17:56:06->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed285_itr0
+normed mse:0.2714, mae:0.3043, rmse:0.5210
+
+
+#2023-05-26 18:04:57->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed201_itr0
+normed mse:0.3279, mae:0.3465, rmse:0.5726
+
+
+#2023-05-26 17:49:56->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed12_itr0
+normed mse:0.1962, mae:0.2491, rmse:0.4429
+
+
+#2023-05-26 18:05:40->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed222_itr0
+normed mse:0.3295, mae:0.3422, rmse:0.5741
+
+
+#2023-05-26 17:59:56->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed54_itr0
+normed mse:0.3265, mae:0.3494, rmse:0.5714
+
+
+#2023-05-26 18:07:11->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed264_itr0
+normed mse:0.3373, mae:0.3532, rmse:0.5808
+
+
+#2023-05-26 18:07:34->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed285_itr0
+normed mse:0.3146, mae:0.3340, rmse:0.5608
+
+
+#2023-05-26 17:55:12->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed243_itr0
+normed mse:0.2530, mae:0.2889, rmse:0.5030
+
+
+#2023-05-26 17:55:43->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed264_itr0
+normed mse:0.2598, mae:0.2925, rmse:0.5097
+
+
+#2023-05-26 20:41:06->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed266_itr0
+normed mse:0.0765, mae:0.2072, rmse:0.2767
+
+
+#2023-05-26 17:59:23->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed33_itr0
+normed mse:0.3228, mae:0.3481, rmse:0.5682
+
+
+#2023-05-26 17:48:51->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed0_itr0
+normed mse:0.1996, mae:0.2552, rmse:0.4467
+
+
+#2023-05-26 18:01:01->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed96_itr0
+normed mse:0.3211, mae:0.3379, rmse:0.5667
+
+
+#2023-05-26 18:01:59->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed117_itr0
+normed mse:0.3159, mae:0.3400, rmse:0.5621
+
+
+#2023-05-26 17:52:38->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed117_itr0
+normed mse:0.2557, mae:0.2894, rmse:0.5057
+
+
+#2023-05-26 17:57:30->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed0_itr0
+normed mse:0.3154, mae:0.3365, rmse:0.5616
+
+
+#2023-05-26 17:58:36->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed12_itr0
+normed mse:0.3193, mae:0.3431, rmse:0.5651
+
+
+#2023-05-26 18:02:36->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed138_itr0
+normed mse:0.3215, mae:0.3351, rmse:0.5670
+
+
+#2023-05-26 17:51:04->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed54_itr0
+normed mse:0.1957, mae:0.2452, rmse:0.4424
+
+
+#2023-05-26 17:53:15->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed159_itr0
+normed mse:0.1930, mae:0.2446, rmse:0.4393
+
+
+#2023-05-26 17:52:05->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed96_itr0
+normed mse:0.2605, mae:0.2981, rmse:0.5104
+
+
+#2023-05-26 17:50:31->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed33_itr0
+normed mse:0.1978, mae:0.2504, rmse:0.4448
+
+
+#2023-05-26 17:55:05->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed243_itr0
+normed mse:0.1942, mae:0.2444, rmse:0.4407
+
+
+#2023-05-26 17:51:11->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed54_itr0
+normed mse:0.2571, mae:0.2918, rmse:0.5070
+
+
+#2023-05-26 17:52:55->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed138_itr0
+normed mse:0.1921, mae:0.2428, rmse:0.4382
+
+
+#2023-05-26 17:54:21->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed201_itr0
+normed mse:0.2550, mae:0.2921, rmse:0.5050
+
+
+#2023-05-26 17:56:02->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed285_itr0
+normed mse:0.1932, mae:0.2483, rmse:0.4396
+
+
+#2023-05-26 17:51:29->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed75_itr0
+normed mse:0.2577, mae:0.2970, rmse:0.5077
+
+
+#2023-05-26 21:42:33->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed267_itr0
+normed mse:0.0724, mae:0.2029, rmse:0.2691
+
+
+#2023-05-26 18:06:11->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed243_itr0
+normed mse:0.3055, mae:0.3303, rmse:0.5527
+
+
+#2023-05-26 17:53:52->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed180_itr0
+normed mse:0.1948, mae:0.2473, rmse:0.4414
+
+
+#2023-05-26 18:00:29->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed75_itr0
+normed mse:0.3231, mae:0.3428, rmse:0.5684
+
+
+#2023-05-26 17:50:05->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed12_itr0
+normed mse:0.2548, mae:0.2893, rmse:0.5047
+
+
+#2023-05-26 17:50:37->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed33_itr0
+normed mse:0.2576, mae:0.2922, rmse:0.5075
+
+
+#2023-05-26 17:52:32->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed117_itr0
+normed mse:0.1930, mae:0.2436, rmse:0.4393
+
+
+#2023-05-26 22:53:54->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed268_itr0
+normed mse:0.0775, mae:0.2089, rmse:0.2784
+
+
+#2023-05-26 17:54:40->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed222_itr0
+normed mse:0.1938, mae:0.2449, rmse:0.4402
+
+
+#2023-05-26 17:49:02->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed0_itr0
+normed mse:0.2555, mae:0.2921, rmse:0.5055
+
+
+#2023-05-26 20:19:10->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed169_itr0
+normed mse:0.2541, mae:0.2933, rmse:0.5041
+
+
+#2023-05-26 17:54:47->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed222_itr0
+normed mse:0.2617, mae:0.3020, rmse:0.5116
+
+
+#2023-05-26 17:54:17->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed201_itr0
+normed mse:0.1931, mae:0.2440, rmse:0.4394
+
+
+#2023-05-26 21:28:26->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed223_itr0
+normed mse:0.3182, mae:0.3365, rmse:0.5641
+
+
+#2023-05-26 21:29:36->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed265_itr0
+normed mse:0.3242, mae:0.3404, rmse:0.5694
+
+
+#2023-05-26 23:46:16->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed269_itr0
+normed mse:0.0780, mae:0.2095, rmse:0.2794
+
+
+#2023-05-26 21:14:17->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed181_itr0
+normed mse:0.3067, mae:0.3257, rmse:0.5538
+
+
+#2023-05-26 21:21:15->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed286_itr0
+normed mse:0.2524, mae:0.2880, rmse:0.5024
+
+
+#2023-05-26 21:46:07->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed34_itr0
+normed mse:0.3245, mae:0.3374, rmse:0.5696
+
+
+#2023-05-26 17:51:23->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed75_itr0
+normed mse:0.1949, mae:0.2460, rmse:0.4415
+
+
+#2023-05-27 00:46:39->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed270_itr0
+normed mse:0.0719, mae:0.2031, rmse:0.2682
+
+
+#2023-05-26 17:52:00->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed96_itr0
+normed mse:0.1933, mae:0.2435, rmse:0.4397
+
+
+#2023-05-26 22:35:30->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed139_itr0
+normed mse:0.2047, mae:0.2560, rmse:0.4524
+
+
+#2023-05-26 21:29:35->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed55_itr0
+normed mse:0.3178, mae:0.3374, rmse:0.5637
+
+
+#2023-05-26 22:15:38->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed139_itr0
+normed mse:0.3216, mae:0.3425, rmse:0.5671
+
+
+#2023-05-26 21:59:23->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed97_itr0
+normed mse:0.3270, mae:0.3440, rmse:0.5719
+
+
+#2023-05-26 21:36:39->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed244_itr0
+normed mse:0.2617, mae:0.3011, rmse:0.5116
+
+
+#2023-05-26 21:59:38->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed118_itr0
+normed mse:0.3347, mae:0.3464, rmse:0.5786
+
+
+#2023-05-26 20:22:34->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed185_itr0
+normed mse:0.2526, mae:0.2885, rmse:0.5026
+
+
+#2023-05-27 01:40:27->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed271_itr0
+normed mse:0.0768, mae:0.2086, rmse:0.2771
+
+
+#2023-05-26 21:23:57->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed13_itr0
+normed mse:0.1924, mae:0.2451, rmse:0.4386
+
+
+#2023-05-26 22:03:47->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed118_itr0
+normed mse:0.2555, mae:0.2955, rmse:0.5055
+
+
+#2023-05-26 22:10:12->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed1_itr0
+normed mse:0.3253, mae:0.3414, rmse:0.5703
+
+
+#2023-05-26 22:13:34->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed13_itr0
+normed mse:0.3240, mae:0.3431, rmse:0.5692
+
+
+#2023-05-26 21:29:46->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed286_itr0
+normed mse:0.3227, mae:0.3463, rmse:0.5681
+
+
+#2023-05-26 22:59:56->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed13_itr0
+normed mse:0.2533, mae:0.2887, rmse:0.5033
+
+
+#2023-05-26 22:54:41->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed244_itr0
+normed mse:0.3142, mae:0.3364, rmse:0.5605
+
+
+#2023-05-26 22:52:41->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed286_itr0
+normed mse:0.1931, mae:0.2408, rmse:0.4394
+
+
+#2023-05-26 23:02:01->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed34_itr0
+normed mse:0.2576, mae:0.2919, rmse:0.5076
+
+
+#2023-05-26 22:34:44->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed55_itr0
+normed mse:0.2525, mae:0.2884, rmse:0.5025
+
+
+#2023-05-27 02:13:34->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed272_itr0
+normed mse:0.0698, mae:0.2014, rmse:0.2641
+
+
+#2023-05-26 21:40:18->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed265_itr0
+normed mse:0.2525, mae:0.2877, rmse:0.5025
+
+
+#2023-05-26 21:23:47->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed202_itr0
+normed mse:0.3104, mae:0.3328, rmse:0.5572
+
+
+#2023-05-26 22:32:22->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed97_itr0
+normed mse:0.2555, mae:0.2904, rmse:0.5055
+
+
+#2023-05-26 21:54:27->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed1_itr0
+normed mse:0.1937, mae:0.2445, rmse:0.4401
+
+
+#2023-05-26 22:46:48->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed202_itr0
+normed mse:0.2531, mae:0.2932, rmse:0.5031
+
+
+#2023-05-26 22:56:50->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed76_itr0
+normed mse:0.3119, mae:0.3323, rmse:0.5585
+
+
+#2023-05-26 22:55:53->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed181_itr0
+normed mse:0.1937, mae:0.2418, rmse:0.4401
+
+
+#2023-05-27 03:03:35->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed273_itr0
+normed mse:0.0740, mae:0.2054, rmse:0.2720
+
+
+#2023-05-26 22:34:06->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed244_itr0
+normed mse:0.1902, mae:0.2400, rmse:0.4361
+
+
+#2023-05-27 00:45:50->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed266_itr0
+normed mse:0.3168, mae:0.3343, rmse:0.5628
+
+
+#2023-05-26 23:21:37->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed118_itr0
+normed mse:0.1908, mae:0.2417, rmse:0.4368
+
+
+#2023-05-27 00:26:18->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed223_itr0
+normed mse:0.2559, mae:0.2939, rmse:0.5059
+
+
+#2023-05-27 00:19:53->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed170_itr0
+normed mse:0.2598, mae:0.2927, rmse:0.5097
+
+
+#2023-05-27 01:09:20->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed182_itr0
+normed mse:0.3215, mae:0.3378, rmse:0.5670
+
+
+#2023-05-27 04:09:05->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed274_itr0
+normed mse:0.0734, mae:0.2040, rmse:0.2709
+
+
+#2023-05-27 01:27:37->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed35_itr0
+normed mse:0.3199, mae:0.3403, rmse:0.5656
+
+
+#2023-05-27 01:48:51->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed56_itr0
+normed mse:0.3089, mae:0.3305, rmse:0.5557
+
+
+#2023-05-27 00:44:38->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed224_itr0
+normed mse:0.3108, mae:0.3308, rmse:0.5575
+
+
+#2023-05-26 22:20:25->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed160_itr0
+normed mse:0.1895, mae:0.2387, rmse:0.4354
+
+
+#2023-05-27 05:04:11->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed275_itr0
+normed mse:0.0732, mae:0.2084, rmse:0.2705
+
+
+#2023-05-27 02:17:38->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed119_itr0
+normed mse:0.2612, mae:0.2951, rmse:0.5111
+
+
+#2023-05-26 22:53:14->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed76_itr0
+normed mse:0.2531, mae:0.2921, rmse:0.5031
+
+
+#2023-05-27 01:24:24->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed287_itr0
+normed mse:0.2521, mae:0.2912, rmse:0.5021
+
+
+#2023-05-27 02:06:07->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed245_itr0
+normed mse:0.2513, mae:0.2863, rmse:0.5013
+
+
+#2023-05-27 01:52:39->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed140_itr0
+normed mse:0.3232, mae:0.3366, rmse:0.5685
+
+
+#2023-05-27 02:21:43->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed2_itr0
+normed mse:0.3242, mae:0.3396, rmse:0.5694
+
+
+#2023-05-26 23:51:47->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed223_itr0
+normed mse:0.1953, mae:0.2461, rmse:0.4419
+
+
+#2023-05-27 02:35:50->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed287_itr0
+normed mse:0.3328, mae:0.3514, rmse:0.5769
+
+
+#2023-05-27 03:14:16->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed266_itr0
+normed mse:0.2616, mae:0.2999, rmse:0.5115
+
+
+#2023-05-26 22:33:48->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed34_itr0
+normed mse:0.1931, mae:0.2463, rmse:0.4394
+
+
+#2023-05-26 22:19:55->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed55_itr0
+normed mse:0.1895, mae:0.2415, rmse:0.4353
+
+
+#2023-05-27 01:52:44->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed98_itr0
+normed mse:0.3134, mae:0.3357, rmse:0.5598
+
+
+#2023-05-27 05:43:39->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed276_itr0
+normed mse:0.0717, mae:0.2031, rmse:0.2677
+
+
+#2023-05-27 02:33:40->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed14_itr0
+normed mse:0.3126, mae:0.3362, rmse:0.5591
+
+
+#2023-05-27 02:42:46->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed14_itr0
+normed mse:0.2635, mae:0.2952, rmse:0.5134
+
+
+#2023-05-27 02:50:48->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed287_itr0
+normed mse:0.1977, mae:0.2547, rmse:0.4446
+
+
+#2023-05-27 02:08:04->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed119_itr0
+normed mse:0.3192, mae:0.3383, rmse:0.5650
+
+
+#2023-05-27 14:46:20->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed264_itr0
+normed mse:0.0766, mae:0.2071, rmse:0.2768
+
+
+#2023-05-27 14:33:22->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed15_itr0
+normed mse:0.3231, mae:0.3389, rmse:0.5684
+
+
+#2023-05-27 14:46:20->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed267_itr0
+normed mse:0.2642, mae:0.3004, rmse:0.5140
+
+
+#2023-05-27 14:44:19->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed224_itr0
+normed mse:0.2706, mae:0.3071, rmse:0.5202
+
+
+#2023-05-27 14:32:17->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed2_itr0
+normed mse:0.3242, mae:0.3396, rmse:0.5694
+
+
+#2023-05-27 14:47:04->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed288_itr0
+normed mse:0.3362, mae:0.3462, rmse:0.5798
+
+
+#2023-05-27 14:46:21->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed267_itr0
+normed mse:0.3257, mae:0.3486, rmse:0.5707
+
+
+#2023-05-27 14:45:23->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed245_itr0
+normed mse:0.1914, mae:0.2408, rmse:0.4374
+
+
+#2023-05-27 14:36:49->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed57_itr0
+normed mse:0.3505, mae:0.3601, rmse:0.5920
+
+
+#2023-05-27 14:38:22->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed99_itr0
+normed mse:0.3351, mae:0.3515, rmse:0.5788
+
+
+#2023-05-27 14:33:17->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed15_itr0
+normed mse:0.2533, mae:0.2919, rmse:0.5033
+
+
+#2023-05-27 14:43:07->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed203_itr0
+normed mse:0.2498, mae:0.2888, rmse:0.4998
+
+
+#2023-05-27 14:41:58->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed183_itr0
+normed mse:0.3244, mae:0.3433, rmse:0.5696
+
+
+#2023-05-27 14:34:17->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed35_itr0
+normed mse:0.2578, mae:0.2958, rmse:0.5077
+
+
+#2023-05-27 14:38:18->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed98_itr0
+normed mse:0.2555, mae:0.2935, rmse:0.5055
+
+
+#2023-05-27 14:37:26->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed77_itr0
+normed mse:0.2577, mae:0.2977, rmse:0.5077
+
+
+#2023-05-27 14:43:08->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed203_itr0
+normed mse:0.3191, mae:0.3381, rmse:0.5649
+
+
+#2023-05-27 14:47:03->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed288_itr0
+normed mse:0.2528, mae:0.2914, rmse:0.5028
+
+
+#2023-05-27 14:45:26->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed245_itr0
+normed mse:0.3187, mae:0.3398, rmse:0.5645
+
+
+#2023-05-27 14:39:57->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed141_itr0
+normed mse:0.3156, mae:0.3346, rmse:0.5618
+
+
+#2023-05-27 14:39:07->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed120_itr0
+normed mse:0.3104, mae:0.3334, rmse:0.5571
+
+
+#2023-05-27 14:41:57->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed182_itr0
+normed mse:0.1975, mae:0.2490, rmse:0.4444
+
+
+#2023-05-27 14:44:20->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed224_itr0
+normed mse:0.3108, mae:0.3308, rmse:0.5575
+
+
+#2023-05-27 14:41:08->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed159_itr0
+normed mse:0.2554, mae:0.2983, rmse:0.5054
+
+
+#2023-05-27 14:45:25->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed246_itr0
+normed mse:0.2544, mae:0.2909, rmse:0.5044
+
+
+#2023-05-27 14:39:06->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed119_itr0
+normed mse:0.1944, mae:0.2451, rmse:0.4409
+
+
+#2023-05-27 17:01:10->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed264_itr0
+normed mse:0.1978, mae:0.2477, rmse:0.4447
+
+
+#2023-05-27 14:37:13->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed77_itr0
+normed mse:0.3186, mae:0.3447, rmse:0.5644
+
+
+#2023-05-27 14:41:08->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed159_itr0
+normed mse:0.1930, mae:0.2446, rmse:0.4393
+
+
+#2023-05-27 14:39:38->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed138_itr0
+normed mse:0.2609, mae:0.2907, rmse:0.5108
+
+
+#2023-05-27 14:41:07->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed161_itr0
+normed mse:0.1968, mae:0.2455, rmse:0.4436
+
+
+#2023-05-27 14:47:01->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed288_itr0
+normed mse:0.1922, mae:0.2435, rmse:0.4384
+
+
+#2023-05-27 14:32:02->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed2_itr0
+normed mse:0.1928, mae:0.2451, rmse:0.4391
+
+
+#2023-05-27 14:36:32->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed56_itr0
+normed mse:0.2560, mae:0.2902, rmse:0.5059
+
+
+#2023-05-27 14:44:19->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed224_itr0
+normed mse:0.1982, mae:0.2503, rmse:0.4452
+
+
+#2023-05-27 14:39:06->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed120_itr0
+normed mse:0.2574, mae:0.2975, rmse:0.5074
+
+
+#2023-05-27 14:32:09->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed1_itr0
+normed mse:0.2555, mae:0.2888, rmse:0.5054
+
+
+#2023-05-27 17:45:40->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed16_itr0
+normed mse:0.3177, mae:0.3409, rmse:0.5637
+
+
+#2023-05-27 14:38:19->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed97_itr0
+normed mse:0.1924, mae:0.2425, rmse:0.4387
+
+
+#2023-05-27 14:34:32->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed36_itr0
+normed mse:0.3262, mae:0.3504, rmse:0.5712
+
+
+#2023-05-27 18:49:29->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed204_itr0
+normed mse:0.2655, mae:0.3031, rmse:0.5152
+
+
+#2023-05-27 14:37:40->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed76_itr0
+normed mse:0.1921, mae:0.2430, rmse:0.4383
+
+
+#2023-05-27 14:33:14->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed14_itr0
+normed mse:0.1910, mae:0.2409, rmse:0.4370
+
+
+#2023-05-27 14:39:57->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed140_itr0
+normed mse:0.1939, mae:0.2451, rmse:0.4404
+
+
+#2023-05-27 14:41:58->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed180_itr0
+normed mse:0.2559, mae:0.2941, rmse:0.5059
+
+
+#2023-05-27 18:29:55->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed268_itr0
+normed mse:0.3259, mae:0.3469, rmse:0.5709
+
+
+#2023-05-27 18:28:58->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed289_itr0
+normed mse:0.3170, mae:0.3306, rmse:0.5630
+
+
+#2023-05-27 19:25:37->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed78_itr0
+normed mse:0.2665, mae:0.3026, rmse:0.5162
+
+
+#2023-05-27 18:38:29->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed100_itr0
+normed mse:0.3589, mae:0.3733, rmse:0.5991
+
+
+#2023-05-27 18:33:41->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed58_itr0
+normed mse:0.3231, mae:0.3408, rmse:0.5684
+
+
+#2023-05-27 18:06:55->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed268_itr0
+normed mse:0.2566, mae:0.2933, rmse:0.5065
+
+
+#2023-05-27 14:36:21->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed56_itr0
+normed mse:0.1893, mae:0.2390, rmse:0.4351
+
+
+#2023-05-27 19:32:49->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed204_itr0
+normed mse:0.3308, mae:0.3479, rmse:0.5752
+
+
+#2023-05-27 18:53:22->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed36_itr0
+normed mse:0.2580, mae:0.2976, rmse:0.5079
+
+
+#2023-05-27 14:34:16->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed35_itr0
+normed mse:0.1904, mae:0.2410, rmse:0.4363
+
+
+#2023-05-27 19:37:08->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed246_itr0
+normed mse:0.3327, mae:0.3483, rmse:0.5768
+
+
+#2023-05-27 19:55:20->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed247_itr0
+normed mse:0.2619, mae:0.2938, rmse:0.5118
+
+
+#2023-05-27 18:32:10->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed246_itr0
+normed mse:0.1941, mae:0.2454, rmse:0.4406
+
+
+#2023-05-27 19:33:26->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed289_itr0
+normed mse:0.2596, mae:0.2961, rmse:0.5095
+
+
+#2023-05-27 19:40:40->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed121_itr0
+normed mse:0.3176, mae:0.3353, rmse:0.5636
+
+
+#2023-05-27 18:10:05->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed225_itr0
+normed mse:0.2550, mae:0.2926, rmse:0.5050
+
+
+#2023-05-27 18:45:29->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed16_itr0
+normed mse:0.2572, mae:0.2920, rmse:0.5071
+
+
+#2023-05-27 19:37:12->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed142_itr0
+normed mse:0.3179, mae:0.3398, rmse:0.5639
+
+
+#2023-05-27 20:25:31->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed289_itr0
+normed mse:0.1988, mae:0.2486, rmse:0.4459
+
+
+#2023-05-27 14:43:06->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed202_itr0
+normed mse:0.1891, mae:0.2375, rmse:0.4349
+
+
+#2023-05-27 19:53:18->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed160_itr0
+normed mse:0.2608, mae:0.2959, rmse:0.5107
+
+
+#2023-05-27 18:50:34->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed184_itr0
+normed mse:0.3124, mae:0.3330, rmse:0.5590
+
+
+#2023-05-27 20:34:42->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed57_itr0
+normed mse:0.2796, mae:0.3124, rmse:0.5288
+
+
+#2023-05-27 18:27:05->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed3_itr0
+normed mse:0.3067, mae:0.3333, rmse:0.5538
+
+
+#2023-05-27 20:41:18->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed121_itr0
+normed mse:0.2601, mae:0.2935, rmse:0.5100
+
+
+#2023-05-27 20:07:33->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed78_itr0
+normed mse:0.3158, mae:0.3368, rmse:0.5620
+
+
+#2023-05-27 19:45:32->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed183_itr0
+normed mse:0.1966, mae:0.2474, rmse:0.4434
+
+
+#2023-05-27 21:59:50->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed205_itr0
+normed mse:0.2595, mae:0.2935, rmse:0.5094
+
+
+#2023-05-27 20:03:45->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed265_itr0
+normed mse:0.1935, mae:0.2420, rmse:0.4399
+
+
+#2023-05-27 20:22:38->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed162_itr0
+normed mse:0.1910, mae:0.2411, rmse:0.4370
+
+
+#2023-05-27 20:26:50->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed3_itr0
+normed mse:0.1959, mae:0.2478, rmse:0.4426
+
+
+#2023-05-27 20:14:37->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed139_itr0
+normed mse:0.2525, mae:0.2883, rmse:0.5025
+
+
+#2023-05-27 19:52:58->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed225_itr0
+normed mse:0.3214, mae:0.3398, rmse:0.5669
+
+
+#2023-05-27 21:44:01->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed98_itr0
+normed mse:0.1948, mae:0.2474, rmse:0.4414
+
+
+#2023-05-27 21:33:32->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed17_itr0
+normed mse:0.3284, mae:0.3433, rmse:0.5731
+
+
+#2023-05-27 22:27:57->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed290_itr0
+normed mse:0.3267, mae:0.3478, rmse:0.5716
+
+
+#2023-05-27 21:32:14->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed2_itr0
+normed mse:0.2530, mae:0.2940, rmse:0.5030
+
+
+#2023-05-27 22:15:21->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed141_itr0
+normed mse:0.1959, mae:0.2479, rmse:0.4426
+
+
+#2023-05-27 21:45:04->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed37_itr0
+normed mse:0.3230, mae:0.3391, rmse:0.5684
+
+
+#2023-05-27 22:57:06->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed205_itr0
+normed mse:0.3224, mae:0.3384, rmse:0.5678
+
+
+#2023-05-27 23:03:15->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed247_itr0
+normed mse:0.3180, mae:0.3399, rmse:0.5640
+
+
+#2023-05-27 19:03:54->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed99_itr0
+normed mse:0.2579, mae:0.2978, rmse:0.5078
+
+
+#2023-05-27 20:03:13->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed120_itr0
+normed mse:0.1910, mae:0.2392, rmse:0.4370
+
+
+#2023-05-27 22:37:48->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed101_itr0
+normed mse:0.3289, mae:0.3478, rmse:0.5735
+
+
+#2023-05-27 23:12:02->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed248_itr0
+normed mse:0.2565, mae:0.2959, rmse:0.5064
+
+
+#2023-05-27 22:30:48->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed79_itr0
+normed mse:0.2580, mae:0.2984, rmse:0.5079
+
+
+#2023-05-27 20:38:49->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed225_itr0
+normed mse:0.1944, mae:0.2476, rmse:0.4409
+
+
+#2023-05-27 22:18:55->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed181_itr0
+normed mse:0.2524, mae:0.2896, rmse:0.5024
+
+
+#2023-05-27 22:43:42->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed59_itr0
+normed mse:0.3121, mae:0.3350, rmse:0.5587
+
+
+#2023-05-27 23:28:22->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed122_itr0
+normed mse:0.3368, mae:0.3506, rmse:0.5804
+
+
+#2023-05-27 23:43:20->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed143_itr0
+normed mse:0.3318, mae:0.3528, rmse:0.5761
+
+
+#2023-05-27 23:26:11->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed290_itr0
+normed mse:0.2541, mae:0.2878, rmse:0.5041
+
+
+#2023-05-27 22:47:53->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed269_itr0
+normed mse:0.2524, mae:0.2881, rmse:0.5024
+
+
+#2023-05-27 23:55:22->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed161_itr0
+normed mse:0.2585, mae:0.2961, rmse:0.5084
+
+
+#2023-05-28 00:14:39->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed79_itr0
+normed mse:0.3260, mae:0.3442, rmse:0.5709
+
+
+#2023-05-27 22:23:13->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed269_itr0
+normed mse:0.3089, mae:0.3347, rmse:0.5558
+
+
+#2023-05-27 22:57:40->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed37_itr0
+normed mse:0.2541, mae:0.2894, rmse:0.5041
+
+
+#2023-05-28 00:13:39->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed4_itr0
+normed mse:0.3183, mae:0.3414, rmse:0.5642
+
+
+#2023-05-27 23:32:26->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed17_itr0
+normed mse:0.2587, mae:0.2946, rmse:0.5087
+
+
+#2023-05-27 23:46:02->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed290_itr0
+normed mse:0.1924, mae:0.2436, rmse:0.4387
+
+
+#2023-05-28 00:02:52->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed185_itr0
+normed mse:0.3160, mae:0.3364, rmse:0.5622
+
+
+#2023-05-28 00:14:02->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed122_itr0
+normed mse:0.2549, mae:0.2898, rmse:0.5049
+
+
+#2023-05-27 23:30:10->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed226_itr0
+normed mse:0.2536, mae:0.2865, rmse:0.5036
+
+
+#2023-05-28 00:43:20->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed206_itr0
+normed mse:0.2549, mae:0.2955, rmse:0.5049
+
+
+#2023-05-27 20:12:46->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed160_itr0
+normed mse:0.1895, mae:0.2387, rmse:0.4354
+
+
+#2023-05-27 22:10:42->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed15_itr0
+normed mse:0.1959, mae:0.2473, rmse:0.4426
+
+
+#2023-05-28 00:06:14->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed58_itr0
+normed mse:0.2541, mae:0.2921, rmse:0.5041
+
+
+#2023-05-27 22:50:40->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed57_itr0
+normed mse:0.1941, mae:0.2443, rmse:0.4405
+
+
+#2023-05-28 00:44:14->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed266_itr0
+normed mse:0.1918, mae:0.2419, rmse:0.4379
+
+
+#2023-05-28 01:20:47->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed226_itr0
+normed mse:0.3225, mae:0.3408, rmse:0.5679
+
+
+#2023-05-28 00:50:33->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed163_itr0
+normed mse:0.1942, mae:0.2444, rmse:0.4407
+
+
+#2023-05-28 01:37:58->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed18_itr0
+normed mse:0.3393, mae:0.3538, rmse:0.5825
+
+
+#2023-05-28 01:17:44->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed140_itr0
+normed mse:0.2581, mae:0.2954, rmse:0.5080
+
+
+#2023-05-27 23:01:17->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed36_itr0
+normed mse:0.1903, mae:0.2405, rmse:0.4362
+
+
+#2023-05-28 02:14:54->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed206_itr0
+normed mse:0.3200, mae:0.3402, rmse:0.5657
+
+
+#2023-05-28 00:18:33->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed184_itr0
+normed mse:0.1971, mae:0.2486, rmse:0.4440
+
+
+#2023-05-28 02:25:00->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed248_itr0
+normed mse:0.3208, mae:0.3402, rmse:0.5664
+
+
+#2023-05-28 02:08:29->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed38_itr0
+normed mse:0.3243, mae:0.3403, rmse:0.5695
+
+
+#2023-05-28 01:34:13->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed99_itr0
+normed mse:0.1963, mae:0.2475, rmse:0.4430
+
+
+#2023-05-28 02:44:20->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed249_itr0
+normed mse:0.2589, mae:0.2951, rmse:0.5088
+
+
+#2023-05-27 23:21:21->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed247_itr0
+normed mse:0.1950, mae:0.2494, rmse:0.4416
+
+
+#2023-05-28 00:51:59->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed4_itr0
+normed mse:0.1929, mae:0.2463, rmse:0.4392
+
+
+#2023-05-28 02:06:40->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed3_itr0
+normed mse:0.2550, mae:0.2908, rmse:0.5050
+
+
+#2023-05-28 01:50:43->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed291_itr0
+normed mse:0.3223, mae:0.3470, rmse:0.5677
+
+
+#2023-05-28 03:15:54->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed123_itr0
+normed mse:0.3193, mae:0.3437, rmse:0.5650
+
+
+#2023-05-27 23:49:13->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed203_itr0
+normed mse:0.1950, mae:0.2449, rmse:0.4416
+
+
+#2023-05-27 22:00:36->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed77_itr0
+normed mse:0.1911, mae:0.2425, rmse:0.4371
+
+
+#2023-05-28 03:13:40->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed60_itr0
+normed mse:0.3311, mae:0.3466, rmse:0.5754
+
+
+#2023-05-28 04:07:39->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed270_itr0
+normed mse:0.3269, mae:0.3424, rmse:0.5718
+
+
+#2023-05-28 03:31:15->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed291_itr0
+normed mse:0.2528, mae:0.2910, rmse:0.5028
+
+
+#2023-05-28 04:09:51->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed38_itr0
+normed mse:0.2567, mae:0.2938, rmse:0.5067
+
+
+#2023-05-28 02:26:33->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed102_itr0
+normed mse:0.3144, mae:0.3371, rmse:0.5607
+
+
+#2023-05-28 02:25:10->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed100_itr0
+normed mse:0.2616, mae:0.2977, rmse:0.5114
+
+
+#2023-05-28 04:30:27->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed18_itr0
+normed mse:0.2598, mae:0.2964, rmse:0.5097
+
+
+#2023-05-28 02:50:59->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed80_itr0
+normed mse:0.2581, mae:0.2988, rmse:0.5081
+
+
+#2023-05-28 04:22:21->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed5_itr0
+normed mse:0.3200, mae:0.3371, rmse:0.5657
+
+
+#2023-05-28 04:39:59->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed207_itr0
+normed mse:0.2578, mae:0.2924, rmse:0.5077
+
+
+#2023-05-28 05:01:07->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed227_itr0
+normed mse:0.3272, mae:0.3489, rmse:0.5720
+
+
+#2023-05-28 04:01:40->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed270_itr0
+normed mse:0.2580, mae:0.2904, rmse:0.5079
+
+
+#2023-05-28 02:51:03->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed226_itr0
+normed mse:0.1950, mae:0.2496, rmse:0.4416
+
+
+#2023-05-28 03:30:37->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed144_itr0
+normed mse:0.3125, mae:0.3309, rmse:0.5590
+
+
+#2023-05-28 04:34:17->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed186_itr0
+normed mse:0.3095, mae:0.3308, rmse:0.5563
+
+
+#2023-05-28 05:34:33->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed207_itr0
+normed mse:0.3146, mae:0.3365, rmse:0.5609
+
+
+#2023-05-28 04:32:33->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed291_itr0
+normed mse:0.1922, mae:0.2440, rmse:0.4384
+
+
+#2023-05-28 04:52:14->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed59_itr0
+normed mse:0.2629, mae:0.3021, rmse:0.5128
+
+
+#2023-05-28 02:07:12->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed142_itr0
+normed mse:0.1904, mae:0.2434, rmse:0.4364
+
+
+#2023-05-28 03:10:54->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed182_itr0
+normed mse:0.2567, mae:0.2970, rmse:0.5066
+
+
+#2023-05-28 04:36:00->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed227_itr0
+normed mse:0.2595, mae:0.2940, rmse:0.5094
+
+
+#2023-05-28 04:04:12->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed162_itr0
+normed mse:0.2512, mae:0.2876, rmse:0.5012
+
+
+#2023-05-28 02:25:57->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed121_itr0
+normed mse:0.1896, mae:0.2399, rmse:0.4355
+
+
+#2023-05-28 04:55:05->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed267_itr0
+normed mse:0.1936, mae:0.2429, rmse:0.4400
+
+
+#2023-05-28 05:22:57->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed19_itr0
+normed mse:0.3156, mae:0.3358, rmse:0.5618
+
+
+#2023-05-28 04:34:59->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed123_itr0
+normed mse:0.2522, mae:0.2910, rmse:0.5022
+
+
+#2023-05-28 06:00:44->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed249_itr0
+normed mse:0.3177, mae:0.3373, rmse:0.5637
+
+
+#2023-05-28 05:11:59->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed164_itr0
+normed mse:0.1928, mae:0.2419, rmse:0.4391
+
+
+#2023-05-28 04:41:14->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed161_itr0
+normed mse:0.1968, mae:0.2455, rmse:0.4436
+
+
+#2023-05-28 06:04:21->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed39_itr0
+normed mse:0.3172, mae:0.3387, rmse:0.5632
+
+
+#2023-05-28 04:06:45->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed80_itr0
+normed mse:0.3159, mae:0.3359, rmse:0.5620
+
+
+#2023-05-28 07:28:06->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed271_itr0
+normed mse:0.3296, mae:0.3447, rmse:0.5741
+
+
+#2023-05-28 07:19:32->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed61_itr0
+normed mse:0.3265, mae:0.3418, rmse:0.5714
+
+
+#2023-05-28 05:33:49->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed37_itr0
+normed mse:0.1911, mae:0.2437, rmse:0.4371
+
+
+#2023-05-28 06:58:33->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed292_itr0
+normed mse:0.3158, mae:0.3355, rmse:0.5620
+
+
+#2023-05-28 08:06:00->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed19_itr0
+normed mse:0.2686, mae:0.3024, rmse:0.5182
+
+
+#2023-05-28 06:21:51->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed250_itr0
+normed mse:0.2552, mae:0.2927, rmse:0.5052
+
+
+#2023-05-28 08:20:17->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed208_itr0
+normed mse:0.2594, mae:0.2953, rmse:0.5093
+
+
+#2023-05-28 06:57:26->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed4_itr0
+normed mse:0.2582, mae:0.2941, rmse:0.5081
+
+
+#2023-05-28 07:03:32->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed124_itr0
+normed mse:0.3139, mae:0.3340, rmse:0.5603
+
+
+#2023-05-28 05:24:59->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed141_itr0
+normed mse:0.2573, mae:0.2963, rmse:0.5072
+
+
+#2023-05-28 07:06:26->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed204_itr0
+normed mse:0.1945, mae:0.2429, rmse:0.4411
+
+
+#2023-05-28 08:04:01->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed101_itr0
+normed mse:0.2597, mae:0.2950, rmse:0.5096
+
+
+#2023-05-28 05:49:24->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed185_itr0
+normed mse:0.1923, mae:0.2443, rmse:0.4385
+
+
+#2023-05-28 09:49:10->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed124_itr0
+normed mse:0.2686, mae:0.3069, rmse:0.5182
+
+
+#2023-05-28 08:15:22->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed6_itr0
+normed mse:0.3213, mae:0.3408, rmse:0.5668
+
+
+#2023-05-28 04:53:11->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed58_itr0
+normed mse:0.1936, mae:0.2455, rmse:0.4400
+
+
+#2023-05-28 08:59:17->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed208_itr0
+normed mse:0.3198, mae:0.3374, rmse:0.5655
+
+
+#2023-05-28 08:26:30->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed227_itr0
+normed mse:0.1998, mae:0.2511, rmse:0.4470
+
+
+#2023-05-28 06:40:14->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed248_itr0
+normed mse:0.1907, mae:0.2398, rmse:0.4367
+
+
+#2023-05-28 08:42:46->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed145_itr0
+normed mse:0.3209, mae:0.3457, rmse:0.5665
+
+
+#2023-05-28 08:20:33->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed228_itr0
+normed mse:0.3120, mae:0.3364, rmse:0.5586
+
+
+#2023-05-28 09:28:15->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed163_itr0
+normed mse:0.2615, mae:0.2995, rmse:0.5114
+
+
+#2023-05-28 04:46:59->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed16_itr0
+normed mse:0.1881, mae:0.2377, rmse:0.4337
+
+
+#2023-05-28 09:39:41->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed20_itr0
+normed mse:0.3212, mae:0.3432, rmse:0.5668
+
+
+#2023-05-28 09:15:17->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed60_itr0
+normed mse:0.2644, mae:0.2964, rmse:0.5142
+
+
+#2023-05-28 07:55:26->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed292_itr0
+normed mse:0.2612, mae:0.3004, rmse:0.5111
+
+
+#2023-05-28 07:13:16->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed78_itr0
+normed mse:0.1959, mae:0.2481, rmse:0.4427
+
+
+#2023-05-28 06:53:31->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed5_itr0
+normed mse:0.1916, mae:0.2417, rmse:0.4378
+
+
+#2023-05-28 08:53:29->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed187_itr0
+normed mse:0.3116, mae:0.3316, rmse:0.5582
+
+
+#2023-05-28 07:57:22->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed39_itr0
+normed mse:0.2576, mae:0.2949, rmse:0.5076
+
+
+#2023-05-28 09:15:25->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed143_itr0
+normed mse:0.1939, mae:0.2456, rmse:0.4404
+
+
+#2023-05-28 09:13:25->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed292_itr0
+normed mse:0.1970, mae:0.2452, rmse:0.4439
+
+
+#2023-05-28 10:27:38->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed40_itr0
+normed mse:0.3171, mae:0.3338, rmse:0.5631
+
+
+#2023-05-28 08:11:34->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed81_itr0
+normed mse:0.2579, mae:0.2992, rmse:0.5078
+
+
+#2023-05-28 10:46:33->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed272_itr0
+normed mse:0.3218, mae:0.3367, rmse:0.5673
+
+
+#2023-05-28 10:30:14->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed81_itr0
+normed mse:0.3413, mae:0.3557, rmse:0.5842
+
+
+#2023-05-28 09:38:37->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed268_itr0
+normed mse:0.1940, mae:0.2468, rmse:0.4405
+
+
+#2023-05-28 10:47:55->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed62_itr0
+normed mse:0.3282, mae:0.3456, rmse:0.5729
+
+
+#2023-05-28 07:58:58->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed103_itr0
+normed mse:0.3147, mae:0.3371, rmse:0.5609
+
+
+#2023-05-28 08:22:48->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed271_itr0
+normed mse:0.2542, mae:0.2894, rmse:0.5042
+
+
+#2023-05-28 10:57:11->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed293_itr0
+normed mse:0.3193, mae:0.3409, rmse:0.5651
+
+
+#2023-05-28 10:59:25->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed20_itr0
+normed mse:0.2558, mae:0.2946, rmse:0.5057
+
+
+#2023-05-28 11:34:52->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed5_itr0
+normed mse:0.2658, mae:0.3064, rmse:0.5156
+
+
+#2023-05-28 10:21:12->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed162_itr0
+normed mse:0.1910, mae:0.2411, rmse:0.4370
+
+
+#2023-05-28 11:08:34->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed251_itr0
+normed mse:0.2616, mae:0.3000, rmse:0.5115
+
+
+#2023-05-28 10:07:21->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed165_itr0
+normed mse:0.1939, mae:0.2438, rmse:0.4403
+
+
+#2023-05-28 09:29:58->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed122_itr0
+normed mse:0.1933, mae:0.2406, rmse:0.4397
+
+
+#2023-05-28 11:41:09->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed125_itr0
+normed mse:0.3348, mae:0.3485, rmse:0.5786
+
+
+#2023-05-28 11:23:21->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed209_itr0
+normed mse:0.2573, mae:0.3024, rmse:0.5072
+
+
+#2023-05-28 16:12:23->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed243_itr0
+normed mse:0.2459, mae:0.3488, rmse:0.4958
+
+
+#2023-05-28 16:12:26->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed264_itr0
+normed mse:0.2987, mae:0.3879, rmse:0.5465
+
+
+#2023-05-28 16:12:25->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed264_itr0
+normed mse:0.2445, mae:0.3473, rmse:0.4945
+
+
+#2023-05-28 16:12:05->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed117_itr0
+normed mse:0.3382, mae:0.4314, rmse:0.5815
+
+
+#2023-05-28 16:11:52->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed33_itr0
+normed mse:0.3249, mae:0.4241, rmse:0.5700
+
+
+#2023-05-28 16:12:02->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed96_itr0
+normed mse:0.3272, mae:0.4250, rmse:0.5720
+
+
+#2023-05-28 16:12:26->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed264_itr0
+normed mse:0.3261, mae:0.4243, rmse:0.5710
+
+
+#2023-05-28 16:11:57->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed75_itr0
+normed mse:0.2873, mae:0.3818, rmse:0.5360
+
+
+#2023-05-28 16:12:24->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed243_itr0
+normed mse:0.3337, mae:0.4275, rmse:0.5777
+
+
+#2023-05-28 16:12:10->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed159_itr0
+normed mse:0.2437, mae:0.3461, rmse:0.4937
+
+
+#2023-05-28 16:12:20->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed222_itr0
+normed mse:0.2882, mae:0.3820, rmse:0.5368
+
+
+#2023-05-28 16:12:17->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed201_itr0
+normed mse:0.2873, mae:0.3803, rmse:0.5360
+
+
+#2023-05-28 16:11:52->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed33_itr0
+normed mse:0.2901, mae:0.3823, rmse:0.5386
+
+
+#2023-05-28 16:12:18->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed201_itr0
+normed mse:0.3231, mae:0.4213, rmse:0.5684
+
+
+#2023-05-28 16:12:11->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed159_itr0
+normed mse:0.2437, mae:0.3461, rmse:0.4937
+
+
+#2023-05-28 16:12:08->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed138_itr0
+normed mse:0.2872, mae:0.3798, rmse:0.5359
+
+
+#2023-05-28 16:11:58->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed75_itr0
+normed mse:0.3210, mae:0.4210, rmse:0.5665
+
+
+#2023-05-28 16:12:30->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed285_itr0
+normed mse:0.2425, mae:0.3450, rmse:0.4925
+
+
+#2023-05-28 16:12:14->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed180_itr0
+normed mse:0.2442, mae:0.3464, rmse:0.4941
+
+
+#2023-05-28 16:12:11->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed159_itr0
+normed mse:0.2892, mae:0.3802, rmse:0.5378
+
+
+#2023-05-28 16:11:49->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed12_itr0
+normed mse:0.2445, mae:0.3472, rmse:0.4945
+
+
+#2023-05-28 16:11:49->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed12_itr0
+normed mse:0.2861, mae:0.3802, rmse:0.5349
+
+
+#2023-05-28 16:11:47->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed0_itr0
+normed mse:0.3216, mae:0.4206, rmse:0.5671
+
+
+#2023-05-28 16:11:46->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed0_itr0
+normed mse:0.2846, mae:0.3785, rmse:0.5335
+
+
+#2023-05-28 16:12:00->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed96_itr0
+normed mse:0.2458, mae:0.3475, rmse:0.4958
+
+
+#2023-05-28 16:12:16->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed180_itr0
+normed mse:0.3188, mae:0.4183, rmse:0.5647
+
+
+#2023-05-28 16:11:50->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed12_itr0
+normed mse:0.3223, mae:0.4208, rmse:0.5677
+
+
+#2023-05-28 16:12:09->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed138_itr0
+normed mse:0.3217, mae:0.4193, rmse:0.5672
+
+
+#2023-05-28 16:11:54->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed54_itr0
+normed mse:0.2457, mae:0.3476, rmse:0.4957
+
+
+#2023-05-28 16:12:04->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_seed117_itr0
+normed mse:0.2843, mae:0.3773, rmse:0.5332
+
+
