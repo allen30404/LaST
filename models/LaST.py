@@ -233,12 +233,12 @@ class TNet(nn.Module):
         self.Decoder_Muti_Scale = Decoder_Muti_Scale
         self.Encoder_Fusion = Encoder_Fusion
 
-        """ Muti-Scale Encoder"""
+
         # kernal最大設置
         self.kernel_max = math.floor(math.log((self.seq_len/2),2))+1
 
         
-        """Time-Aware Fusion"""
+        """Encoder Time-Aware Fusion"""
         if self.Encoder_Fusion == True:
             self.conv1d_dilation_fusion = nn.ModuleList([nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,kernel_size=1,padding='same'),
                                                     nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,dilation=2,kernel_size=3,padding='same'),
@@ -247,7 +247,7 @@ class TNet(nn.Module):
             self.conv1d_redu_fusion = nn.Conv1d(in_channels=3*in_dim,out_channels=in_dim,kernel_size=1,padding='same')
 
 
-
+        """ Muti-Scale Encoder"""
         if self.Encoder_Muti_Scale == True:
             # Conv1d設置
             self.conv1d_muti_scale = nn.ModuleList([nn.Conv1d(in_channels=in_dim,out_channels=in_dim,kernel_size=int(math.pow(2,k)),padding='same') for k in range(self.kernel_max)])
@@ -313,11 +313,6 @@ class TNet(nn.Module):
         """Latent Space"""   
         qz_t, mean_qz_t, var_qz_t = self.VarUnit_t(x_his)
 
-        """Reconstruction""" 
-        xt_rec = self.RecUnit_t(qz_t)
-        elbo_t = trend_sim(xt_rec, x_his) - self.VarUnit_t.compute_KL(qz_t, mean_qz_t, var_qz_t)
-        mlbo_t = self.VarUnit_t.compute_MLBO(x_his, qz_t)
-
 
         """Muti-Scale Decoder"""    
         if self.Decoder_Muti_Scale == True:
@@ -336,6 +331,15 @@ class TNet(nn.Module):
             xt_rec = self.RecUnit_t(qz_t_rec)
         else:
             xt_rec = self.RecUnit_t(qz_t)
+
+
+        """Reconstruction""" 
+        #xt_rec = self.RecUnit_t(qz_t)
+        elbo_t = trend_sim(xt_rec, x_his) - self.VarUnit_t.compute_KL(qz_t, mean_qz_t, var_qz_t)
+        mlbo_t = self.VarUnit_t.compute_MLBO(x_his, qz_t)
+
+
+        
             
         # mlp
         if len(x_his.shape) == 3:
