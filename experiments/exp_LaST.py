@@ -61,6 +61,7 @@ class Exp_LaST(Exp_Basic):
             Encoder_Muti_Scale = self.args.Encoder_Muti_Scale,
             Decoder_Muti_Scale = self.args.Decoder_Muti_Scale,
             Mean_Var_Model = self.args.Mean_Var_Model,
+            Encoder_Fusion = self.args.Encoder_Fusion,
             dropout=self.args.dropout, device=self._acquire_device())
         return model.double()
 
@@ -78,7 +79,6 @@ class Exp_LaST(Exp_Basic):
         }
         Data = data_dict[self.args.data]
         timeenc = 0 if args.embed != 'timeF' else 1
-
         if flag == 'test':
             shuffle_flag = False
             drop_last = True
@@ -306,7 +306,10 @@ class Exp_LaST(Exp_Basic):
         with open('exp_record.txt', 'a') as f:
             f.write('#'+time_exp+'->'+setting+'\n')
             f.write('normed mse:{:.4f}, mae:{:.4f}, rmse:{:.4f}'.format(mse, mae, rmse)+'\n')
-            f.write('\n'+'\n')
+            f.write('denormed mse:{:.4f}, mae:{:.4f}, rmse:{:.4f}'.format(mses, maes, rmses)+'\n')
+            f.write('normed mse:{:.4f}, mae:{:.4f}, rmse:{:.4f}'.format(mse, mae, rmse)+'\n')
+            f.write('TTTT denormed mse:{:.4f}, mae:{:.4f}, rmse:{:.4f}'.format(mses, maes, rmses)+'\n')
+            f.write('\n'+'\n'+'\n'+'\n')
 
 
         return mae, maes, mse, mses

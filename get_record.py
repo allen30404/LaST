@@ -3,8 +3,8 @@ import csv
 import pandas as pd
 
 
-folder = "EXP_Record/Weather_M_enmutiTrue_demutiFalse_MVMmlp"
-str1 = "LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp"
+folder = "EXP_Record/ETTh1_S_enmutiTrue_demutiTrue_MVMmlp_efuTrue"
+str1 = "LaST_Electricity_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_seed"
 result=[]
 with open('exp_record.txt','r') as f:
     for line in f:

@@ -6,3 +6,5 @@
 /datasets/*
 
 
+# 忽略sh檔
+/*.sh

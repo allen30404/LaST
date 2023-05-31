@@ -162,14 +162,14 @@ class CalculateMubo(nn.Module):
 
 
 class LaSTBlock(nn.Module):
-    def __init__(self, in_dim, out_dim, seq_len, pred_len, s_func, inner_s, t_func, inner_t,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model, dropout=0.1):
+    def __init__(self, in_dim, out_dim, seq_len, pred_len, s_func, inner_s, t_func, inner_t,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion, dropout=0.1):
         super().__init__()
         self.input_dim = in_dim
         self.out_dim = out_dim
         self.seq_len = seq_len
         self.pred_len = pred_len
         self.SNet = s_func(in_dim, out_dim, seq_len, pred_len, inner_s,Mean_Var_Model, dropout=dropout)
-        self.TNet = t_func(in_dim, out_dim, seq_len, pred_len, inner_t,Encoder_Muti_Scale, Decoder_Muti_Scale,Mean_Var_Model,dropout=dropout)
+        self.TNet = t_func(in_dim, out_dim, seq_len, pred_len, inner_t,Encoder_Muti_Scale, Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion,dropout=dropout)
         self.MuboNet = CalculateMubo(inner_s, inner_t, dropout=dropout)
 
     def forward(self, x_his):
@@ -219,7 +219,7 @@ class SNet(nn.Module):
 
 
 class TNet(nn.Module):
-    def __init__(self, in_dim, out_dim, seq_len, pred_len, inner_t,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model, dropout=0.1):
+    def __init__(self, in_dim, out_dim, seq_len, pred_len, inner_t,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion, dropout=0.1):
         super().__init__()
         self.in_dim = in_dim
         self.out_dim = out_dim
@@ -231,11 +231,22 @@ class TNet(nn.Module):
         self.Mean_Var_Model = Mean_Var_Model
         self.Encoder_Muti_Scale = Encoder_Muti_Scale
         self.Decoder_Muti_Scale = Decoder_Muti_Scale
+        self.Encoder_Fusion = Encoder_Fusion
+
         """ Muti-Scale Encoder"""
-
-
         # kernal最大設置
         self.kernel_max = math.floor(math.log((self.seq_len/2),2))+1
+
+        
+        """Time-Aware Fusion"""
+        if self.Encoder_Fusion == True:
+            self.conv1d_dilation_fusion = nn.ModuleList([nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,kernel_size=1,padding='same'),
+                                                    nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,dilation=2,kernel_size=3,padding='same'),
+                                                    nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,dilation=3,kernel_size=3,padding='same')])
+    
+            self.conv1d_redu_fusion = nn.Conv1d(in_channels=3*in_dim,out_channels=in_dim,kernel_size=1,padding='same')
+
+
 
         if self.Encoder_Muti_Scale == True:
             # Conv1d設置
@@ -246,9 +257,16 @@ class TNet(nn.Module):
 
         """Muti-Scale Decoder"""
         if self.Decoder_Muti_Scale == True:
-            self.deconv1d_muti_scale = nn.ModuleList([nn.Conv1d(in_channels=inner_t,out_channels=inner_t,kernel_size=int(math.pow(2,k)),padding='same') for k in range(self.kernel_max)])
+            self.mlp = nn.Linear(201,202)
+            self.deconv1d_muti_scale =  nn.ModuleList([nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=1,padding=1,dilation=2,output_padding=1),
+                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=2,padding=1,output_padding=0),
+                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=4,padding=2,output_padding=0),
+                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=8,padding=4,output_padding=0),
+                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=16,padding=8,output_padding=0),
+                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=32,padding=16,output_padding=0),
+                                                    nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=64,padding=32,output_padding=0),])
 
-            self.decov1d_reduce = nn.Conv1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,kernel_size=1,padding='same')
+            self.decov1d_reduce = nn.ConvTranspose1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,kernel_size=1)
 
 
         """Latent Space"""     
@@ -266,6 +284,7 @@ class TNet(nn.Module):
         """Muti-Scale Encoder"""
         # Muti-Scale Encoder
         if self.Encoder_Muti_Scale == True:
+            
             x_his = x_his.permute(0,2,1)
             for i in range(self.kernel_max):
                 out = self.conv1d_muti_scale[i](x_his)
@@ -273,9 +292,22 @@ class TNet(nn.Module):
                     out_muti_scale = out
                 else:
                     out_muti_scale = torch.cat([out_muti_scale,out], dim=1)
+            
+        """Fusion Encoder"""   
+        if self.Encoder_Fusion == True:
+            for k in range(3):
+                fusion = self.conv1d_dilation_fusion[k](out_muti_scale)
+                if k == 0:
+                    out_fusion = fusion
+                else:
+                    out_fusion = torch.cat([out_fusion,fusion], dim=1)
+
+            x_his = self.conv1d_redu_fusion(out_fusion)
+        else:
             # Conv1d
             x_his = self.conv1d_redu(out_muti_scale)
-            x_his = x_his.permute(0,2,1) 
+
+        x_his = x_his.permute(0,2,1) 
 
 
         """Latent Space"""   
@@ -290,7 +322,7 @@ class TNet(nn.Module):
         """Muti-Scale Decoder"""    
         if self.Decoder_Muti_Scale == True:
             qz_t_rec = qz_t.permute(0,2,1)
-    
+            qz_t_rec = self.mlp(qz_t_rec)
             for j in range(self.kernel_max):
                 out_de = self.deconv1d_muti_scale[j](qz_t_rec)
                 #print(out_de.size())
@@ -315,7 +347,7 @@ class TNet(nn.Module):
 
 
 class LaST(nn.Module):
-    def __init__(self, input_len, output_len, input_dim, out_dim,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model, var_num=1, latent_dim=64, dropout=0.1,
+    def __init__(self, input_len, output_len, input_dim, out_dim,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion, var_num=1, latent_dim=64, dropout=0.1,
                  device="cuda:0"):
         super(LaST, self).__init__()
         print("------------LaST Net---------------")
@@ -333,9 +365,10 @@ class LaST(nn.Module):
         self.Encoder_Muti_Scale = Encoder_Muti_Scale
         self.Decoder_Muti_Scale = Decoder_Muti_Scale
         self.Mean_Var_Model = Mean_Var_Model
+        self.Encoder_Fusion = Encoder_Fusion
 
         self.LaSTLayer = LaSTBlock(self.in_dim, self.out_dim, input_len, output_len, SNet, self.inner_s, TNet,
-                                   self.inner_t,self.Encoder_Muti_Scale,self.Decoder_Muti_Scale,self.Mean_Var_Model, dropout=dropout)
+                                   self.inner_t,self.Encoder_Muti_Scale,self.Decoder_Muti_Scale,self.Mean_Var_Model,self.Encoder_Fusion, dropout=dropout)
 
     def forward(self, x, x_mark=None):
         b, t, _ = x.shape
