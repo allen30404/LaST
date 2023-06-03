@@ -162,14 +162,14 @@ class CalculateMubo(nn.Module):
 
 
 class LaSTBlock(nn.Module):
-    def __init__(self, in_dim, out_dim, seq_len, pred_len, s_func, inner_s, t_func, inner_t,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion, dropout=0.1):
+    def __init__(self, in_dim, out_dim, seq_len, pred_len, s_func, inner_s, t_func, inner_t,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion,Decoder_Fusion, dropout=0.1):
         super().__init__()
         self.input_dim = in_dim
         self.out_dim = out_dim
         self.seq_len = seq_len
         self.pred_len = pred_len
         self.SNet = s_func(in_dim, out_dim, seq_len, pred_len, inner_s,Mean_Var_Model, dropout=dropout)
-        self.TNet = t_func(in_dim, out_dim, seq_len, pred_len, inner_t,Encoder_Muti_Scale, Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion,dropout=dropout)
+        self.TNet = t_func(in_dim, out_dim, seq_len, pred_len, inner_t,Encoder_Muti_Scale, Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion,Decoder_Fusion,dropout=dropout)
         self.MuboNet = CalculateMubo(inner_s, inner_t, dropout=dropout)
 
     def forward(self, x_his):
@@ -219,7 +219,7 @@ class SNet(nn.Module):
 
 
 class TNet(nn.Module):
-    def __init__(self, in_dim, out_dim, seq_len, pred_len, inner_t,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion, dropout=0.1):
+    def __init__(self, in_dim, out_dim, seq_len, pred_len, inner_t,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion,Decoder_Fusion, dropout=0.1):
         super().__init__()
         self.in_dim = in_dim
         self.out_dim = out_dim
@@ -232,7 +232,7 @@ class TNet(nn.Module):
         self.Encoder_Muti_Scale = Encoder_Muti_Scale
         self.Decoder_Muti_Scale = Decoder_Muti_Scale
         self.Encoder_Fusion = Encoder_Fusion
-
+        self.Decoder_Fusion = Decoder_Fusion
 
         # kernal最大設置
         self.kernel_max = math.floor(math.log((self.seq_len/2),2))+1
@@ -245,7 +245,15 @@ class TNet(nn.Module):
                                                     nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,dilation=3,kernel_size=3,padding='same')])
     
             self.conv1d_redu_fusion = nn.Conv1d(in_channels=3*in_dim,out_channels=in_dim,kernel_size=1,padding='same')
+        
+        """Decoder Time-Aware Fusion"""
+        if self.Decoder_Fusion == True:
+            self.deconv1d_dilation_fusion = nn.ModuleList([nn.ConvTranspose1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,kernel_size=1),
+                                                    nn.ConvTranspose1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,dilation=2,kernel_size=3),
+                                                    nn.ConvTranspose1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,dilation=3,kernel_size=3)])
 
+            self.deconv1d_redu_fusion = nn.ConvTranspose1d(in_channels=3*inner_t,out_channels=inner_t,kernel_size=1)
+            self.mlp_to_201 = nn.ModuleList([nn.Linear(205,201),nn.Linear(207,201)])
 
         """ Muti-Scale Encoder"""
         if self.Encoder_Muti_Scale == True:
@@ -257,7 +265,7 @@ class TNet(nn.Module):
 
         """Muti-Scale Decoder"""
         if self.Decoder_Muti_Scale == True:
-            self.mlp = nn.Linear(201,202)
+            self.mlp_to_202 = nn.Linear(201,202)
             self.deconv1d_muti_scale =  nn.ModuleList([nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=1,padding=1,dilation=2,output_padding=1),
                                                     nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=2,padding=1,output_padding=0),
                                                     nn.ConvTranspose1d(in_channels=inner_t,out_channels=inner_t,kernel_size=4,padding=2,output_padding=0),
@@ -281,60 +289,82 @@ class TNet(nn.Module):
         self.t_pred_2 = FeedNet(self.inner_t, self.out_dim, type="mlp", n_layers=1)
 
     def forward(self, x_his):
+
         """Muti-Scale Encoder"""
-        # Muti-Scale Encoder
+        #print("Original->",x_his.size())
         if self.Encoder_Muti_Scale == True:
             
             x_his = x_his.permute(0,2,1)
             for i in range(self.kernel_max):
-                out = self.conv1d_muti_scale[i](x_his)
+                Encoder_Multi_Scale_Out = self.conv1d_muti_scale[i](x_his)
                 if i == 0 :
-                    out_muti_scale = out
+                    Encoder_Multi_Scale_Out_Concat = Encoder_Multi_Scale_Out
                 else:
-                    out_muti_scale = torch.cat([out_muti_scale,out], dim=1)
-            
-        """Fusion Encoder"""   
-        if self.Encoder_Fusion == True:
-            for k in range(3):
-                fusion = self.conv1d_dilation_fusion[k](out_muti_scale)
-                if k == 0:
-                    out_fusion = fusion
-                else:
-                    out_fusion = torch.cat([out_fusion,fusion], dim=1)
+                    Encoder_Multi_Scale_Out_Concat = torch.cat([Encoder_Multi_Scale_Out_Concat,Encoder_Multi_Scale_Out], dim=1)
+            #print("Encoder_Multi_Scale->",Encoder_Multi_Scale_Out_Concat.size())  
 
-            x_his = self.conv1d_redu_fusion(out_fusion)
-        else:
-            # Conv1d
-            x_his = self.conv1d_redu(out_muti_scale)
-
-        x_his = x_his.permute(0,2,1) 
+            """Fusion Encoder"""   
+            if self.Encoder_Fusion == True:
+                for k in range(3):
+                    Encoder_Fusion_Out = self.conv1d_dilation_fusion[k](Encoder_Multi_Scale_Out_Concat)
+                    if k == 0:
+                        Encoder_Fusion_Out_Concat = Encoder_Fusion_Out
+                    else:
+                        Encoder_Fusion_Out_Concat = torch.cat([Encoder_Fusion_Out_Concat,Encoder_Fusion_Out], dim=1)
+                #print("Encoder_Fusion->",Encoder_Fusion_Out_Concat.size()) 
+                x_his = self.conv1d_redu_fusion(Encoder_Fusion_Out_Concat)
+                #print("Encoder_Fusion->conv1d->",x_his.size()) 
+            else:
+                # Conv1d
+                x_his = self.conv1d_redu(Encoder_Multi_Scale_Out_Concat)
+                #print("Encoder_Multi_Scale->conv1d->",x_his.size()) 
+            x_his = x_his.permute(0,2,1) 
 
 
         """Latent Space"""   
         qz_t, mean_qz_t, var_qz_t = self.VarUnit_t(x_his)
 
+        #print("Latent Space->",qz_t.size()) 
 
         """Muti-Scale Decoder"""    
         if self.Decoder_Muti_Scale == True:
             qz_t_rec = qz_t.permute(0,2,1)
-            qz_t_rec = self.mlp(qz_t_rec)
+            qz_t_rec = self.mlp_to_202(qz_t_rec)
             for j in range(self.kernel_max):
-                out_de = self.deconv1d_muti_scale[j](qz_t_rec)
-                #print(out_de.size())
+                Decoder_Multi_Scale_Out = self.deconv1d_muti_scale[j](qz_t_rec)
+     
                 if j == 0:
-                    out_de_muti_scale = out_de
+                    Decoder_Multi_Scale_Out_Concat = Decoder_Multi_Scale_Out
                 else:
-                    out_de_muti_scale = torch.cat([out_de_muti_scale,out_de], dim=1)
-
-            out_de_muti_scale = self.decov1d_reduce(out_de_muti_scale)
-            qz_t_rec = out_de_muti_scale.permute(0,2,1)
+                    Decoder_Multi_Scale_Out_Concat = torch.cat([Decoder_Multi_Scale_Out_Concat,Decoder_Multi_Scale_Out], dim=1)
+            #print("Decoder_Multi_Scale->",Decoder_Multi_Scale_Out_Concat.size()) 
+            
+            """Fusion Decoder""" 
+            if self.Decoder_Fusion == True:
+                for l in range(3):
+                    Decoder_Fusion_Out = self.deconv1d_dilation_fusion[l](Decoder_Multi_Scale_Out_Concat)
+                    if l == 0:
+                        Decoder_Fusion_Out_Concat = Decoder_Fusion_Out
+                    else:
+                        Decoder_Fusion_Out = self.mlp_to_201[l-1](Decoder_Fusion_Out)
+                        Decoder_Fusion_Out_Concat = torch.cat([Decoder_Fusion_Out_Concat,Decoder_Fusion_Out], dim=1)
+                #print("Decoder_Fusion->",Decoder_Fusion_Out_Concat.size()) 
+                Decoder_Multi_Scale_Out_Concat = self.deconv1d_redu_fusion(Decoder_Fusion_Out_Concat)
+                #print("Decoder_Fusion->conv1d->",Decoder_Multi_Scale_Out_Concat.size()) 
+            else:
+                Decoder_Multi_Scale_Out_Concat = self.decov1d_reduce(Decoder_Multi_Scale_Out_Concat)
+                #print("Decoder_Multi_Scale->conv1d->",Decoder_Multi_Scale_Out_Concat.size()) 
+    
+            qz_t_rec = Decoder_Multi_Scale_Out_Concat.permute(0,2,1)
             xt_rec = self.RecUnit_t(qz_t_rec)
         else:
             xt_rec = self.RecUnit_t(qz_t)
 
+        #print("重建資料",xt_rec.size()) 
+    
 
-        """Reconstruction""" 
-        #xt_rec = self.RecUnit_t(qz_t)
+
+
         elbo_t = trend_sim(xt_rec, x_his) - self.VarUnit_t.compute_KL(qz_t, mean_qz_t, var_qz_t)
         mlbo_t = self.VarUnit_t.compute_MLBO(x_his, qz_t)
 
@@ -351,7 +381,7 @@ class TNet(nn.Module):
 
 
 class LaST(nn.Module):
-    def __init__(self, input_len, output_len, input_dim, out_dim,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion, var_num=1, latent_dim=64, dropout=0.1,
+    def __init__(self, input_len, output_len, input_dim, out_dim,Encoder_Muti_Scale,Decoder_Muti_Scale,Mean_Var_Model,Encoder_Fusion,Decoder_Fusion,var_num=1, latent_dim=64, dropout=0.1,
                  device="cuda:0"):
         super(LaST, self).__init__()
         print("------------LaST Net---------------")
@@ -370,9 +400,10 @@ class LaST(nn.Module):
         self.Decoder_Muti_Scale = Decoder_Muti_Scale
         self.Mean_Var_Model = Mean_Var_Model
         self.Encoder_Fusion = Encoder_Fusion
+        self.Decoder_Fusion = Decoder_Fusion
 
         self.LaSTLayer = LaSTBlock(self.in_dim, self.out_dim, input_len, output_len, SNet, self.inner_s, TNet,
-                                   self.inner_t,self.Encoder_Muti_Scale,self.Decoder_Muti_Scale,self.Mean_Var_Model,self.Encoder_Fusion, dropout=dropout)
+                                   self.inner_t,self.Encoder_Muti_Scale,self.Decoder_Muti_Scale,self.Mean_Var_Model,self.Encoder_Fusion,Decoder_Fusion, dropout=dropout)
 
     def forward(self, x, x_mark=None):
         b, t, _ = x.shape

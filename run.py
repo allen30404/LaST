@@ -62,6 +62,7 @@ parser.add_argument('--seed', type=int, default=4321, help='random seed')
 parser.add_argument('--Encoder_Muti_Scale', action="store_true", help='Use Muti_Scale in Encoder or not')
 parser.add_argument('--Decoder_Muti_Scale', action="store_true", help='Use Muti_Scale in Decoder or not') 
 parser.add_argument('--Encoder_Fusion', action="store_true", help='Use Fusion in Encoder or not')
+parser.add_argument('--Decoder_Fusion', action="store_true", help='Use Fusion in Decoder or not')
 parser.add_argument('--Mean_Var_Model', required=True, type=str, default='mlp', help='Mean_Var_Model[mlp,Conv]')
 
 args = parser.parse_args()
@@ -92,6 +93,7 @@ if args.data in data_parser.keys():
 
 args.detail_freq = args.freq
 args.freq = args.freq[-1:]
+
 print('Args in experiment:')
 print(args)
 
@@ -110,7 +112,7 @@ mse_ = []
 mses_ = []
 
 if args.evaluate:
-    setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_enfu{}_seed{}_itr0'.format(args.model, args.data,
+    setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_enfu{}_defu{}_seed{}_itr0'.format(args.model, args.data,
                                                                               args.features,
                                                                               args.seq_len,
                                                                               args.label_len,
@@ -122,6 +124,7 @@ if args.evaluate:
                                                                               args.Decoder_Muti_Scale,
                                                                               args.Mean_Var_Model,
                                                                               args.Encoder_Fusion,
+                                                                              args.Decoder_Fusion,
                                                                               args.seed)
     exp = Exp(args)  # set experiments
     print('>>>>>>>testing : {}<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<'.format(setting))
@@ -131,7 +134,7 @@ else:
     if args.itr:
         for ii in range(args.itr):
             # setting record of experiments
-            setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_enfu{}_seed{}_itr{}'.format(args.model, args.data,
+            setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_enfu{}_defu{}_seed{}_itr{}'.format(args.model, args.data,
                                                                                        args.features,
                                                                                        args.seq_len,
                                                                                        args.label_len,
@@ -143,6 +146,7 @@ else:
                                                                                        args.Decoder_Muti_Scale,
                                                                                        args.Mean_Var_Model,
                                                                                        args.Encoder_Fusion,
+                                                                                       args.Decoder_Fusion,
                                                                                        args.seed, ii)
 
             exp = Exp(args)  # set experiments
@@ -168,7 +172,7 @@ else:
         print('Final min normed mse:{:.4f}, mae:{:.4f}'.format(min(mse_), min(mae_)))
         print('Final min denormed mse:{:.4f}, mae:{:.4f}'.format(min(mses_), min(maes_)))
     else:
-        setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_enfu{}_seed{}_itr0'.format(args.model, args.data,
+        setting = '{}_{}_ft{}_sl{}_ll{}_pl{}_lr{}_bs{}_ls{}_dp{}_enmuti{}_demuti{}_MVM{}_enfu{}_defu{}_seed{}_itr0'.format(args.model, args.data,
                                                                                   args.features,
                                                                                   args.seq_len,
                                                                                   args.label_len,
@@ -180,6 +184,7 @@ else:
                                                                                   args.Decoder_Muti_Scale,
                                                                                   args.Mean_Var_Model,
                                                                                   args.Encoder_Fusion,
+                                                                                  args.Decoder_Fusion,
                                                                                   args.seed)
         exp = Exp(args)  # set experiments
         print('>>>>>>>start training : {}>>>>>>>>>>>>>>>>>>>>>>>>>>'.format(setting))

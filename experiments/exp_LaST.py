@@ -62,6 +62,7 @@ class Exp_LaST(Exp_Basic):
             Decoder_Muti_Scale = self.args.Decoder_Muti_Scale,
             Mean_Var_Model = self.args.Mean_Var_Model,
             Encoder_Fusion = self.args.Encoder_Fusion,
+            Decoder_Fusion = self.args.Decoder_Fusion,
             dropout=self.args.dropout, device=self._acquire_device())
         return model.double()
 
@@ -79,6 +80,7 @@ class Exp_LaST(Exp_Basic):
         }
         Data = data_dict[self.args.data]
         timeenc = 0 if args.embed != 'timeF' else 1
+
         if flag == 'test':
             shuffle_flag = False
             drop_last = True
@@ -114,7 +116,6 @@ class Exp_LaST(Exp_Basic):
             shuffle=shuffle_flag,
             num_workers=args.num_workers,
             drop_last=drop_last)
-
         return data_set, data_loader
 
     def _select_optimizer(self):

@@ -14253,3 +14253,3190 @@ TTTT denormed mse:7.3495, mae:2.1709, rmse:2.7110
 
 
 
+#2023-06-01 00:41:34->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed159_itr0
+normed mse:0.0886, mae:0.2359, rmse:0.2977
+denormed mse:7.4627, mae:2.1649, rmse:2.7318
+normed mse:0.0886, mae:0.2359, rmse:0.2977
+TTTT denormed mse:7.4627, mae:2.1649, rmse:2.7318
+
+
+
+
+#2023-06-01 00:41:33->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed159_itr0
+normed mse:0.0886, mae:0.2359, rmse:0.2977
+denormed mse:7.4627, mae:2.1649, rmse:2.7318
+normed mse:0.0886, mae:0.2359, rmse:0.2977
+TTTT denormed mse:7.4627, mae:2.1649, rmse:2.7318
+
+
+
+
+#2023-06-01 00:41:07->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed12_itr0
+normed mse:0.1727, mae:0.3419, rmse:0.4155
+denormed mse:14.5404, mae:3.1378, rmse:3.8132
+normed mse:0.1727, mae:0.3419, rmse:0.4155
+TTTT denormed mse:14.5404, mae:3.1378, rmse:3.8132
+
+
+
+
+#2023-06-01 00:41:10->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed33_itr0
+normed mse:0.1933, mae:0.3656, rmse:0.4397
+denormed mse:16.2789, mae:3.3547, rmse:4.0347
+normed mse:0.1933, mae:0.3656, rmse:0.4397
+TTTT denormed mse:16.2789, mae:3.3547, rmse:4.0347
+
+
+
+
+#2023-06-01 00:41:30->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed138_itr0
+normed mse:0.1777, mae:0.3478, rmse:0.4215
+denormed mse:14.9626, mae:3.1915, rmse:3.8682
+normed mse:0.1777, mae:0.3478, rmse:0.4215
+TTTT denormed mse:14.9626, mae:3.1915, rmse:3.8682
+
+
+
+
+#2023-06-01 00:41:26->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed117_itr0
+normed mse:0.1721, mae:0.3417, rmse:0.4149
+denormed mse:14.4942, mae:3.1354, rmse:3.8071
+normed mse:0.1721, mae:0.3417, rmse:0.4149
+TTTT denormed mse:14.4942, mae:3.1354, rmse:3.8071
+
+
+
+
+#2023-06-01 00:41:12->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed54_itr0
+normed mse:0.1009, mae:0.2483, rmse:0.3176
+denormed mse:8.4926, mae:2.2789, rmse:2.9142
+normed mse:0.1009, mae:0.2483, rmse:0.3176
+TTTT denormed mse:8.4926, mae:2.2789, rmse:2.9142
+
+
+
+
+#2023-06-01 00:40:32->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed0_itr0
+normed mse:0.1590, mae:0.3088, rmse:0.3988
+denormed mse:13.3926, mae:2.8334, rmse:3.6596
+normed mse:0.1590, mae:0.3088, rmse:0.3988
+TTTT denormed mse:13.3926, mae:2.8334, rmse:3.6596
+
+
+
+
+#2023-06-01 00:41:29->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed138_itr0
+normed mse:0.0906, mae:0.2361, rmse:0.3009
+denormed mse:7.6251, mae:2.1670, rmse:2.7614
+normed mse:0.0906, mae:0.2361, rmse:0.3009
+TTTT denormed mse:7.6251, mae:2.1670, rmse:2.7614
+
+
+
+
+#2023-06-01 03:16:11->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed160_itr0
+normed mse:0.0880, mae:0.2386, rmse:0.2967
+denormed mse:7.4127, mae:2.1897, rmse:2.7226
+normed mse:0.0880, mae:0.2386, rmse:0.2967
+TTTT denormed mse:7.4127, mae:2.1897, rmse:2.7226
+
+
+
+
+#2023-06-01 03:19:54->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed160_itr0
+normed mse:0.0880, mae:0.2386, rmse:0.2967
+denormed mse:7.4127, mae:2.1897, rmse:2.7226
+normed mse:0.0880, mae:0.2386, rmse:0.2967
+TTTT denormed mse:7.4127, mae:2.1897, rmse:2.7226
+
+
+
+
+#2023-06-01 00:41:25->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed117_itr0
+normed mse:0.0765, mae:0.2093, rmse:0.2766
+denormed mse:6.4405, mae:1.9209, rmse:2.5378
+normed mse:0.0765, mae:0.2093, rmse:0.2766
+TTTT denormed mse:6.4405, mae:1.9209, rmse:2.5378
+
+
+
+
+#2023-06-01 00:41:06->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed12_itr0
+normed mse:0.0766, mae:0.2094, rmse:0.2767
+denormed mse:6.4472, mae:1.9212, rmse:2.5391
+normed mse:0.0766, mae:0.2094, rmse:0.2767
+TTTT denormed mse:6.4472, mae:1.9212, rmse:2.5391
+
+
+
+
+#2023-06-01 00:41:32->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed159_itr0
+normed mse:0.0727, mae:0.2051, rmse:0.2697
+denormed mse:6.1257, mae:1.8818, rmse:2.4750
+normed mse:0.0727, mae:0.2051, rmse:0.2697
+TTTT denormed mse:6.1257, mae:1.8818, rmse:2.4750
+
+
+
+
+#2023-06-01 00:40:31->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed0_itr0
+normed mse:0.1020, mae:0.2499, rmse:0.3194
+denormed mse:8.5900, mae:2.2931, rmse:2.9309
+normed mse:0.1020, mae:0.2499, rmse:0.3194
+TTTT denormed mse:8.5900, mae:2.2931, rmse:2.9309
+
+
+
+
+#2023-06-01 00:41:26->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed117_itr0
+normed mse:0.0916, mae:0.2378, rmse:0.3027
+denormed mse:7.7167, mae:2.1824, rmse:2.7779
+normed mse:0.0916, mae:0.2378, rmse:0.3027
+TTTT denormed mse:7.7167, mae:2.1824, rmse:2.7779
+
+
+
+
+
+#2023-06-01 00:41:18->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed75_itr0
+normed mse:0.1625, mae:0.3301, rmse:0.4031
+denormed mse:13.6852, mae:3.0288, rmse:3.6994
+normed mse:0.1625, mae:0.3301, rmse:0.4031
+TTTT denormed mse:13.6852, mae:3.0288, rmse:3.6994
+
+
+
+
+#2023-06-01 00:41:14->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed54_itr0
+normed mse:0.1493, mae:0.3141, rmse:0.3865
+denormed mse:12.5762, mae:2.8823, rmse:3.5463
+normed mse:0.1493, mae:0.3141, rmse:0.3865
+TTTT denormed mse:12.5762, mae:2.8823, rmse:3.5463
+
+
+
+
+#2023-06-01 00:41:22->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed96_itr0
+normed mse:0.1674, mae:0.3357, rmse:0.4092
+denormed mse:14.0986, mae:3.0807, rmse:3.7548
+normed mse:0.1674, mae:0.3357, rmse:0.4092
+TTTT denormed mse:14.0986, mae:3.0807, rmse:3.7548
+
+
+
+
+#2023-06-01 00:41:17->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed75_itr0
+normed mse:0.0775, mae:0.2094, rmse:0.2784
+denormed mse:6.5267, mae:1.9219, rmse:2.5547
+normed mse:0.0775, mae:0.2094, rmse:0.2784
+TTTT denormed mse:6.5267, mae:1.9219, rmse:2.5547
+
+
+
+
+#2023-06-01 04:17:34->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed139_itr0
+normed mse:0.1705, mae:0.3393, rmse:0.4129
+denormed mse:14.3561, mae:3.1140, rmse:3.7889
+normed mse:0.1705, mae:0.3393, rmse:0.4129
+TTTT denormed mse:14.3561, mae:3.1140, rmse:3.7889
+
+
+
+
+#2023-06-01 00:40:32->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed0_itr0
+normed mse:0.0868, mae:0.2315, rmse:0.2947
+denormed mse:7.3113, mae:2.1248, rmse:2.7039
+normed mse:0.0868, mae:0.2315, rmse:0.2947
+TTTT denormed mse:7.3113, mae:2.1248, rmse:2.7039
+
+
+
+
+#2023-06-01 04:45:44->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed1_itr0
+normed mse:0.0756, mae:0.2114, rmse:0.2750
+denormed mse:6.3680, mae:1.9398, rmse:2.5235
+normed mse:0.0756, mae:0.2114, rmse:0.2750
+TTTT denormed mse:6.3680, mae:1.9398, rmse:2.5235
+
+
+
+
+#2023-06-01 00:41:20->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed96_itr0
+normed mse:0.0763, mae:0.2081, rmse:0.2763
+denormed mse:6.4269, mae:1.9096, rmse:2.5351
+normed mse:0.0763, mae:0.2081, rmse:0.2763
+TTTT denormed mse:6.4269, mae:1.9096, rmse:2.5351
+
+
+
+
+#2023-06-01 00:41:09->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed33_itr0
+normed mse:0.0769, mae:0.2092, rmse:0.2774
+denormed mse:6.4778, mae:1.9200, rmse:2.5452
+normed mse:0.0769, mae:0.2092, rmse:0.2774
+TTTT denormed mse:6.4778, mae:1.9200, rmse:2.5452
+
+
+
+
+#2023-06-01 00:41:28->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed138_itr0
+normed mse:0.0503, mae:0.1687, rmse:0.2244
+denormed mse:4.2389, mae:1.5482, rmse:2.0589
+normed mse:0.0503, mae:0.1687, rmse:0.2244
+TTTT denormed mse:4.2389, mae:1.5482, rmse:2.0589
+
+
+
+
+#2023-06-01 00:41:17->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed75_itr0
+normed mse:0.0986, mae:0.2441, rmse:0.3140
+denormed mse:8.3046, mae:2.2404, rmse:2.8818
+normed mse:0.0986, mae:0.2441, rmse:0.3140
+TTTT denormed mse:8.3046, mae:2.2404, rmse:2.8818
+
+
+
+
+#2023-06-01 04:52:35->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed139_itr0
+normed mse:0.0972, mae:0.2437, rmse:0.3118
+denormed mse:8.1862, mae:2.2363, rmse:2.8612
+normed mse:0.0972, mae:0.2437, rmse:0.3118
+TTTT denormed mse:8.1862, mae:2.2363, rmse:2.8612
+
+
+
+
+#2023-06-01 00:41:06->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed12_itr0
+normed mse:0.0998, mae:0.2456, rmse:0.3159
+denormed mse:8.4015, mae:2.2538, rmse:2.8985
+normed mse:0.0998, mae:0.2456, rmse:0.3159
+TTTT denormed mse:8.4015, mae:2.2538, rmse:2.8985
+
+
+
+
+#2023-06-01 00:41:12->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed54_itr0
+normed mse:0.0321, mae:0.1358, rmse:0.1791
+denormed mse:2.7017, mae:1.2464, rmse:1.6437
+normed mse:0.0321, mae:0.1358, rmse:0.1791
+TTTT denormed mse:2.7017, mae:1.2464, rmse:1.6437
+
+
+
+
+#2023-06-01 00:41:08->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed33_itr0
+normed mse:0.0489, mae:0.1660, rmse:0.2211
+denormed mse:4.1177, mae:1.5229, rmse:2.0292
+normed mse:0.0489, mae:0.1660, rmse:0.2211
+TTTT denormed mse:4.1177, mae:1.5229, rmse:2.0292
+
+
+
+
+#2023-06-01 03:07:39->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed34_itr0
+normed mse:0.0946, mae:0.2399, rmse:0.3076
+denormed mse:7.9678, mae:2.2011, rmse:2.8227
+normed mse:0.0946, mae:0.2399, rmse:0.3076
+TTTT denormed mse:7.9678, mae:2.2011, rmse:2.8227
+
+
+
+
+#2023-06-01 00:41:13->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed54_itr0
+normed mse:0.0799, mae:0.2118, rmse:0.2827
+denormed mse:6.7283, mae:1.9434, rmse:2.5939
+normed mse:0.0799, mae:0.2118, rmse:0.2827
+TTTT denormed mse:6.7283, mae:1.9434, rmse:2.5939
+
+
+
+
+#2023-06-01 04:00:05->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed34_itr0
+normed mse:0.1660, mae:0.3341, rmse:0.4075
+denormed mse:13.9812, mae:3.0657, rmse:3.7391
+normed mse:0.1660, mae:0.3341, rmse:0.4075
+TTTT denormed mse:13.9812, mae:3.0657, rmse:3.7391
+
+
+
+
+#2023-06-01 00:41:32->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed159_itr0
+normed mse:0.0483, mae:0.1644, rmse:0.2197
+denormed mse:4.0633, mae:1.5084, rmse:2.0158
+normed mse:0.0483, mae:0.1644, rmse:0.2197
+TTTT denormed mse:4.0633, mae:1.5084, rmse:2.0158
+
+
+
+
+#2023-06-01 00:41:20->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed96_itr0
+normed mse:0.0470, mae:0.1623, rmse:0.2167
+denormed mse:3.9543, mae:1.4893, rmse:1.9885
+normed mse:0.0470, mae:0.1623, rmse:0.2167
+TTTT denormed mse:3.9543, mae:1.4893, rmse:1.9885
+
+
+
+
+#2023-06-01 05:20:13->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed161_itr0
+normed mse:0.0939, mae:0.2401, rmse:0.3064
+denormed mse:7.9070, mae:2.2030, rmse:2.8119
+normed mse:0.0939, mae:0.2401, rmse:0.3064
+TTTT denormed mse:7.9070, mae:2.2030, rmse:2.8119
+
+
+
+
+#2023-06-01 03:43:08->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed13_itr0
+normed mse:0.1820, mae:0.3530, rmse:0.4266
+denormed mse:15.3232, mae:3.2397, rmse:3.9145
+normed mse:0.1820, mae:0.3530, rmse:0.4266
+TTTT denormed mse:15.3232, mae:3.2397, rmse:3.9145
+
+
+
+
+#2023-06-01 05:25:47->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed161_itr0
+normed mse:0.0939, mae:0.2401, rmse:0.3064
+denormed mse:7.9070, mae:2.2030, rmse:2.8119
+normed mse:0.0939, mae:0.2401, rmse:0.3064
+TTTT denormed mse:7.9070, mae:2.2030, rmse:2.8119
+
+
+
+
+#2023-06-01 00:41:24->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed117_itr0
+normed mse:0.0316, mae:0.1350, rmse:0.1778
+denormed mse:2.6618, mae:1.2389, rmse:1.6315
+normed mse:0.0316, mae:0.1350, rmse:0.1778
+TTTT denormed mse:2.6618, mae:1.2389, rmse:1.6315
+
+
+
+
+#2023-06-01 00:41:08->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed33_itr0
+normed mse:0.0302, mae:0.1314, rmse:0.1738
+denormed mse:2.5437, mae:1.2062, rmse:1.5949
+normed mse:0.0302, mae:0.1314, rmse:0.1738
+TTTT denormed mse:2.5437, mae:1.2062, rmse:1.5949
+
+
+
+
+#2023-06-01 00:41:19->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed96_itr0
+normed mse:0.0314, mae:0.1339, rmse:0.1772
+denormed mse:2.6429, mae:1.2286, rmse:1.6257
+normed mse:0.0314, mae:0.1339, rmse:0.1772
+TTTT denormed mse:2.6429, mae:1.2286, rmse:1.6257
+
+
+
+
+#2023-06-01 00:40:33->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed0_itr0
+normed mse:0.1784, mae:0.3489, rmse:0.4224
+denormed mse:15.0240, mae:3.2014, rmse:3.8761
+normed mse:0.1784, mae:0.3489, rmse:0.4224
+TTTT denormed mse:15.0240, mae:3.2014, rmse:3.8761
+
+
+
+
+#2023-06-01 07:22:41->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed97_itr0
+normed mse:0.1893, mae:0.3611, rmse:0.4351
+denormed mse:15.9416, mae:3.3141, rmse:3.9927
+normed mse:0.1893, mae:0.3611, rmse:0.4351
+TTTT denormed mse:15.9416, mae:3.3141, rmse:3.9927
+
+
+
+
+#2023-06-01 06:18:20->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed76_itr0
+normed mse:0.1513, mae:0.3165, rmse:0.3890
+denormed mse:12.7412, mae:2.9046, rmse:3.5695
+normed mse:0.1513, mae:0.3165, rmse:0.3890
+TTTT denormed mse:12.7412, mae:2.9046, rmse:3.5695
+
+
+
+
+#2023-06-01 05:52:58->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed160_itr0
+normed mse:0.0742, mae:0.2062, rmse:0.2724
+denormed mse:6.2479, mae:1.8921, rmse:2.4996
+normed mse:0.0742, mae:0.2062, rmse:0.2724
+TTTT denormed mse:6.2479, mae:1.8921, rmse:2.4996
+
+
+
+
+#2023-06-01 08:42:37->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed139_itr0
+normed mse:0.1069, mae:0.2569, rmse:0.3269
+denormed mse:8.9999, mae:2.3577, rmse:3.0000
+normed mse:0.1069, mae:0.2569, rmse:0.3269
+TTTT denormed mse:8.9999, mae:2.3577, rmse:3.0000
+
+
+
+
+#2023-06-01 06:25:31->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed55_itr0
+normed mse:0.1620, mae:0.3291, rmse:0.4024
+denormed mse:13.6386, mae:3.0197, rmse:3.6930
+normed mse:0.1620, mae:0.3291, rmse:0.4024
+TTTT denormed mse:13.6386, mae:3.0197, rmse:3.6930
+
+
+
+
+#2023-06-01 07:35:30->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed140_itr0
+normed mse:0.1508, mae:0.3164, rmse:0.3883
+denormed mse:12.6969, mae:2.9033, rmse:3.5633
+normed mse:0.1508, mae:0.3164, rmse:0.3883
+TTTT denormed mse:12.6969, mae:2.9033, rmse:3.5633
+
+
+
+
+#2023-06-01 00:41:24->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed117_itr0
+normed mse:0.0480, mae:0.1646, rmse:0.2190
+denormed mse:4.0398, mae:1.5104, rmse:2.0099
+normed mse:0.0480, mae:0.1646, rmse:0.2190
+TTTT denormed mse:4.0398, mae:1.5104, rmse:2.0099
+
+
+
+
+#2023-06-01 00:41:28->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed138_itr0
+normed mse:0.0772, mae:0.2087, rmse:0.2778
+denormed mse:6.4978, mae:1.9149, rmse:2.5491
+normed mse:0.0772, mae:0.2087, rmse:0.2778
+TTTT denormed mse:6.4978, mae:1.9149, rmse:2.5491
+
+
+
+
+#2023-06-01 07:30:10->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed76_itr0
+normed mse:0.0753, mae:0.2070, rmse:0.2744
+denormed mse:6.3390, mae:1.8994, rmse:2.5177
+normed mse:0.0753, mae:0.2070, rmse:0.2744
+TTTT denormed mse:6.3390, mae:1.8994, rmse:2.5177
+
+
+
+
+#2023-06-01 00:41:13->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed54_itr0
+normed mse:0.1006, mae:0.2466, rmse:0.3172
+denormed mse:8.4747, mae:2.2630, rmse:2.9111
+normed mse:0.1006, mae:0.2466, rmse:0.3172
+TTTT denormed mse:8.4747, mae:2.2630, rmse:2.9111
+
+
+
+
+#2023-06-01 06:13:56->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed118_itr0
+normed mse:0.0962, mae:0.2413, rmse:0.3101
+denormed mse:8.0987, mae:2.2141, rmse:2.8458
+normed mse:0.0962, mae:0.2413, rmse:0.3101
+TTTT denormed mse:8.0987, mae:2.2141, rmse:2.8458
+
+
+
+
+#2023-06-01 05:51:09->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed13_itr0
+normed mse:0.0808, mae:0.2133, rmse:0.2843
+denormed mse:6.8072, mae:1.9572, rmse:2.6091
+normed mse:0.0808, mae:0.2133, rmse:0.2843
+TTTT denormed mse:6.8072, mae:1.9572, rmse:2.6091
+
+
+
+
+#2023-06-01 00:41:32->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed159_itr0
+normed mse:0.0297, mae:0.1300, rmse:0.1724
+denormed mse:2.5022, mae:1.1926, rmse:1.5818
+normed mse:0.0297, mae:0.1300, rmse:0.1724
+TTTT denormed mse:2.5022, mae:1.1926, rmse:1.5818
+
+
+
+
+#2023-06-01 00:41:16->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed75_itr0
+normed mse:0.0474, mae:0.1629, rmse:0.2177
+denormed mse:3.9909, mae:1.4951, rmse:1.9977
+normed mse:0.0474, mae:0.1629, rmse:0.2177
+TTTT denormed mse:3.9909, mae:1.4951, rmse:1.9977
+
+
+
+
+#2023-06-01 10:42:46->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed162_itr0
+normed mse:0.0945, mae:0.2406, rmse:0.3073
+denormed mse:7.9536, mae:2.2082, rmse:2.8202
+normed mse:0.0945, mae:0.2406, rmse:0.3073
+TTTT denormed mse:7.9536, mae:2.2082, rmse:2.8202
+
+
+
+
+#2023-06-01 09:58:00->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed35_itr0
+normed mse:0.0886, mae:0.2360, rmse:0.2977
+denormed mse:7.4630, mae:2.1655, rmse:2.7318
+normed mse:0.0886, mae:0.2360, rmse:0.2977
+TTTT denormed mse:7.4630, mae:2.1655, rmse:2.7318
+
+
+
+
+#2023-06-01 11:34:58->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed98_itr0
+normed mse:0.1602, mae:0.3273, rmse:0.4002
+denormed mse:13.4899, mae:3.0034, rmse:3.6729
+normed mse:0.1602, mae:0.3273, rmse:0.4002
+TTTT denormed mse:13.4899, mae:3.0034, rmse:3.6729
+
+
+
+
+#2023-06-01 11:29:15->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed1_itr0
+normed mse:0.1264, mae:0.2865, rmse:0.3555
+denormed mse:10.6443, mae:2.6286, rmse:3.2626
+normed mse:0.1264, mae:0.2865, rmse:0.3555
+TTTT denormed mse:10.6443, mae:2.6286, rmse:3.2626
+
+
+
+
+#2023-06-01 10:56:05->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed162_itr0
+normed mse:0.0945, mae:0.2406, rmse:0.3073
+denormed mse:7.9536, mae:2.2082, rmse:2.8202
+normed mse:0.0945, mae:0.2406, rmse:0.3073
+TTTT denormed mse:7.9536, mae:2.2082, rmse:2.8202
+
+
+
+
+#2023-06-01 00:41:05->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed12_itr0
+normed mse:0.0309, mae:0.1331, rmse:0.1758
+denormed mse:2.6012, mae:1.2218, rmse:1.6128
+normed mse:0.0309, mae:0.1331, rmse:0.1758
+TTTT denormed mse:2.6012, mae:1.2218, rmse:1.6128
+
+
+
+
+#2023-06-01 00:41:27->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed138_itr0
+normed mse:0.0318, mae:0.1347, rmse:0.1783
+denormed mse:2.6770, mae:1.2359, rmse:1.6361
+normed mse:0.0318, mae:0.1347, rmse:0.1783
+TTTT denormed mse:2.6770, mae:1.2359, rmse:1.6361
+
+
+
+
+#2023-06-01 10:19:32->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed35_itr0
+normed mse:0.1621, mae:0.3298, rmse:0.4027
+denormed mse:13.6535, mae:3.0260, rmse:3.6951
+normed mse:0.1621, mae:0.3298, rmse:0.4027
+TTTT denormed mse:13.6535, mae:3.0260, rmse:3.6951
+
+
+
+
+#2023-06-01 00:41:06->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed12_itr0
+normed mse:0.0515, mae:0.1698, rmse:0.2269
+denormed mse:4.3360, mae:1.5586, rmse:2.0823
+normed mse:0.0515, mae:0.1698, rmse:0.2269
+TTTT denormed mse:4.3360, mae:1.5586, rmse:2.0823
+
+
+
+
+#2023-06-01 04:31:02->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed118_itr0
+normed mse:0.1732, mae:0.3428, rmse:0.4162
+denormed mse:14.5867, mae:3.1453, rmse:3.8193
+normed mse:0.1732, mae:0.3428, rmse:0.4162
+TTTT denormed mse:14.5867, mae:3.1453, rmse:3.8193
+
+
+
+
+#2023-06-01 11:46:21->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed77_itr0
+normed mse:0.1513, mae:0.3173, rmse:0.3890
+denormed mse:12.7426, mae:2.9114, rmse:3.5697
+normed mse:0.1513, mae:0.3173, rmse:0.3890
+TTTT denormed mse:12.7426, mae:2.9114, rmse:3.5697
+
+
+
+
+#2023-06-01 08:33:25->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed34_itr0
+normed mse:0.0794, mae:0.2120, rmse:0.2818
+denormed mse:6.6858, mae:1.9458, rmse:2.5857
+normed mse:0.0794, mae:0.2120, rmse:0.2818
+TTTT denormed mse:6.6858, mae:1.9458, rmse:2.5857
+
+
+
+
+#2023-06-01 10:53:44->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed14_itr0
+normed mse:0.1834, mae:0.3543, rmse:0.4283
+denormed mse:15.4443, mae:3.2515, rmse:3.9299
+normed mse:0.1834, mae:0.3543, rmse:0.4283
+TTTT denormed mse:15.4443, mae:3.2515, rmse:3.9299
+
+
+
+
+#2023-06-01 06:14:47->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed1_itr0
+normed mse:0.0320, mae:0.1354, rmse:0.1790
+denormed mse:2.6968, mae:1.2424, rmse:1.6422
+normed mse:0.0320, mae:0.1354, rmse:0.1790
+TTTT denormed mse:2.6968, mae:1.2424, rmse:1.6422
+
+
+
+
+#2023-06-01 09:14:26->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed140_itr0
+normed mse:0.0916, mae:0.2365, rmse:0.3027
+denormed mse:7.7155, mae:2.1703, rmse:2.7777
+normed mse:0.0916, mae:0.2365, rmse:0.3027
+TTTT denormed mse:7.7155, mae:2.1703, rmse:2.7777
+
+
+
+
+#2023-06-01 12:28:03->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed141_itr0
+normed mse:0.1667, mae:0.3349, rmse:0.4083
+denormed mse:14.0406, mae:3.0728, rmse:3.7471
+normed mse:0.1667, mae:0.3349, rmse:0.4083
+TTTT denormed mse:14.0406, mae:3.0728, rmse:3.7471
+
+
+
+
+#2023-06-01 00:41:21->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed96_itr0
+normed mse:0.1016, mae:0.2475, rmse:0.3188
+denormed mse:8.5584, mae:2.2715, rmse:2.9255
+normed mse:0.1016, mae:0.2475, rmse:0.3188
+TTTT denormed mse:8.5584, mae:2.2715, rmse:2.9255
+
+
+
+
+#2023-06-01 09:49:39->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed55_itr0
+normed mse:0.0545, mae:0.1776, rmse:0.2335
+denormed mse:4.5904, mae:1.6295, rmse:2.1425
+normed mse:0.0545, mae:0.1776, rmse:0.2335
+TTTT denormed mse:4.5904, mae:1.6295, rmse:2.1425
+
+
+
+
+#2023-06-01 13:14:07->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed119_itr0
+normed mse:0.0883, mae:0.2357, rmse:0.2972
+denormed mse:7.4361, mae:2.1630, rmse:2.7269
+normed mse:0.0883, mae:0.2357, rmse:0.2972
+TTTT denormed mse:7.4361, mae:2.1630, rmse:2.7269
+
+
+
+
+#2023-06-01 12:16:58->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed56_itr0
+normed mse:0.1591, mae:0.3263, rmse:0.3988
+denormed mse:13.3951, mae:2.9946, rmse:3.6599
+normed mse:0.1591, mae:0.3263, rmse:0.3988
+TTTT denormed mse:13.3951, mae:2.9946, rmse:3.6599
+
+
+
+
+#2023-06-01 08:13:52->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed97_itr0
+normed mse:0.0817, mae:0.2142, rmse:0.2858
+denormed mse:6.8800, mae:1.9657, rmse:2.6230
+normed mse:0.0817, mae:0.2142, rmse:0.2858
+TTTT denormed mse:6.8800, mae:1.9657, rmse:2.6230
+
+
+
+
+#2023-06-01 14:01:43->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed2_itr0
+normed mse:0.1533, mae:0.3191, rmse:0.3916
+denormed mse:12.9107, mae:2.9284, rmse:3.5932
+normed mse:0.1533, mae:0.3191, rmse:0.3916
+TTTT denormed mse:12.9107, mae:2.9284, rmse:3.5932
+
+
+
+
+#2023-06-01 08:05:27->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed2_itr0
+normed mse:0.0753, mae:0.2068, rmse:0.2744
+denormed mse:6.3391, mae:1.8981, rmse:2.5178
+normed mse:0.0753, mae:0.2068, rmse:0.2744
+TTTT denormed mse:6.3391, mae:1.8981, rmse:2.5178
+
+
+
+
+#2023-06-01 13:55:52->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed36_itr0
+normed mse:0.0935, mae:0.2406, rmse:0.3058
+denormed mse:7.8748, mae:2.2077, rmse:2.8062
+normed mse:0.0935, mae:0.2406, rmse:0.3058
+TTTT denormed mse:7.8748, mae:2.2077, rmse:2.8062
+
+
+
+
+#2023-06-01 05:31:50->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed118_itr0
+normed mse:0.0806, mae:0.2124, rmse:0.2838
+denormed mse:6.7841, mae:1.9494, rmse:2.6046
+normed mse:0.0806, mae:0.2124, rmse:0.2838
+TTTT denormed mse:6.7841, mae:1.9494, rmse:2.6046
+
+
+
+
+#2023-06-01 00:41:16->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed75_itr0
+normed mse:0.0310, mae:0.1330, rmse:0.1760
+denormed mse:2.6090, mae:1.2203, rmse:1.6153
+normed mse:0.0310, mae:0.1330, rmse:0.1760
+TTTT denormed mse:2.6090, mae:1.2203, rmse:1.6153
+
+
+
+
+#2023-06-01 09:57:07->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed34_itr0
+normed mse:0.0493, mae:0.1667, rmse:0.2220
+denormed mse:4.1515, mae:1.5297, rmse:2.0375
+normed mse:0.0493, mae:0.1667, rmse:0.2220
+TTTT denormed mse:4.1515, mae:1.5297, rmse:2.0375
+
+
+
+
+#2023-06-01 10:16:45->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed55_itr0
+normed mse:0.0771, mae:0.2083, rmse:0.2776
+denormed mse:6.4897, mae:1.9114, rmse:2.5475
+normed mse:0.0771, mae:0.2083, rmse:0.2776
+TTTT denormed mse:6.4897, mae:1.9114, rmse:2.5475
+
+
+
+
+#2023-06-01 13:54:18->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed163_itr0
+normed mse:0.0926, mae:0.2391, rmse:0.3042
+denormed mse:7.7949, mae:2.1945, rmse:2.7919
+normed mse:0.0926, mae:0.2391, rmse:0.3042
+TTTT denormed mse:7.7949, mae:2.1945, rmse:2.7919
+
+
+
+
+#2023-06-01 06:02:40->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed1_itr0
+normed mse:0.0485, mae:0.1649, rmse:0.2201
+denormed mse:4.0810, mae:1.5128, rmse:2.0201
+normed mse:0.0485, mae:0.1649, rmse:0.2201
+TTTT denormed mse:4.0810, mae:1.5128, rmse:2.0201
+
+
+
+
+#2023-06-01 13:07:23->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed55_itr0
+normed mse:0.0933, mae:0.2393, rmse:0.3054
+denormed mse:7.8531, mae:2.1961, rmse:2.8023
+normed mse:0.0933, mae:0.2393, rmse:0.3054
+TTTT denormed mse:7.8531, mae:2.1961, rmse:2.8023
+
+
+
+
+#2023-06-01 14:11:54->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed163_itr0
+normed mse:0.0926, mae:0.2391, rmse:0.3042
+denormed mse:7.7949, mae:2.1945, rmse:2.7919
+normed mse:0.0926, mae:0.2391, rmse:0.3042
+TTTT denormed mse:7.7949, mae:2.1945, rmse:2.7919
+
+
+
+
+#2023-06-01 09:04:19->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed76_itr0
+normed mse:0.0962, mae:0.2414, rmse:0.3101
+denormed mse:8.0980, mae:2.2149, rmse:2.8457
+normed mse:0.0962, mae:0.2414, rmse:0.3101
+TTTT denormed mse:8.0980, mae:2.2149, rmse:2.8457
+
+
+
+
+#2023-06-01 15:12:37->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed15_itr0
+normed mse:0.1655, mae:0.3335, rmse:0.4068
+denormed mse:13.9357, mae:3.0604, rmse:3.7331
+normed mse:0.1655, mae:0.3335, rmse:0.4068
+TTTT denormed mse:13.9357, mae:3.0604, rmse:3.7331
+
+
+
+
+#2023-06-01 14:38:48->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed36_itr0
+normed mse:0.1483, mae:0.3128, rmse:0.3851
+denormed mse:12.4903, mae:2.8706, rmse:3.5342
+normed mse:0.1483, mae:0.3128, rmse:0.3851
+TTTT denormed mse:12.4903, mae:2.8706, rmse:3.5342
+
+
+
+
+#2023-06-01 15:01:13->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed35_itr0
+normed mse:0.0771, mae:0.2117, rmse:0.2777
+denormed mse:6.4960, mae:1.9422, rmse:2.5487
+normed mse:0.0771, mae:0.2117, rmse:0.2777
+TTTT denormed mse:6.4960, mae:1.9422, rmse:2.5487
+
+
+
+
+#2023-06-01 04:33:00->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed55_itr0
+normed mse:0.0547, mae:0.1757, rmse:0.2338
+denormed mse:4.6044, mae:1.6121, rmse:2.1458
+normed mse:0.0547, mae:0.1757, rmse:0.2338
+TTTT denormed mse:4.6044, mae:1.6121, rmse:2.1458
+
+
+
+
+#2023-06-01 14:47:11->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed119_itr0
+normed mse:0.1556, mae:0.3219, rmse:0.3944
+denormed mse:13.1016, mae:2.9538, rmse:3.6196
+normed mse:0.1556, mae:0.3219, rmse:0.3944
+TTTT denormed mse:13.1016, mae:2.9538, rmse:3.6196
+
+
+
+
+#2023-06-01 07:39:55->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed1_itr0
+normed mse:0.1012, mae:0.2472, rmse:0.3182
+denormed mse:8.5242, mae:2.2683, rmse:2.9196
+normed mse:0.1012, mae:0.2472, rmse:0.3182
+TTTT denormed mse:8.5242, mae:2.2683, rmse:2.9196
+
+
+
+
+#2023-06-01 16:13:29->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed57_itr0
+normed mse:0.1582, mae:0.3243, rmse:0.3977
+denormed mse:13.3209, mae:2.9760, rmse:3.6498
+normed mse:0.1582, mae:0.3243, rmse:0.3977
+TTTT denormed mse:13.3209, mae:2.9760, rmse:3.6498
+
+
+
+
+#2023-06-01 11:12:08->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed118_itr0
+normed mse:0.0549, mae:0.1781, rmse:0.2344
+denormed mse:4.6250, mae:1.6347, rmse:2.1506
+normed mse:0.0549, mae:0.1781, rmse:0.2344
+TTTT denormed mse:4.6250, mae:1.6347, rmse:2.1506
+
+
+
+
+#2023-06-01 16:58:40->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed37_itr0
+normed mse:0.0962, mae:0.2426, rmse:0.3102
+denormed mse:8.1016, mae:2.2262, rmse:2.8463
+normed mse:0.0962, mae:0.2426, rmse:0.3102
+TTTT denormed mse:8.1016, mae:2.2262, rmse:2.8463
+
+
+
+
+#2023-06-01 15:44:39->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed142_itr0
+normed mse:0.1588, mae:0.3255, rmse:0.3985
+denormed mse:13.3741, mae:2.9865, rmse:3.6571
+normed mse:0.1588, mae:0.3255, rmse:0.3985
+TTTT denormed mse:13.3741, mae:2.9865, rmse:3.6571
+
+
+
+
+#2023-06-01 10:35:01->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed160_itr0
+normed mse:0.0494, mae:0.1666, rmse:0.2222
+denormed mse:4.1591, mae:1.5285, rmse:2.0394
+normed mse:0.0494, mae:0.1666, rmse:0.2222
+TTTT denormed mse:4.1591, mae:1.5285, rmse:2.0394
+
+
+
+
+#2023-06-01 18:30:56->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed16_itr0
+normed mse:0.1508, mae:0.3157, rmse:0.3883
+denormed mse:12.6967, mae:2.8969, rmse:3.5632
+normed mse:0.1508, mae:0.3157, rmse:0.3883
+TTTT denormed mse:12.6967, mae:2.8969, rmse:3.5632
+
+
+
+
+#2023-06-01 18:11:06->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed77_itr0
+normed mse:0.0938, mae:0.2399, rmse:0.3062
+denormed mse:7.8950, mae:2.2013, rmse:2.8098
+normed mse:0.0938, mae:0.2399, rmse:0.3062
+TTTT denormed mse:7.8950, mae:2.2013, rmse:2.8098
+
+
+
+
+#2023-06-01 13:21:55->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed14_itr0
+normed mse:0.0754, mae:0.2068, rmse:0.2746
+denormed mse:6.3508, mae:1.8981, rmse:2.5201
+normed mse:0.0754, mae:0.2068, rmse:0.2746
+TTTT denormed mse:6.3508, mae:1.8981, rmse:2.5201
+
+
+
+
+#2023-06-01 14:48:22->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed78_itr0
+normed mse:0.1765, mae:0.3471, rmse:0.4202
+denormed mse:14.8662, mae:3.1851, rmse:3.8557
+normed mse:0.1765, mae:0.3471, rmse:0.4202
+TTTT denormed mse:14.8662, mae:3.1851, rmse:3.8557
+
+
+
+
+#2023-06-01 17:56:00->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed56_itr0
+normed mse:0.0870, mae:0.2347, rmse:0.2950
+denormed mse:7.3293, mae:2.1533, rmse:2.7073
+normed mse:0.0870, mae:0.2347, rmse:0.2950
+TTTT denormed mse:7.3293, mae:2.1533, rmse:2.7073
+
+
+
+
+#2023-06-01 15:48:24->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed97_itr0
+normed mse:0.0917, mae:0.2370, rmse:0.3027
+denormed mse:7.7180, mae:2.1751, rmse:2.7781
+normed mse:0.0917, mae:0.2370, rmse:0.3027
+TTTT denormed mse:7.7180, mae:2.1751, rmse:2.7781
+
+
+
+
+#2023-06-01 16:50:25->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed3_itr0
+normed mse:0.0803, mae:0.2133, rmse:0.2834
+denormed mse:6.7628, mae:1.9577, rmse:2.6005
+normed mse:0.0803, mae:0.2133, rmse:0.2834
+TTTT denormed mse:6.7628, mae:1.9577, rmse:2.6005
+
+
+
+
+#2023-06-01 16:13:07->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed120_itr0
+normed mse:0.0959, mae:0.2407, rmse:0.3097
+denormed mse:8.0771, mae:2.2091, rmse:2.8420
+normed mse:0.0959, mae:0.2407, rmse:0.3097
+TTTT denormed mse:8.0771, mae:2.2091, rmse:2.8420
+
+
+
+
+#2023-06-01 16:41:54->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed3_itr0
+normed mse:0.1658, mae:0.3342, rmse:0.4072
+denormed mse:13.9617, mae:3.0667, rmse:3.7365
+normed mse:0.1658, mae:0.3342, rmse:0.4072
+TTTT denormed mse:13.9617, mae:3.0667, rmse:3.7365
+
+
+
+
+#2023-06-01 13:31:09->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed160_itr0
+normed mse:0.0325, mae:0.1365, rmse:0.1803
+denormed mse:2.7389, mae:1.2522, rmse:1.6550
+normed mse:0.0325, mae:0.1365, rmse:0.1803
+TTTT denormed mse:2.7389, mae:1.2522, rmse:1.6550
+
+
+
+
+#2023-06-01 13:43:42->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed76_itr0
+normed mse:0.0499, mae:0.1672, rmse:0.2234
+denormed mse:4.2013, mae:1.5344, rmse:2.0497
+normed mse:0.0499, mae:0.1672, rmse:0.2234
+TTTT denormed mse:4.2013, mae:1.5344, rmse:2.0497
+
+
+
+
+#2023-06-01 10:36:41->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed97_itr0
+normed mse:0.0483, mae:0.1652, rmse:0.2198
+denormed mse:4.0673, mae:1.5161, rmse:2.0168
+normed mse:0.0483, mae:0.1652, rmse:0.2198
+TTTT denormed mse:4.0673, mae:1.5161, rmse:2.0168
+
+
+
+
+#2023-06-01 20:30:07->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed58_itr0
+normed mse:0.1923, mae:0.3638, rmse:0.4386
+denormed mse:16.1966, mae:3.3386, rmse:4.0245
+normed mse:0.1923, mae:0.3638, rmse:0.4386
+TTTT denormed mse:16.1966, mae:3.3386, rmse:4.0245
+
+
+
+
+#2023-06-01 18:57:20->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed37_itr0
+normed mse:0.1428, mae:0.3058, rmse:0.3778
+denormed mse:12.0208, mae:2.8060, rmse:3.4671
+normed mse:0.1428, mae:0.3058, rmse:0.3778
+TTTT denormed mse:12.0208, mae:2.8060, rmse:3.4671
+
+
+
+
+#2023-06-01 14:01:22->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed99_itr0
+normed mse:0.1662, mae:0.3350, rmse:0.4077
+denormed mse:13.9952, mae:3.0738, rmse:3.7410
+normed mse:0.1662, mae:0.3350, rmse:0.4077
+TTTT denormed mse:13.9952, mae:3.0738, rmse:3.7410
+
+
+
+
+#2023-06-01 20:56:36->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed38_itr0
+normed mse:0.0933, mae:0.2400, rmse:0.3055
+denormed mse:7.8580, mae:2.2027, rmse:2.8032
+normed mse:0.0933, mae:0.2400, rmse:0.3055
+TTTT denormed mse:7.8580, mae:2.2027, rmse:2.8032
+
+
+
+
+#2023-06-01 12:32:31->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed118_itr0
+normed mse:0.0507, mae:0.1693, rmse:0.2251
+denormed mse:4.2678, mae:1.5537, rmse:2.0659
+normed mse:0.0507, mae:0.1693, rmse:0.2251
+TTTT denormed mse:4.2678, mae:1.5537, rmse:2.0659
+
+
+
+
+#2023-06-01 17:38:19->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed164_itr0
+normed mse:0.0998, mae:0.2460, rmse:0.3159
+denormed mse:8.4034, mae:2.2572, rmse:2.8989
+normed mse:0.0998, mae:0.2460, rmse:0.3159
+TTTT denormed mse:8.4034, mae:2.2572, rmse:2.8989
+
+
+
+
+#2023-06-01 18:00:36->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed164_itr0
+normed mse:0.0998, mae:0.2460, rmse:0.3159
+denormed mse:8.4034, mae:2.2572, rmse:2.8989
+normed mse:0.0998, mae:0.2460, rmse:0.3159
+TTTT denormed mse:8.4034, mae:2.2572, rmse:2.8989
+
+
+
+
+#2023-06-01 21:23:43->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed17_itr0
+normed mse:0.1707, mae:0.3390, rmse:0.4131
+denormed mse:14.3726, mae:3.1110, rmse:3.7911
+normed mse:0.1707, mae:0.3390, rmse:0.4131
+TTTT denormed mse:14.3726, mae:3.1110, rmse:3.7911
+
+
+
+
+#2023-06-01 20:57:05->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed143_itr0
+normed mse:0.1940, mae:0.3669, rmse:0.4404
+denormed mse:16.3355, mae:3.3667, rmse:4.0417
+normed mse:0.1940, mae:0.3669, rmse:0.4404
+TTTT denormed mse:16.3355, mae:3.3667, rmse:4.0417
+
+
+
+
+#2023-06-01 12:15:39->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed140_itr0
+normed mse:0.0459, mae:0.1608, rmse:0.2143
+denormed mse:3.8688, mae:1.4754, rmse:1.9669
+normed mse:0.0459, mae:0.1608, rmse:0.2143
+TTTT denormed mse:3.8688, mae:1.4754, rmse:1.9669
+
+
+
+
+#2023-06-01 09:20:37->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed13_itr0
+normed mse:0.1026, mae:0.2487, rmse:0.3203
+denormed mse:8.6416, mae:2.2825, rmse:2.9397
+normed mse:0.1026, mae:0.2487, rmse:0.3203
+TTTT denormed mse:8.6416, mae:2.2825, rmse:2.9397
+
+
+
+
+#2023-06-01 12:45:14->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed139_itr0
+normed mse:0.0794, mae:0.2109, rmse:0.2817
+denormed mse:6.6821, mae:1.9358, rmse:2.5850
+normed mse:0.0794, mae:0.2109, rmse:0.2817
+TTTT denormed mse:6.6821, mae:1.9358, rmse:2.5850
+
+
+
+
+#2023-06-01 16:59:51->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed119_itr0
+normed mse:0.0757, mae:0.2082, rmse:0.2750
+denormed mse:6.3705, mae:1.9105, rmse:2.5240
+normed mse:0.0757, mae:0.2082, rmse:0.2750
+TTTT denormed mse:6.3705, mae:1.9105, rmse:2.5240
+
+
+
+
+#2023-06-01 11:16:17->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed34_itr0
+normed mse:0.0314, mae:0.1340, rmse:0.1771
+denormed mse:2.6416, mae:1.2294, rmse:1.6253
+normed mse:0.0314, mae:0.1340, rmse:0.1771
+TTTT denormed mse:2.6416, mae:1.2294, rmse:1.6253
+
+
+
+
+#2023-06-01 15:41:43->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed141_itr0
+normed mse:0.0952, mae:0.2410, rmse:0.3085
+denormed mse:8.0159, mae:2.2118, rmse:2.8312
+normed mse:0.0952, mae:0.2410, rmse:0.3085
+TTTT denormed mse:8.0159, mae:2.2118, rmse:2.8312
+
+
+
+
+#2023-06-01 16:27:22->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed98_itr0
+normed mse:0.0781, mae:0.2098, rmse:0.2795
+denormed mse:6.5794, mae:1.9256, rmse:2.5650
+normed mse:0.0781, mae:0.2098, rmse:0.2795
+TTTT denormed mse:6.5794, mae:1.9256, rmse:2.5650
+
+
+
+
+#2023-06-01 23:17:59->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed59_itr0
+normed mse:0.1870, mae:0.3577, rmse:0.4324
+denormed mse:15.7474, mae:3.2820, rmse:3.9683
+normed mse:0.1870, mae:0.3577, rmse:0.4324
+TTTT denormed mse:15.7474, mae:3.2820, rmse:3.9683
+
+
+
+
+#2023-06-01 20:01:12->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed2_itr0
+normed mse:0.0918, mae:0.2370, rmse:0.3029
+denormed mse:7.7278, mae:2.1745, rmse:2.7799
+normed mse:0.0918, mae:0.2370, rmse:0.3029
+TTTT denormed mse:7.7278, mae:2.1745, rmse:2.7799
+
+
+
+
+#2023-06-01 22:44:55->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed4_itr0
+normed mse:0.1557, mae:0.3043, rmse:0.3945
+denormed mse:13.1078, mae:2.7921, rmse:3.6205
+normed mse:0.1557, mae:0.3043, rmse:0.3945
+TTTT denormed mse:13.1078, mae:2.7921, rmse:3.6205
+
+
+
+
+#2023-06-01 17:19:42->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed35_itr0
+normed mse:0.0536, mae:0.1739, rmse:0.2315
+denormed mse:4.5136, mae:1.5960, rmse:2.1245
+normed mse:0.0536, mae:0.1739, rmse:0.2315
+TTTT denormed mse:4.5136, mae:1.5960, rmse:2.1245
+
+
+
+
+#2023-06-01 15:28:13->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed2_itr0
+normed mse:0.0300, mae:0.1317, rmse:0.1733
+denormed mse:2.5293, mae:1.2081, rmse:1.5904
+normed mse:0.0300, mae:0.1317, rmse:0.1733
+TTTT denormed mse:2.5293, mae:1.2081, rmse:1.5904
+
+
+
+
+#2023-06-01 21:33:06->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed78_itr0
+normed mse:0.0885, mae:0.2370, rmse:0.2974
+denormed mse:7.4485, mae:2.1752, rmse:2.7292
+normed mse:0.0885, mae:0.2370, rmse:0.2974
+TTTT denormed mse:7.4485, mae:2.1752, rmse:2.7292
+
+
+
+
+#2023-06-01 22:58:42->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed121_itr0
+normed mse:0.0902, mae:0.2369, rmse:0.3003
+denormed mse:7.5927, mae:2.1735, rmse:2.7555
+normed mse:0.0902, mae:0.2369, rmse:0.3003
+TTTT denormed mse:7.5927, mae:2.1735, rmse:2.7555
+
+
+
+
+#2023-06-01 23:36:12->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed100_itr0
+normed mse:0.1461, mae:0.3095, rmse:0.3822
+denormed mse:12.3017, mae:2.8403, rmse:3.5074
+normed mse:0.1461, mae:0.3095, rmse:0.3822
+TTTT denormed mse:12.3017, mae:2.8403, rmse:3.5074
+
+
+
+
+#2023-06-01 14:41:50->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed13_itr0
+normed mse:0.0484, mae:0.1649, rmse:0.2201
+denormed mse:4.0783, mae:1.5134, rmse:2.0195
+normed mse:0.0484, mae:0.1649, rmse:0.2201
+TTTT denormed mse:4.0783, mae:1.5134, rmse:2.0195
+
+
+
+
+#2023-06-01 23:33:29->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed38_itr0
+normed mse:0.1777, mae:0.3493, rmse:0.4216
+denormed mse:14.9649, mae:3.2057, rmse:3.8684
+normed mse:0.1777, mae:0.3493, rmse:0.4216
+TTTT denormed mse:14.9649, mae:3.2057, rmse:3.8684
+
+
+
+
+#2023-06-01 13:05:05->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed77_itr0
+normed mse:0.0785, mae:0.2100, rmse:0.2802
+denormed mse:6.6121, mae:1.9269, rmse:2.5714
+normed mse:0.0785, mae:0.2100, rmse:0.2802
+TTTT denormed mse:6.6121, mae:1.9269, rmse:2.5714
+
+
+
+
+#2023-06-01 22:18:15->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed57_itr0
+normed mse:0.0911, mae:0.2369, rmse:0.3018
+denormed mse:7.6676, mae:2.1736, rmse:2.7690
+normed mse:0.0911, mae:0.2369, rmse:0.3018
+TTTT denormed mse:7.6676, mae:2.1736, rmse:2.7690
+
+
+
+
+#2023-06-02 00:25:16->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed18_itr0
+normed mse:0.1643, mae:0.3318, rmse:0.4054
+denormed mse:13.8391, mae:3.0447, rmse:3.7201
+normed mse:0.1643, mae:0.3318, rmse:0.4054
+TTTT denormed mse:13.8391, mae:3.0447, rmse:3.7201
+
+
+
+
+#2023-06-02 00:26:29->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed144_itr0
+normed mse:0.1740, mae:0.3437, rmse:0.4171
+denormed mse:14.6486, mae:3.1541, rmse:3.8273
+normed mse:0.1740, mae:0.3437, rmse:0.4171
+TTTT denormed mse:14.6486, mae:3.1541, rmse:3.8273
+
+
+
+
+#2023-06-01 12:07:32->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed161_itr0
+normed mse:0.0833, mae:0.2158, rmse:0.2887
+denormed mse:7.0179, mae:1.9802, rmse:2.6491
+normed mse:0.0833, mae:0.2158, rmse:0.2887
+TTTT denormed mse:7.0179, mae:1.9802, rmse:2.6491
+
+
+
+
+#2023-06-01 23:41:35->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed39_itr0
+normed mse:0.0896, mae:0.2348, rmse:0.2993
+denormed mse:7.5440, mae:2.1549, rmse:2.7466
+normed mse:0.0896, mae:0.2348, rmse:0.2993
+TTTT denormed mse:7.5440, mae:2.1549, rmse:2.7466
+
+
+
+
+#2023-06-01 14:37:16->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed139_itr0
+normed mse:0.0301, mae:0.1311, rmse:0.1734
+denormed mse:2.5317, mae:1.2031, rmse:1.5911
+normed mse:0.0301, mae:0.1311, rmse:0.1734
+TTTT denormed mse:2.5317, mae:1.2031, rmse:1.5911
+
+
+
+
+#2023-06-01 17:37:56->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed56_itr0
+normed mse:0.0789, mae:0.2116, rmse:0.2808
+denormed mse:6.6399, mae:1.9422, rmse:2.5768
+normed mse:0.0789, mae:0.2116, rmse:0.2808
+TTTT denormed mse:6.6399, mae:1.9422, rmse:2.5768
+
+
+
+
+#2023-06-01 23:48:57->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed165_itr0
+normed mse:0.0936, mae:0.2397, rmse:0.3059
+denormed mse:7.8822, mae:2.1993, rmse:2.8075
+normed mse:0.0936, mae:0.2397, rmse:0.3059
+TTTT denormed mse:7.8822, mae:2.1993, rmse:2.8075
+
+
+
+
+#2023-06-01 19:41:23->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed56_itr0
+normed mse:0.0454, mae:0.1603, rmse:0.2130
+denormed mse:3.8196, mae:1.4707, rmse:1.9544
+normed mse:0.0454, mae:0.1603, rmse:0.2130
+TTTT denormed mse:3.8196, mae:1.4707, rmse:1.9544
+
+
+
+
+#2023-06-02 00:18:08->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed165_itr0
+normed mse:0.0936, mae:0.2397, rmse:0.3059
+denormed mse:7.8822, mae:2.1993, rmse:2.8075
+normed mse:0.0936, mae:0.2397, rmse:0.3059
+TTTT denormed mse:7.8822, mae:2.1993, rmse:2.8075
+
+
+
+
+#2023-06-01 17:51:47->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed2_itr0
+normed mse:0.0492, mae:0.1664, rmse:0.2218
+denormed mse:4.1424, mae:1.5266, rmse:2.0353
+normed mse:0.0492, mae:0.1664, rmse:0.2218
+TTTT denormed mse:4.1424, mae:1.5266, rmse:2.0353
+
+
+
+
+#2023-06-01 21:53:54->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed79_itr0
+normed mse:0.1697, mae:0.3389, rmse:0.4120
+denormed mse:14.2917, mae:3.1103, rmse:3.7804
+normed mse:0.1697, mae:0.3389, rmse:0.4120
+TTTT denormed mse:14.2917, mae:3.1103, rmse:3.7804
+
+
+
+
+#2023-06-02 02:48:02->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed101_itr0
+normed mse:0.1492, mae:0.3138, rmse:0.3862
+denormed mse:12.5615, mae:2.8799, rmse:3.5442
+normed mse:0.1492, mae:0.3138, rmse:0.3862
+TTTT denormed mse:12.5615, mae:2.8799, rmse:3.5442
+
+
+
+
+#2023-06-01 14:37:01->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed13_itr0
+normed mse:0.0309, mae:0.1329, rmse:0.1759
+denormed mse:2.6043, mae:1.2196, rmse:1.6138
+normed mse:0.0309, mae:0.1329, rmse:0.1759
+TTTT denormed mse:2.6043, mae:1.2196, rmse:1.6138
+
+
+
+
+#2023-06-02 01:22:26->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed60_itr0
+normed mse:0.1728, mae:0.3423, rmse:0.4157
+denormed mse:14.5532, mae:3.1408, rmse:3.8149
+normed mse:0.1728, mae:0.3423, rmse:0.4157
+TTTT denormed mse:14.5532, mae:3.1408, rmse:3.8149
+
+
+
+
+#2023-06-02 00:34:34->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed140_itr0
+normed mse:0.0731, mae:0.2069, rmse:0.2704
+denormed mse:6.1592, mae:1.8988, rmse:2.4818
+normed mse:0.0731, mae:0.2069, rmse:0.2704
+TTTT denormed mse:6.1592, mae:1.8988, rmse:2.4818
+
+
+
+
+#2023-06-02 01:03:47->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed142_itr0
+normed mse:0.0878, mae:0.2334, rmse:0.2963
+denormed mse:7.3907, mae:2.1421, rmse:2.7186
+normed mse:0.0878, mae:0.2334, rmse:0.2963
+TTTT denormed mse:7.3907, mae:2.1421, rmse:2.7186
+
+
+
+
+#2023-06-01 20:58:17->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed161_itr0
+normed mse:0.0479, mae:0.1641, rmse:0.2189
+denormed mse:4.0346, mae:1.5059, rmse:2.0086
+normed mse:0.0479, mae:0.1641, rmse:0.2189
+TTTT denormed mse:4.0346, mae:1.5059, rmse:2.0086
+
+
+
+
+#2023-06-02 01:22:33->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed3_itr0
+normed mse:0.0858, mae:0.2331, rmse:0.2929
+denormed mse:7.2226, mae:2.1387, rmse:2.6875
+normed mse:0.0858, mae:0.2331, rmse:0.2929
+TTTT denormed mse:7.2226, mae:2.1387, rmse:2.6875
+
+
+
+
+#2023-06-01 19:30:18->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed36_itr0
+normed mse:0.0797, mae:0.2120, rmse:0.2823
+denormed mse:6.7129, mae:1.9452, rmse:2.5909
+normed mse:0.0797, mae:0.2120, rmse:0.2823
+TTTT denormed mse:6.7129, mae:1.9452, rmse:2.5909
+
+
+
+
+#2023-06-01 11:24:45->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed97_itr0
+normed mse:0.0317, mae:0.1346, rmse:0.1780
+denormed mse:2.6677, mae:1.2348, rmse:1.6333
+normed mse:0.0317, mae:0.1346, rmse:0.1780
+TTTT denormed mse:2.6677, mae:1.2348, rmse:1.6333
+
+
+
+
+#2023-06-01 23:01:46->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed4_itr0
+normed mse:0.1703, mae:0.3390, rmse:0.4127
+denormed mse:14.3428, mae:3.1110, rmse:3.7872
+normed mse:0.1703, mae:0.3390, rmse:0.4127
+TTTT denormed mse:14.3428, mae:3.1110, rmse:3.7872
+
+
+
+
+#2023-06-01 19:57:28->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed120_itr0
+normed mse:0.1756, mae:0.3456, rmse:0.4191
+denormed mse:14.7897, mae:3.1713, rmse:3.8457
+normed mse:0.1756, mae:0.3456, rmse:0.4191
+TTTT denormed mse:14.7897, mae:3.1713, rmse:3.8457
+
+
+
+
+#2023-06-02 00:49:54->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed35_itr0
+normed mse:0.0562, mae:0.1804, rmse:0.2370
+denormed mse:4.7317, mae:1.6557, rmse:2.1753
+normed mse:0.0562, mae:0.1804, rmse:0.2370
+TTTT denormed mse:4.7317, mae:1.6557, rmse:2.1753
+
+
+
+
+#2023-06-02 00:49:37->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed120_itr0
+normed mse:0.0756, mae:0.2074, rmse:0.2750
+denormed mse:6.3674, mae:1.9036, rmse:2.5234
+normed mse:0.0756, mae:0.2074, rmse:0.2750
+TTTT denormed mse:6.3674, mae:1.9036, rmse:2.5234
+
+
+
+
+#2023-06-02 05:06:10->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed80_itr0
+normed mse:0.1761, mae:0.3448, rmse:0.4196
+denormed mse:14.8253, mae:3.1644, rmse:3.8504
+normed mse:0.1761, mae:0.3448, rmse:0.4196
+TTTT denormed mse:14.8253, mae:3.1644, rmse:3.8504
+
+
+
+
+#2023-06-01 23:16:17->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed98_itr0
+normed mse:0.0503, mae:0.1684, rmse:0.2242
+denormed mse:4.2346, mae:1.5449, rmse:2.0578
+normed mse:0.0503, mae:0.1684, rmse:0.2242
+TTTT denormed mse:4.2346, mae:1.5449, rmse:2.0578
+
+
+
+
+#2023-06-02 03:19:39->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed145_itr0
+normed mse:0.1630, mae:0.3308, rmse:0.4037
+denormed mse:13.7264, mae:3.0355, rmse:3.7049
+normed mse:0.1630, mae:0.3308, rmse:0.4037
+TTTT denormed mse:13.7264, mae:3.0355, rmse:3.7049
+
+
+
+
+#2023-06-02 04:09:31->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed166_itr0
+normed mse:0.0919, mae:0.2382, rmse:0.3032
+denormed mse:7.7429, mae:2.1860, rmse:2.7826
+normed mse:0.0919, mae:0.2382, rmse:0.3032
+TTTT denormed mse:7.7429, mae:2.1860, rmse:2.7826
+
+
+
+
+#2023-06-01 16:08:07->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed56_itr0
+normed mse:0.0319, mae:0.1347, rmse:0.1785
+denormed mse:2.6824, mae:1.2357, rmse:1.6378
+normed mse:0.0319, mae:0.1347, rmse:0.1785
+TTTT denormed mse:2.6824, mae:1.2357, rmse:1.6378
+
+
+
+
+#2023-06-02 02:51:14->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed39_itr0
+normed mse:0.1682, mae:0.3369, rmse:0.4101
+denormed mse:14.1617, mae:3.0911, rmse:3.7632
+normed mse:0.1682, mae:0.3369, rmse:0.4101
+TTTT denormed mse:14.1617, mae:3.0911, rmse:3.7632
+
+
+
+
+#2023-06-02 05:16:28->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed102_itr0
+normed mse:0.1497, mae:0.3139, rmse:0.3869
+denormed mse:12.6049, mae:2.8801, rmse:3.5503
+normed mse:0.1497, mae:0.3139, rmse:0.3869
+TTTT denormed mse:12.6049, mae:2.8801, rmse:3.5503
+
+
+
+
+#2023-06-01 21:42:32->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed15_itr0
+normed mse:0.0834, mae:0.2161, rmse:0.2888
+denormed mse:7.0229, mae:1.9832, rmse:2.6501
+normed mse:0.0834, mae:0.2161, rmse:0.2888
+TTTT denormed mse:7.0229, mae:1.9832, rmse:2.6501
+
+
+
+
+#2023-06-02 02:51:30->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed78_itr0
+normed mse:0.1464, mae:0.2934, rmse:0.3826
+denormed mse:12.3270, mae:2.6928, rmse:3.5110
+normed mse:0.1464, mae:0.2934, rmse:0.3826
+TTTT denormed mse:12.3270, mae:2.6928, rmse:3.5110
+
+
+
+
+#2023-06-02 02:08:21->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed79_itr0
+normed mse:0.0930, mae:0.2379, rmse:0.3050
+denormed mse:7.8351, mae:2.1834, rmse:2.7991
+normed mse:0.0930, mae:0.2379, rmse:0.3050
+TTTT denormed mse:7.8351, mae:2.1834, rmse:2.7991
+
+
+
+
+#2023-06-02 04:45:12->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed166_itr0
+normed mse:0.0919, mae:0.2382, rmse:0.3032
+denormed mse:7.7429, mae:2.1860, rmse:2.7826
+normed mse:0.0919, mae:0.2382, rmse:0.3032
+TTTT denormed mse:7.7429, mae:2.1860, rmse:2.7826
+
+
+
+
+#2023-06-01 20:36:55->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed119_itr0
+normed mse:0.0315, mae:0.1341, rmse:0.1775
+denormed mse:2.6518, mae:1.2303, rmse:1.6284
+normed mse:0.0315, mae:0.1341, rmse:0.1775
+TTTT denormed mse:2.6518, mae:1.2303, rmse:1.6284
+
+
+
+
+#2023-06-02 00:31:03->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed14_itr0
+normed mse:0.0952, mae:0.2405, rmse:0.3086
+denormed mse:8.0195, mae:2.2066, rmse:2.8319
+normed mse:0.0952, mae:0.2405, rmse:0.3086
+TTTT denormed mse:8.0195, mae:2.2066, rmse:2.8319
+
+
+
+
+#2023-06-02 03:38:28->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed40_itr0
+normed mse:0.0920, mae:0.2384, rmse:0.3033
+denormed mse:7.7451, mae:2.1874, rmse:2.7830
+normed mse:0.0920, mae:0.2384, rmse:0.3033
+TTTT denormed mse:7.7451, mae:2.1874, rmse:2.7830
+
+
+
+
+#2023-06-01 17:01:05->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed76_itr0
+normed mse:0.0318, mae:0.1344, rmse:0.1784
+denormed mse:2.6795, mae:1.2330, rmse:1.6369
+normed mse:0.0318, mae:0.1344, rmse:0.1784
+TTTT denormed mse:2.6795, mae:1.2330, rmse:1.6369
+
+
+
+
+#2023-06-02 02:58:14->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed58_itr0
+normed mse:0.0950, mae:0.2410, rmse:0.3082
+denormed mse:8.0002, mae:2.2117, rmse:2.8285
+normed mse:0.0950, mae:0.2410, rmse:0.3082
+TTTT denormed mse:8.0002, mae:2.2117, rmse:2.8285
+
+
+
+
+#2023-06-01 22:34:25->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed98_itr0
+normed mse:0.0969, mae:0.2421, rmse:0.3113
+denormed mse:8.1621, mae:2.2215, rmse:2.8569
+normed mse:0.0969, mae:0.2421, rmse:0.3113
+TTTT denormed mse:8.1621, mae:2.2215, rmse:2.8569
+
+
+
+
+#2023-06-02 01:47:02->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed5_itr0
+normed mse:0.0829, mae:0.2155, rmse:0.2880
+denormed mse:6.9830, mae:1.9772, rmse:2.6425
+normed mse:0.0829, mae:0.2155, rmse:0.2880
+TTTT denormed mse:6.9830, mae:1.9772, rmse:2.6425
+
+
+
+
+#2023-06-02 06:07:42->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed4_itr0
+normed mse:0.1717, mae:0.3307, rmse:0.4144
+denormed mse:14.4625, mae:3.0347, rmse:3.8030
+normed mse:0.1717, mae:0.3307, rmse:0.4144
+TTTT denormed mse:14.4625, mae:3.0347, rmse:3.8030
+
+
+
+
+#2023-06-02 06:36:39->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed5_itr0
+normed mse:0.1721, mae:0.3416, rmse:0.4148
+denormed mse:14.4884, mae:3.1346, rmse:3.8064
+normed mse:0.1721, mae:0.3416, rmse:0.4148
+TTTT denormed mse:14.4884, mae:3.1346, rmse:3.8064
+
+
+
+
+#2023-06-01 23:03:15->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed161_itr0
+normed mse:0.0311, mae:0.1335, rmse:0.1765
+denormed mse:2.6229, mae:1.2254, rmse:1.6195
+normed mse:0.0311, mae:0.1335, rmse:0.1765
+TTTT denormed mse:2.6229, mae:1.2254, rmse:1.6195
+
+
+
+
+#2023-06-02 03:43:33->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed57_itr0
+normed mse:0.0739, mae:0.2082, rmse:0.2718
+denormed mse:6.2215, mae:1.9107, rmse:2.4943
+normed mse:0.0739, mae:0.2082, rmse:0.2718
+TTTT denormed mse:6.2215, mae:1.9107, rmse:2.4943
+
+
+
+
+#2023-06-02 05:42:07->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed143_itr0
+normed mse:0.0880, mae:0.2349, rmse:0.2966
+denormed mse:7.4103, mae:2.1555, rmse:2.7222
+normed mse:0.0880, mae:0.2349, rmse:0.2966
+TTTT denormed mse:7.4103, mae:2.1555, rmse:2.7222
+
+
+
+
+#2023-06-02 05:29:50->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed61_itr0
+normed mse:0.1712, mae:0.3402, rmse:0.4138
+denormed mse:14.4165, mae:3.1218, rmse:3.7969
+normed mse:0.1712, mae:0.3402, rmse:0.4138
+TTTT denormed mse:14.4165, mae:3.1218, rmse:3.7969
+
+
+
+
+#2023-06-01 23:16:11->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed77_itr0
+normed mse:0.0487, mae:0.1651, rmse:0.2207
+denormed mse:4.1026, mae:1.5148, rmse:2.0255
+normed mse:0.0487, mae:0.1651, rmse:0.2207
+TTTT denormed mse:4.1026, mae:1.5148, rmse:2.0255
+
+
+
+
+#2023-06-01 23:44:31->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed119_itr0
+normed mse:0.0513, mae:0.1699, rmse:0.2265
+denormed mse:4.3188, mae:1.5592, rmse:2.0782
+normed mse:0.0513, mae:0.1699, rmse:0.2265
+TTTT denormed mse:4.3188, mae:1.5592, rmse:2.0782
+
+
+
+
+#2023-06-02 07:53:23->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed40_itr0
+normed mse:0.2049, mae:0.3796, rmse:0.4527
+denormed mse:17.2540, mae:3.4831, rmse:4.1538
+normed mse:0.2049, mae:0.3796, rmse:0.4527
+TTTT denormed mse:17.2540, mae:3.4831, rmse:4.1538
+
+
+
+
+#2023-06-02 03:01:20->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed19_itr0
+normed mse:0.1675, mae:0.3362, rmse:0.4093
+denormed mse:14.1090, mae:3.0852, rmse:3.7562
+normed mse:0.1675, mae:0.3362, rmse:0.4093
+TTTT denormed mse:14.1090, mae:3.0852, rmse:3.7562
+
+
+
+
+#2023-06-02 06:50:58->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed121_itr0
+normed mse:0.1652, mae:0.3334, rmse:0.4065
+denormed mse:13.9150, mae:3.0596, rmse:3.7303
+normed mse:0.1652, mae:0.3334, rmse:0.4065
+TTTT denormed mse:13.9150, mae:3.0596, rmse:3.7303
+
+
+
+
+#2023-06-02 07:59:05->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed16_itr0
+normed mse:0.0755, mae:0.2151, rmse:0.2748
+denormed mse:6.3578, mae:1.9738, rmse:2.5215
+normed mse:0.0755, mae:0.2151, rmse:0.2748
+TTTT denormed mse:6.3578, mae:1.9738, rmse:2.5215
+
+
+
+
+#2023-06-02 07:54:19->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed103_itr0
+normed mse:0.1685, mae:0.3373, rmse:0.4105
+denormed mse:14.1932, mae:3.0952, rmse:3.7674
+normed mse:0.1685, mae:0.3373, rmse:0.4105
+TTTT denormed mse:14.1932, mae:3.0952, rmse:3.7674
+
+
+
+
+#2023-06-02 07:20:55->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed121_itr0
+normed mse:0.0746, mae:0.2096, rmse:0.2731
+denormed mse:6.2802, mae:1.9230, rmse:2.5060
+normed mse:0.0746, mae:0.2096, rmse:0.2731
+TTTT denormed mse:6.2802, mae:1.9230, rmse:2.5060
+
+
+
+
+#2023-06-02 07:29:13->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed146_itr0
+normed mse:0.1697, mae:0.3387, rmse:0.4119
+denormed mse:14.2861, mae:3.1080, rmse:3.7797
+normed mse:0.1697, mae:0.3387, rmse:0.4119
+TTTT denormed mse:14.2861, mae:3.1080, rmse:3.7797
+
+
+
+
+#2023-06-02 02:43:44->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed122_itr0
+normed mse:0.1020, mae:0.2481, rmse:0.3194
+denormed mse:8.5932, mae:2.2767, rmse:2.9314
+normed mse:0.1020, mae:0.2481, rmse:0.3194
+TTTT denormed mse:8.5932, mae:2.2767, rmse:2.9314
+
+
+
+
+#2023-06-02 02:50:04->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed14_itr0
+normed mse:0.0493, mae:0.1662, rmse:0.2219
+denormed mse:4.1481, mae:1.5256, rmse:2.0367
+normed mse:0.0493, mae:0.1662, rmse:0.2219
+TTTT denormed mse:4.1481, mae:1.5256, rmse:2.0367
+
+
+
+
+#2023-06-02 07:25:02->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed81_itr0
+normed mse:0.1673, mae:0.3359, rmse:0.4090
+denormed mse:14.0876, mae:3.0826, rmse:3.7533
+normed mse:0.1673, mae:0.3359, rmse:0.4090
+TTTT denormed mse:14.0876, mae:3.0826, rmse:3.7533
+
+
+
+
+#2023-06-02 09:34:01->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed58_itr0
+normed mse:0.0802, mae:0.2138, rmse:0.2832
+denormed mse:6.7542, mae:1.9624, rmse:2.5989
+normed mse:0.0802, mae:0.2138, rmse:0.2832
+TTTT denormed mse:6.7542, mae:1.9624, rmse:2.5989
+
+
+
+
+#2023-06-02 04:45:33->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed3_itr0
+normed mse:0.0500, mae:0.1677, rmse:0.2235
+denormed mse:4.2067, mae:1.5385, rmse:2.0510
+normed mse:0.0500, mae:0.1677, rmse:0.2235
+TTTT denormed mse:4.2067, mae:1.5385, rmse:2.0510
+
+
+
+
+#2023-06-02 00:26:37->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed141_itr0
+normed mse:0.0493, mae:0.1662, rmse:0.2219
+denormed mse:4.1480, mae:1.5254, rmse:2.0367
+normed mse:0.0493, mae:0.1662, rmse:0.2219
+TTTT denormed mse:4.1480, mae:1.5254, rmse:2.0367
+
+
+
+
+#2023-06-02 08:06:42->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed80_itr0
+normed mse:0.0870, mae:0.2329, rmse:0.2949
+denormed mse:7.3233, mae:2.1371, rmse:2.7062
+normed mse:0.0870, mae:0.2329, rmse:0.2949
+TTTT denormed mse:7.3233, mae:2.1371, rmse:2.7062
+
+
+
+
+#2023-06-02 08:42:36->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed15_itr0
+normed mse:0.0872, mae:0.2335, rmse:0.2953
+denormed mse:7.3431, mae:2.1427, rmse:2.7098
+normed mse:0.0872, mae:0.2335, rmse:0.2953
+TTTT denormed mse:7.3431, mae:2.1427, rmse:2.7098
+
+
+
+
+#2023-06-02 10:37:43->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed41_itr0
+normed mse:0.1616, mae:0.3293, rmse:0.4020
+denormed mse:13.6103, mae:3.0214, rmse:3.6892
+normed mse:0.1616, mae:0.3293, rmse:0.4020
+TTTT denormed mse:13.6103, mae:3.0214, rmse:3.6892
+
+
+
+
+#2023-06-02 09:43:43->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed144_itr0
+normed mse:0.0897, mae:0.2353, rmse:0.2995
+denormed mse:7.5513, mae:2.1591, rmse:2.7480
+normed mse:0.0897, mae:0.2353, rmse:0.2995
+TTTT denormed mse:7.5513, mae:2.1591, rmse:2.7480
+
+
+
+
+#2023-06-02 07:30:12->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed167_itr0
+normed mse:0.0965, mae:0.2424, rmse:0.3107
+denormed mse:8.1287, mae:2.2240, rmse:2.8511
+normed mse:0.0965, mae:0.2424, rmse:0.3107
+TTTT denormed mse:8.1287, mae:2.2240, rmse:2.8511
+
+
+
+
+#2023-06-02 06:08:22->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed37_itr0
+normed mse:0.0773, mae:0.2096, rmse:0.2781
+denormed mse:6.5133, mae:1.9232, rmse:2.5521
+normed mse:0.0773, mae:0.2096, rmse:0.2781
+TTTT denormed mse:6.5133, mae:1.9232, rmse:2.5521
+
+
+
+
+#2023-06-02 11:49:45->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed104_itr0
+normed mse:0.1843, mae:0.3555, rmse:0.4293
+denormed mse:15.5217, mae:3.2621, rmse:3.9398
+normed mse:0.1843, mae:0.3555, rmse:0.4293
+TTTT denormed mse:15.5217, mae:3.2621, rmse:3.9398
+
+
+
+
+#2023-06-02 03:42:13->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed140_itr0
+normed mse:0.0302, mae:0.1310, rmse:0.1738
+denormed mse:2.5431, mae:1.2023, rmse:1.5947
+normed mse:0.0302, mae:0.1310, rmse:0.1738
+TTTT denormed mse:2.5431, mae:1.2023, rmse:1.5947
+
+
+
+
+#2023-06-02 10:46:12->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed20_itr0
+normed mse:0.1766, mae:0.3468, rmse:0.4202
+denormed mse:14.8683, mae:3.1825, rmse:3.8559
+normed mse:0.1766, mae:0.3468, rmse:0.4202
+TTTT denormed mse:14.8683, mae:3.1825, rmse:3.8559
+
+
+
+
+#2023-06-02 08:06:31->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed79_itr0
+normed mse:0.0770, mae:0.2094, rmse:0.2774
+denormed mse:6.4815, mae:1.9214, rmse:2.5459
+normed mse:0.0770, mae:0.2094, rmse:0.2774
+TTTT denormed mse:6.4815, mae:1.9214, rmse:2.5459
+
+
+
+
+#2023-06-02 09:26:01->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed6_itr0
+normed mse:0.1566, mae:0.3234, rmse:0.3958
+denormed mse:13.1886, mae:2.9678, rmse:3.6316
+normed mse:0.1566, mae:0.3234, rmse:0.3958
+TTTT denormed mse:13.1886, mae:2.9678, rmse:3.6316
+
+
+
+
+#2023-06-02 08:58:08->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed77_itr0
+normed mse:0.0558, mae:0.1798, rmse:0.2363
+denormed mse:4.7017, mae:1.6496, rmse:2.1683
+normed mse:0.0558, mae:0.1798, rmse:0.2363
+TTTT denormed mse:4.7017, mae:1.6496, rmse:2.1683
+
+
+
+
+#2023-06-02 01:58:37->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed3_itr0
+normed mse:0.0310, mae:0.1332, rmse:0.1762
+denormed mse:2.6140, mae:1.2226, rmse:1.6168
+normed mse:0.0310, mae:0.1332, rmse:0.1762
+TTTT denormed mse:2.6140, mae:1.2226, rmse:1.6168
+
+
+
+
+#2023-06-02 09:08:50->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed99_itr0
+normed mse:0.0967, mae:0.2424, rmse:0.3109
+denormed mse:8.1399, mae:2.2248, rmse:2.8531
+normed mse:0.0967, mae:0.2424, rmse:0.3109
+TTTT denormed mse:8.1399, mae:2.2248, rmse:2.8531
+
+
+
+
+#2023-06-02 08:08:38->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed167_itr0
+normed mse:0.0965, mae:0.2424, rmse:0.3107
+denormed mse:8.1287, mae:2.2240, rmse:2.8511
+normed mse:0.0965, mae:0.2424, rmse:0.3107
+TTTT denormed mse:8.1287, mae:2.2240, rmse:2.8511
+
+
+
+
+#2023-06-02 04:12:37->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed57_itr0
+normed mse:0.0510, mae:0.1693, rmse:0.2258
+denormed mse:4.2940, mae:1.5533, rmse:2.0722
+normed mse:0.0510, mae:0.1693, rmse:0.2258
+TTTT denormed mse:4.2940, mae:1.5533, rmse:2.0722
+
+
+
+
+#2023-06-02 10:04:21->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed62_itr0
+normed mse:0.1573, mae:0.3237, rmse:0.3966
+denormed mse:13.2463, mae:2.9701, rmse:3.6395
+normed mse:0.1573, mae:0.3237, rmse:0.3966
+TTTT denormed mse:13.2463, mae:2.9701, rmse:3.6395
+
+
+
+
+#2023-06-02 05:46:26->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed162_itr0
+normed mse:0.0494, mae:0.1663, rmse:0.2222
+denormed mse:4.1582, mae:1.5265, rmse:2.0392
+normed mse:0.0494, mae:0.1663, rmse:0.2222
+TTTT denormed mse:4.1582, mae:1.5265, rmse:2.0392
+
+
+
+
+#2023-06-02 10:16:36->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed78_itr0
+normed mse:0.1061, mae:0.2560, rmse:0.3257
+denormed mse:8.9306, mae:2.3490, rmse:2.9884
+normed mse:0.1061, mae:0.2560, rmse:0.3257
+TTTT denormed mse:8.9306, mae:2.3490, rmse:2.9884
+
+
+
+
+#2023-06-02 12:26:40->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed123_itr0
+normed mse:0.0980, mae:0.2444, rmse:0.3131
+denormed mse:8.2551, mae:2.2431, rmse:2.8732
+normed mse:0.0980, mae:0.2444, rmse:0.3131
+TTTT denormed mse:8.2551, mae:2.2431, rmse:2.8732
+
+
+
+
+#2023-06-02 09:01:58->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed59_itr0
+normed mse:0.0869, mae:0.2308, rmse:0.2947
+denormed mse:7.3137, mae:2.1177, rmse:2.7044
+normed mse:0.0869, mae:0.2308, rmse:0.2947
+TTTT denormed mse:7.3137, mae:2.1177, rmse:2.7044
+
+
+
+
+#2023-06-02 09:20:19->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed6_itr0
+normed mse:0.0745, mae:0.2062, rmse:0.2729
+denormed mse:6.2707, mae:1.8919, rmse:2.5041
+normed mse:0.0745, mae:0.2062, rmse:0.2729
+TTTT denormed mse:6.2707, mae:1.8919, rmse:2.5041
+
+
+
+
+#2023-06-02 13:43:24->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed82_itr0
+normed mse:0.1876, mae:0.3606, rmse:0.4331
+denormed mse:15.7981, mae:3.3091, rmse:3.9747
+normed mse:0.1876, mae:0.3606, rmse:0.4331
+TTTT denormed mse:15.7981, mae:3.3091, rmse:3.9747
+
+
+
+
+#2023-06-02 09:24:21->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed5_itr0
+normed mse:0.0908, mae:0.2358, rmse:0.3013
+denormed mse:7.6461, mae:2.1637, rmse:2.7652
+normed mse:0.0908, mae:0.2358, rmse:0.3013
+TTTT denormed mse:7.6461, mae:2.1637, rmse:2.7652
+
+
+
+
+#2023-06-02 01:09:19->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed99_itr0
+normed mse:0.0830, mae:0.2155, rmse:0.2881
+denormed mse:6.9897, mae:1.9773, rmse:2.6438
+normed mse:0.0830, mae:0.2155, rmse:0.2881
+TTTT denormed mse:6.9897, mae:1.9773, rmse:2.6438
+
+
+
+
+#2023-06-02 14:54:17->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed168_itr0
+normed mse:0.0900, mae:0.2384, rmse:0.3000
+denormed mse:7.5777, mae:2.1879, rmse:2.7528
+normed mse:0.0900, mae:0.2384, rmse:0.3000
+TTTT denormed mse:7.5777, mae:2.1879, rmse:2.7528
+
+
+
+
+#2023-06-02 03:34:54->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed162_itr0
+normed mse:0.0846, mae:0.2175, rmse:0.2908
+denormed mse:7.1229, mae:1.9957, rmse:2.6689
+normed mse:0.0846, mae:0.2175, rmse:0.2908
+TTTT denormed mse:7.1229, mae:1.9957, rmse:2.6689
+
+
+
+
+#2023-06-02 14:12:11->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed142_itr0
+normed mse:0.1113, mae:0.2637, rmse:0.3337
+denormed mse:9.3750, mae:2.4202, rmse:3.0619
+normed mse:0.1113, mae:0.2637, rmse:0.3337
+TTTT denormed mse:9.3750, mae:2.4202, rmse:3.0619
+
+
+
+
+#2023-06-02 05:16:33->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed14_itr0
+normed mse:0.0327, mae:0.1374, rmse:0.1808
+denormed mse:2.7530, mae:1.2609, rmse:1.6592
+normed mse:0.0327, mae:0.1374, rmse:0.1808
+TTTT denormed mse:2.7530, mae:1.2609, rmse:1.6592
+
+
+
+
+#2023-06-02 11:15:29->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed122_itr0
+normed mse:0.1763, mae:0.3469, rmse:0.4199
+denormed mse:14.8454, mae:3.1836, rmse:3.8530
+normed mse:0.1763, mae:0.3469, rmse:0.4199
+TTTT denormed mse:14.8454, mae:3.1836, rmse:3.8530
+
+
+
+
+#2023-06-02 15:27:59->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed7_itr0
+normed mse:0.1530, mae:0.3182, rmse:0.3912
+denormed mse:12.8860, mae:2.9201, rmse:3.5897
+normed mse:0.1530, mae:0.3182, rmse:0.3912
+TTTT denormed mse:12.8860, mae:2.9201, rmse:3.5897
+
+
+
+
+#2023-06-02 15:22:32->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed21_itr0
+normed mse:0.1803, mae:0.3502, rmse:0.4246
+denormed mse:15.1803, mae:3.2140, rmse:3.8962
+normed mse:0.1803, mae:0.3502, rmse:0.4246
+TTTT denormed mse:15.1803, mae:3.2140, rmse:3.8962
+
+
+
+
+#2023-06-02 14:50:01->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed145_itr0
+normed mse:0.0943, mae:0.2411, rmse:0.3070
+denormed mse:7.9368, mae:2.2128, rmse:2.8172
+normed mse:0.0943, mae:0.2411, rmse:0.3070
+TTTT denormed mse:7.9368, mae:2.2128, rmse:2.8172
+
+
+
+
+#2023-06-02 15:44:52->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed168_itr0
+normed mse:0.0900, mae:0.2384, rmse:0.3000
+denormed mse:7.5777, mae:2.1879, rmse:2.7528
+normed mse:0.0900, mae:0.2384, rmse:0.3000
+TTTT denormed mse:7.5777, mae:2.1879, rmse:2.7528
+
+
+
+
+#2023-06-02 15:36:07->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed100_itr0
+normed mse:0.0922, mae:0.2386, rmse:0.3036
+denormed mse:7.7634, mae:2.1897, rmse:2.7863
+normed mse:0.0922, mae:0.2386, rmse:0.3036
+TTTT denormed mse:7.7634, mae:2.1897, rmse:2.7863
+
+
+
+
+#2023-06-02 07:28:59->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed99_itr0
+normed mse:0.0509, mae:0.1691, rmse:0.2256
+denormed mse:4.2864, mae:1.5517, rmse:2.0704
+normed mse:0.0509, mae:0.1691, rmse:0.2256
+TTTT denormed mse:4.2864, mae:1.5517, rmse:2.0704
+
+
+
+
+#2023-06-02 13:58:37->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed59_itr0
+normed mse:0.0739, mae:0.2063, rmse:0.2719
+denormed mse:6.2262, mae:1.8930, rmse:2.4952
+normed mse:0.0739, mae:0.2063, rmse:0.2719
+TTTT denormed mse:6.2262, mae:1.8930, rmse:2.4952
+
+
+
+
+#2023-06-02 15:35:13->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed4_itr0
+normed mse:0.0588, mae:0.1854, rmse:0.2426
+denormed mse:4.9546, mae:1.7012, rmse:2.2259
+normed mse:0.0588, mae:0.1854, rmse:0.2426
+TTTT denormed mse:4.9546, mae:1.7012, rmse:2.2259
+
+
+
+
+#2023-06-02 11:37:35->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed17_itr0
+normed mse:0.0786, mae:0.2101, rmse:0.2803
+denormed mse:6.6170, mae:1.9278, rmse:2.5724
+normed mse:0.0786, mae:0.2101, rmse:0.2803
+TTTT denormed mse:6.6170, mae:1.9278, rmse:2.5724
+
+
+
+
+#2023-06-02 09:32:01->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed162_itr0
+normed mse:0.0319, mae:0.1357, rmse:0.1786
+denormed mse:2.6874, mae:1.2455, rmse:1.6393
+normed mse:0.0319, mae:0.1357, rmse:0.1786
+TTTT denormed mse:2.6874, mae:1.2455, rmse:1.6393
+
+
+
+
+#2023-06-02 05:37:30->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed141_itr0
+normed mse:0.0842, mae:0.2170, rmse:0.2901
+denormed mse:7.0875, mae:1.9917, rmse:2.6622
+normed mse:0.0842, mae:0.2170, rmse:0.2901
+TTTT denormed mse:7.0875, mae:1.9917, rmse:2.6622
+
+
+
+
+#2023-06-02 17:03:24->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed83_itr0
+normed mse:0.1803, mae:0.3512, rmse:0.4246
+denormed mse:15.1850, mae:3.2232, rmse:3.8968
+normed mse:0.1803, mae:0.3512, rmse:0.4246
+TTTT denormed mse:15.1850, mae:3.2232, rmse:3.8968
+
+
+
+
+#2023-06-02 01:57:26->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed36_itr0
+normed mse:0.0490, mae:0.1659, rmse:0.2213
+denormed mse:4.1234, mae:1.5223, rmse:2.0306
+normed mse:0.0490, mae:0.1659, rmse:0.2213
+TTTT denormed mse:4.1234, mae:1.5223, rmse:2.0306
+
+
+
+
+#2023-06-02 11:52:19->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed122_itr0
+normed mse:0.0784, mae:0.2097, rmse:0.2800
+denormed mse:6.6015, mae:1.9246, rmse:2.5693
+normed mse:0.0784, mae:0.2097, rmse:0.2800
+TTTT denormed mse:6.6015, mae:1.9246, rmse:2.5693
+
+
+
+
+#2023-06-02 16:52:45->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed7_itr0
+normed mse:0.0754, mae:0.2113, rmse:0.2746
+denormed mse:6.3479, mae:1.9389, rmse:2.5195
+normed mse:0.0754, mae:0.2113, rmse:0.2746
+TTTT denormed mse:6.3479, mae:1.9389, rmse:2.5195
+
+
+
+
+#2023-06-02 14:21:20->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed16_itr0
+normed mse:0.0906, mae:0.2359, rmse:0.3009
+denormed mse:7.6256, mae:2.1651, rmse:2.7614
+normed mse:0.0906, mae:0.2359, rmse:0.3009
+TTTT denormed mse:7.6256, mae:2.1651, rmse:2.7614
+
+
+
+
+#2023-06-02 15:17:25->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed105_itr0
+normed mse:0.1718, mae:0.3414, rmse:0.4145
+denormed mse:14.4656, mae:3.1333, rmse:3.8034
+normed mse:0.1718, mae:0.3414, rmse:0.4145
+TTTT denormed mse:14.4656, mae:3.1333, rmse:3.8034
+
+
+
+
+#2023-06-02 18:24:11->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed22_itr0
+normed mse:0.1311, mae:0.2918, rmse:0.3620
+denormed mse:11.0355, mae:2.6775, rmse:3.3220
+normed mse:0.1311, mae:0.2918, rmse:0.3620
+TTTT denormed mse:11.0355, mae:2.6775, rmse:3.3220
+
+
+
+
+#2023-06-02 08:14:44->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed120_itr0
+normed mse:0.0313, mae:0.1336, rmse:0.1771
+denormed mse:2.6398, mae:1.2262, rmse:1.6248
+normed mse:0.0313, mae:0.1336, rmse:0.1771
+TTTT denormed mse:2.6398, mae:1.2262, rmse:1.6248
+
+
+
+
+#2023-06-02 14:39:07->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed42_itr0
+normed mse:0.1578, mae:0.3244, rmse:0.3973
+denormed mse:13.2922, mae:2.9768, rmse:3.6458
+normed mse:0.1578, mae:0.3244, rmse:0.3973
+TTTT denormed mse:13.2922, mae:2.9768, rmse:3.6458
+
+
+
+
+#2023-06-02 14:00:16->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed4_itr0
+normed mse:0.1039, mae:0.2527, rmse:0.3224
+denormed mse:8.7507, mae:2.3188, rmse:2.9582
+normed mse:0.1039, mae:0.2527, rmse:0.3224
+TTTT denormed mse:8.7507, mae:2.3188, rmse:2.9582
+
+
+
+
+#2023-06-02 18:17:35->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed8_itr0
+normed mse:0.1598, mae:0.3267, rmse:0.3997
+denormed mse:13.4536, mae:2.9977, rmse:3.6679
+normed mse:0.1598, mae:0.3267, rmse:0.3997
+TTTT denormed mse:13.4536, mae:2.9977, rmse:3.6679
+
+
+
+
+#2023-06-02 17:43:27->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed169_itr0
+normed mse:0.0894, mae:0.2357, rmse:0.2989
+denormed mse:7.5256, mae:2.1632, rmse:2.7433
+normed mse:0.0894, mae:0.2357, rmse:0.2989
+TTTT denormed mse:7.5256, mae:2.1632, rmse:2.7433
+
+
+
+
+#2023-06-02 12:14:02->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed147_itr0
+normed mse:0.1604, mae:0.3271, rmse:0.4006
+denormed mse:13.5111, mae:3.0020, rmse:3.6757
+normed mse:0.1604, mae:0.3271, rmse:0.4006
+TTTT denormed mse:13.5111, mae:3.0020, rmse:3.6757
+
+
+
+
+#2023-06-02 15:47:32->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed63_itr0
+normed mse:0.1712, mae:0.3402, rmse:0.4137
+denormed mse:14.4144, mae:3.1218, rmse:3.7966
+normed mse:0.1712, mae:0.3402, rmse:0.4137
+TTTT denormed mse:14.4144, mae:3.1218, rmse:3.7966
+
+
+
+
+#2023-06-02 18:34:26->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed146_itr0
+normed mse:0.0949, mae:0.2412, rmse:0.3080
+denormed mse:7.9899, mae:2.2135, rmse:2.8266
+normed mse:0.0949, mae:0.2412, rmse:0.3080
+TTTT denormed mse:7.9899, mae:2.2135, rmse:2.8266
+
+
+
+
+#2023-06-02 18:38:40->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed169_itr0
+normed mse:0.0894, mae:0.2357, rmse:0.2989
+denormed mse:7.5256, mae:2.1632, rmse:2.7433
+normed mse:0.0894, mae:0.2357, rmse:0.2989
+TTTT denormed mse:7.5256, mae:2.1632, rmse:2.7433
+
+
+
+
+#2023-06-02 06:09:44->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed98_itr0
+normed mse:0.0319, mae:0.1350, rmse:0.1787
+denormed mse:2.6892, mae:1.2387, rmse:1.6399
+normed mse:0.0319, mae:0.1350, rmse:0.1787
+TTTT denormed mse:2.6892, mae:1.2387, rmse:1.6399
+
+
+
+
+#2023-06-02 15:34:06->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed78_itr0
+normed mse:0.0546, mae:0.1777, rmse:0.2336
+denormed mse:4.5963, mae:1.6304, rmse:2.1439
+normed mse:0.0546, mae:0.1777, rmse:0.2336
+TTTT denormed mse:4.5963, mae:1.6304, rmse:2.1439
+
+
+
+
+#2023-06-02 19:40:19->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed84_itr0
+normed mse:0.1721, mae:0.3416, rmse:0.4149
+denormed mse:14.4925, mae:3.1343, rmse:3.8069
+normed mse:0.1721, mae:0.3416, rmse:0.4149
+TTTT denormed mse:14.4925, mae:3.1343, rmse:3.8069
+
+
+
+
+#2023-06-02 15:22:34->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed80_itr0
+normed mse:0.0810, mae:0.2135, rmse:0.2847
+denormed mse:6.8230, mae:1.9590, rmse:2.6121
+normed mse:0.0810, mae:0.2135, rmse:0.2847
+TTTT denormed mse:6.8230, mae:1.9590, rmse:2.6121
+
+
+
+
+#2023-06-02 14:20:42->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed81_itr0
+normed mse:0.0952, mae:0.2403, rmse:0.3085
+denormed mse:8.0151, mae:2.2055, rmse:2.8311
+normed mse:0.0952, mae:0.2403, rmse:0.3085
+TTTT denormed mse:8.0151, mae:2.2055, rmse:2.8311
+
+
+
+
+#2023-06-02 17:38:39->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed100_itr0
+normed mse:0.0777, mae:0.2104, rmse:0.2788
+denormed mse:6.5471, mae:1.9308, rmse:2.5587
+normed mse:0.0777, mae:0.2104, rmse:0.2788
+TTTT denormed mse:6.5471, mae:1.9308, rmse:2.5587
+
+
+
+
+#2023-06-02 07:44:04->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed57_itr0
+normed mse:0.0324, mae:0.1361, rmse:0.1800
+denormed mse:2.7281, mae:1.2490, rmse:1.6517
+normed mse:0.0324, mae:0.1361, rmse:0.1800
+TTTT denormed mse:2.7281, mae:1.2490, rmse:1.6517
+
+
+
+
+#2023-06-02 18:40:12->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed101_itr0
+normed mse:0.0925, mae:0.2385, rmse:0.3042
+denormed mse:7.7930, mae:2.1888, rmse:2.7916
+normed mse:0.0925, mae:0.2385, rmse:0.3042
+TTTT denormed mse:7.7930, mae:2.1888, rmse:2.7916
+
+
+
+
+#2023-06-02 10:20:57->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed120_itr0
+normed mse:0.0464, mae:0.1616, rmse:0.2154
+denormed mse:3.9056, mae:1.4833, rmse:1.9763
+normed mse:0.0464, mae:0.1616, rmse:0.2154
+TTTT denormed mse:3.9056, mae:1.4833, rmse:1.9763
+
+
+
+
+#2023-06-02 19:01:23->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed60_itr0
+normed mse:0.0766, mae:0.2100, rmse:0.2768
+denormed mse:6.4525, mae:1.9271, rmse:2.5402
+normed mse:0.0766, mae:0.2100, rmse:0.2768
+TTTT denormed mse:6.4525, mae:1.9271, rmse:2.5402
+
+
+
+
+#2023-06-02 20:34:26->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed23_itr0
+normed mse:0.1824, mae:0.3533, rmse:0.4271
+denormed mse:15.3615, mae:3.2421, rmse:3.9194
+normed mse:0.1824, mae:0.3533, rmse:0.4271
+TTTT denormed mse:15.3615, mae:3.2421, rmse:3.9194
+
+
+
+
+#2023-06-02 16:48:28->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed60_itr0
+normed mse:0.1005, mae:0.2468, rmse:0.3170
+denormed mse:8.4644, mae:2.2647, rmse:2.9094
+normed mse:0.1005, mae:0.2468, rmse:0.3170
+TTTT denormed mse:8.4644, mae:2.2647, rmse:2.9094
+
+
+
+
+#2023-06-02 16:18:52->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed163_itr0
+normed mse:0.0472, mae:0.1629, rmse:0.2173
+denormed mse:3.9768, mae:1.4949, rmse:1.9942
+normed mse:0.0472, mae:0.1629, rmse:0.2173
+TTTT denormed mse:3.9768, mae:1.4949, rmse:1.9942
+
+
+
+
+#2023-06-02 21:15:46->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed148_itr0
+normed mse:0.1572, mae:0.3241, rmse:0.3965
+denormed mse:13.2413, mae:2.9737, rmse:3.6389
+normed mse:0.1572, mae:0.3241, rmse:0.3965
+TTTT denormed mse:13.2413, mae:2.9737, rmse:3.6389
+
+
+
+
+#2023-06-02 18:15:31->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed123_itr0
+normed mse:0.1550, mae:0.3212, rmse:0.3937
+denormed mse:13.0516, mae:2.9478, rmse:3.6127
+normed mse:0.1550, mae:0.3212, rmse:0.3937
+TTTT denormed mse:13.0516, mae:2.9478, rmse:3.6127
+
+
+
+
+#2023-06-02 15:14:47->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed38_itr0
+normed mse:0.0803, mae:0.2126, rmse:0.2834
+denormed mse:6.7615, mae:1.9513, rmse:2.6003
+normed mse:0.0803, mae:0.2126, rmse:0.2834
+TTTT denormed mse:6.7615, mae:1.9513, rmse:2.6003
+
+
+
+
+#2023-06-02 07:07:28->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed36_itr0
+normed mse:0.0323, mae:0.1360, rmse:0.1797
+denormed mse:2.7187, mae:1.2479, rmse:1.6489
+normed mse:0.0323, mae:0.1360, rmse:0.1797
+TTTT denormed mse:2.7187, mae:1.2479, rmse:1.6489
+
+
+
+
+#2023-06-02 22:42:35->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed85_itr0
+normed mse:0.1787, mae:0.3490, rmse:0.4227
+denormed mse:15.0488, mae:3.2026, rmse:3.8793
+normed mse:0.1787, mae:0.3490, rmse:0.4227
+TTTT denormed mse:15.0488, mae:3.2026, rmse:3.8793
+
+
+
+
+#2023-06-02 19:36:31->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed142_itr0
+normed mse:0.0784, mae:0.2128, rmse:0.2801
+denormed mse:6.6056, mae:1.9531, rmse:2.5701
+normed mse:0.0784, mae:0.2128, rmse:0.2801
+TTTT denormed mse:6.6056, mae:1.9531, rmse:2.5701
+
+
+
+
+#2023-06-02 13:19:37->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed15_itr0
+normed mse:0.0506, mae:0.1687, rmse:0.2248
+denormed mse:4.2568, mae:1.5476, rmse:2.0632
+normed mse:0.0506, mae:0.1687, rmse:0.2248
+TTTT denormed mse:4.2568, mae:1.5476, rmse:2.0632
+
+
+
+
+#2023-06-02 16:19:25->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed79_itr0
+normed mse:0.0489, mae:0.1656, rmse:0.2211
+denormed mse:4.1168, mae:1.5195, rmse:2.0290
+normed mse:0.0489, mae:0.1656, rmse:0.2211
+TTTT denormed mse:4.1168, mae:1.5195, rmse:2.0290
+
+
+
+
+#2023-06-02 22:16:06->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed99_itr0
+normed mse:0.0543, mae:0.1774, rmse:0.2330
+denormed mse:4.5727, mae:1.6280, rmse:2.1384
+normed mse:0.0543, mae:0.1774, rmse:0.2330
+TTTT denormed mse:4.5727, mae:1.6280, rmse:2.1384
+
+
+
+
+#2023-06-02 21:12:05->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed170_itr0
+normed mse:0.0889, mae:0.2352, rmse:0.2982
+denormed mse:7.4875, mae:2.1581, rmse:2.7363
+normed mse:0.0889, mae:0.2352, rmse:0.2982
+TTTT denormed mse:7.4875, mae:2.1581, rmse:2.7363
+
+
+
+
+#2023-06-02 20:58:21->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed9_itr0
+normed mse:0.1793, mae:0.3500, rmse:0.4234
+denormed mse:15.0953, mae:3.2116, rmse:3.8853
+normed mse:0.1793, mae:0.3500, rmse:0.4234
+TTTT denormed mse:15.0953, mae:3.2116, rmse:3.8853
+
+
+
+
+#2023-06-02 18:01:01->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed163_itr0
+normed mse:0.0830, mae:0.2158, rmse:0.2881
+denormed mse:6.9898, mae:1.9799, rmse:2.6438
+normed mse:0.0830, mae:0.2158, rmse:0.2881
+TTTT denormed mse:6.9898, mae:1.9799, rmse:2.6438
+
+
+
+
+#2023-06-02 16:48:12->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed124_itr0
+normed mse:0.1000, mae:0.2457, rmse:0.3162
+denormed mse:8.4215, mae:2.2545, rmse:2.9020
+normed mse:0.1000, mae:0.2457, rmse:0.3162
+TTTT denormed mse:8.4215, mae:2.2545, rmse:2.9020
+
+
+
+
+#2023-06-02 22:08:59->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed147_itr0
+normed mse:0.0921, mae:0.2386, rmse:0.3035
+denormed mse:7.7584, mae:2.1895, rmse:2.7854
+normed mse:0.0921, mae:0.2386, rmse:0.3035
+TTTT denormed mse:7.7584, mae:2.1895, rmse:2.7854
+
+
+
+
+#2023-06-02 22:50:47->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed82_itr0
+normed mse:0.0920, mae:0.2375, rmse:0.3032
+denormed mse:7.7438, mae:2.1797, rmse:2.7828
+normed mse:0.0920, mae:0.2375, rmse:0.3032
+TTTT denormed mse:7.7438, mae:2.1797, rmse:2.7828
+
+
+
+
+#2023-06-02 21:32:48->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed64_itr0
+normed mse:0.1828, mae:0.3542, rmse:0.4276
+denormed mse:15.3969, mae:3.2506, rmse:3.9239
+normed mse:0.1828, mae:0.3542, rmse:0.4276
+TTTT denormed mse:15.3969, mae:3.2506, rmse:3.9239
+
+
+
+
+#2023-06-02 20:50:19->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed43_itr0
+normed mse:0.1770, mae:0.3471, rmse:0.4208
+denormed mse:14.9082, mae:3.1856, rmse:3.8611
+normed mse:0.1770, mae:0.3471, rmse:0.4208
+TTTT denormed mse:14.9082, mae:3.1856, rmse:3.8611
+
+
+
+
+#2023-06-02 19:29:02->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed18_itr0
+normed mse:0.0779, mae:0.2096, rmse:0.2790
+denormed mse:6.5565, mae:1.9238, rmse:2.5606
+normed mse:0.0779, mae:0.2096, rmse:0.2790
+TTTT denormed mse:6.5565, mae:1.9238, rmse:2.5606
+
+
+
+
+#2023-06-02 22:11:44->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed170_itr0
+normed mse:0.0889, mae:0.2352, rmse:0.2982
+denormed mse:7.4875, mae:2.1581, rmse:2.7363
+normed mse:0.0889, mae:0.2352, rmse:0.2982
+TTTT denormed mse:7.4875, mae:2.1581, rmse:2.7363
+
+
+
+
+#2023-06-02 18:59:28->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed100_itr0
+normed mse:0.0498, mae:0.1670, rmse:0.2231
+denormed mse:4.1909, mae:1.5327, rmse:2.0472
+normed mse:0.0498, mae:0.1670, rmse:0.2231
+TTTT denormed mse:4.1909, mae:1.5327, rmse:2.0472
+
+
+
+
+#2023-06-02 22:48:31->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed81_itr0
+normed mse:0.0745, mae:0.2078, rmse:0.2729
+denormed mse:6.2726, mae:1.9067, rmse:2.5045
+normed mse:0.0745, mae:0.2078, rmse:0.2729
+TTTT denormed mse:6.2726, mae:1.9067, rmse:2.5045
+
+
+
+
+#2023-06-02 20:30:56->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed106_itr0
+normed mse:0.1592, mae:0.3261, rmse:0.3990
+denormed mse:13.4079, mae:2.9923, rmse:3.6617
+normed mse:0.1592, mae:0.3261, rmse:0.3990
+TTTT denormed mse:13.4079, mae:2.9923, rmse:3.6617
+
+
+
+
+#2023-06-02 20:03:22->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed123_itr0
+normed mse:0.0777, mae:0.2097, rmse:0.2788
+denormed mse:6.5442, mae:1.9243, rmse:2.5582
+normed mse:0.0777, mae:0.2097, rmse:0.2788
+TTTT denormed mse:6.5442, mae:1.9243, rmse:2.5582
+
+
+
+
+#2023-06-02 23:01:35->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed101_itr0
+normed mse:0.0737, mae:0.2087, rmse:0.2714
+denormed mse:6.2020, mae:1.9154, rmse:2.4904
+normed mse:0.0737, mae:0.2087, rmse:0.2714
+TTTT denormed mse:6.2020, mae:1.9154, rmse:2.4904
+
+
+
+
+#2023-06-02 19:58:47->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed37_itr0
+normed mse:0.0467, mae:0.1622, rmse:0.2161
+denormed mse:3.9335, mae:1.4880, rmse:1.9833
+normed mse:0.0467, mae:0.1622, rmse:0.2161
+TTTT denormed mse:3.9335, mae:1.4880, rmse:1.9833
+
+
+
+
+#2023-06-03 01:44:17->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed86_itr0
+normed mse:0.1861, mae:0.3575, rmse:0.4314
+denormed mse:15.6741, mae:3.2805, rmse:3.9591
+normed mse:0.1861, mae:0.3575, rmse:0.4314
+TTTT denormed mse:15.6741, mae:3.2805, rmse:3.9591
+
+
+
+
+#2023-06-03 00:33:44->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed149_itr0
+normed mse:0.1837, mae:0.3560, rmse:0.4286
+denormed mse:15.4710, mae:3.2669, rmse:3.9333
+normed mse:0.1837, mae:0.3560, rmse:0.4286
+TTTT denormed mse:15.4710, mae:3.2669, rmse:3.9333
+
+
+
+
+#2023-06-03 01:07:26->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed39_itr0
+normed mse:0.1530, mae:0.3014, rmse:0.3912
+denormed mse:12.8852, mae:2.7656, rmse:3.5896
+normed mse:0.1530, mae:0.3014, rmse:0.3912
+TTTT denormed mse:12.8852, mae:2.7656, rmse:3.5896
+
+
+
+
+#2023-06-03 00:52:22->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed124_itr0
+normed mse:0.1754, mae:0.3448, rmse:0.4188
+denormed mse:14.7685, mae:3.1645, rmse:3.8430
+normed mse:0.1754, mae:0.3448, rmse:0.4188
+TTTT denormed mse:14.7685, mae:3.1645, rmse:3.8430
+
+
+
+
+#2023-06-02 08:57:19->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed41_itr0
+normed mse:0.1025, mae:0.2484, rmse:0.3201
+denormed mse:8.6301, mae:2.2798, rmse:2.9377
+normed mse:0.1025, mae:0.2484, rmse:0.3201
+TTTT denormed mse:8.6301, mae:2.2798, rmse:2.9377
+
+
+
+
+#2023-06-02 15:18:54->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed141_itr0
+normed mse:0.0320, mae:0.1351, rmse:0.1787
+denormed mse:2.6905, mae:1.2399, rmse:1.6403
+normed mse:0.0320, mae:0.1351, rmse:0.1787
+TTTT denormed mse:2.6905, mae:1.2399, rmse:1.6403
+
+
+
+
+#2023-06-02 23:16:25->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed102_itr0
+normed mse:0.0963, mae:0.2421, rmse:0.3103
+denormed mse:8.1068, mae:2.2219, rmse:2.8472
+normed mse:0.0963, mae:0.2421, rmse:0.3103
+TTTT denormed mse:8.1068, mae:2.2219, rmse:2.8472
+
+
+
+
+#2023-06-03 02:28:46->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed10_itr0
+normed mse:0.1655, mae:0.3336, rmse:0.4068
+denormed mse:13.9360, mae:3.0613, rmse:3.7331
+normed mse:0.1655, mae:0.3336, rmse:0.4068
+TTTT denormed mse:13.9360, mae:3.0613, rmse:3.7331
+
+
+
+
+#2023-06-02 17:09:16->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed6_itr0
+normed mse:0.0979, mae:0.2431, rmse:0.3129
+denormed mse:8.2454, mae:2.2312, rmse:2.8715
+normed mse:0.0979, mae:0.2431, rmse:0.3129
+TTTT denormed mse:8.2454, mae:2.2312, rmse:2.8715
+
+
+
+
+#2023-06-03 00:31:39->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed164_itr0
+normed mse:0.0480, mae:0.1645, rmse:0.2192
+denormed mse:4.0451, mae:1.5096, rmse:2.0112
+normed mse:0.0480, mae:0.1645, rmse:0.2192
+TTTT denormed mse:4.0451, mae:1.5096, rmse:2.0112
+
+
+
+
+#2023-06-03 00:01:32->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed24_itr0
+normed mse:0.1593, mae:0.3260, rmse:0.3991
+denormed mse:13.4113, mae:2.9914, rmse:3.6621
+normed mse:0.1593, mae:0.3260, rmse:0.3991
+TTTT denormed mse:13.4113, mae:2.9914, rmse:3.6621
+
+
+
+
+#2023-06-03 03:10:26->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed44_itr0
+normed mse:0.1526, mae:0.3185, rmse:0.3906
+denormed mse:12.8487, mae:2.9231, rmse:3.5845
+normed mse:0.1526, mae:0.3185, rmse:0.3906
+TTTT denormed mse:12.8487, mae:2.9231, rmse:3.5845
+
+
+
+
+#2023-06-03 01:44:47->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed143_itr0
+normed mse:0.0752, mae:0.2079, rmse:0.2743
+denormed mse:6.3363, mae:1.9082, rmse:2.5172
+normed mse:0.0752, mae:0.2079, rmse:0.2743
+TTTT denormed mse:6.3363, mae:1.9082, rmse:2.5172
+
+
+
+
+#2023-06-03 03:00:48->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed65_itr0
+normed mse:0.1555, mae:0.3215, rmse:0.3943
+denormed mse:13.0907, mae:2.9500, rmse:3.6181
+normed mse:0.1555, mae:0.3215, rmse:0.3943
+TTTT denormed mse:13.0907, mae:2.9500, rmse:3.6181
+
+
+
+
+#2023-06-02 19:08:32->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed5_itr0
+normed mse:0.0317, mae:0.1341, rmse:0.1781
+denormed mse:2.6715, mae:1.2309, rmse:1.6345
+normed mse:0.0317, mae:0.1341, rmse:0.1781
+TTTT denormed mse:2.6715, mae:1.2309, rmse:1.6345
+
+
+
+
+#2023-06-02 20:55:14->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed5_itr0
+normed mse:0.0453, mae:0.1600, rmse:0.2129
+denormed mse:3.8172, mae:1.4679, rmse:1.9538
+normed mse:0.0453, mae:0.1600, rmse:0.2129
+TTTT denormed mse:3.8172, mae:1.4679, rmse:1.9538
+
+
+
+
+#2023-06-03 04:17:09->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed150_itr0
+normed mse:0.1501, mae:0.3155, rmse:0.3875
+denormed mse:12.6434, mae:2.8949, rmse:3.5558
+normed mse:0.1501, mae:0.3155, rmse:0.3875
+TTTT denormed mse:12.6434, mae:2.8949, rmse:3.5558
+
+
+
+
+#2023-06-03 03:36:41->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed82_itr0
+normed mse:0.0765, mae:0.2102, rmse:0.2766
+denormed mse:6.4424, mae:1.9289, rmse:2.5382
+normed mse:0.0765, mae:0.2102, rmse:0.2766
+TTTT denormed mse:6.4424, mae:1.9289, rmse:2.5382
+
+
+
+
+#2023-06-02 15:45:14->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed58_itr0
+normed mse:0.0489, mae:0.1657, rmse:0.2211
+denormed mse:4.1147, mae:1.5201, rmse:2.0285
+normed mse:0.0489, mae:0.1657, rmse:0.2211
+TTTT denormed mse:4.1147, mae:1.5201, rmse:2.0285
+
+
+
+
+#2023-06-03 02:58:07->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed148_itr0
+normed mse:0.0904, mae:0.2365, rmse:0.3006
+denormed mse:7.6108, mae:2.1700, rmse:2.7588
+normed mse:0.0904, mae:0.2365, rmse:0.3006
+TTTT denormed mse:7.6108, mae:2.1700, rmse:2.7588
+
+
+
+
+#2023-06-02 23:54:45->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed61_itr0
+normed mse:0.0749, mae:0.2091, rmse:0.2737
+denormed mse:6.3062, mae:1.9184, rmse:2.5112
+normed mse:0.0749, mae:0.2091, rmse:0.2737
+TTTT denormed mse:6.3062, mae:1.9184, rmse:2.5112
+
+
+
+
+#2023-06-02 19:34:35->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed163_itr0
+normed mse:0.0313, mae:0.1337, rmse:0.1769
+denormed mse:2.6366, mae:1.2267, rmse:1.6238
+normed mse:0.0313, mae:0.1337, rmse:0.1769
+TTTT denormed mse:2.6366, mae:1.2267, rmse:1.6238
+
+
+
+
+#2023-06-02 18:03:36->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed143_itr0
+normed mse:0.0486, mae:0.1654, rmse:0.2204
+denormed mse:4.0906, mae:1.5178, rmse:2.0225
+normed mse:0.0486, mae:0.1654, rmse:0.2204
+TTTT denormed mse:4.0906, mae:1.5178, rmse:2.0225
+
+
+
+
+#2023-06-02 20:37:08->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed121_itr0
+normed mse:0.0341, mae:0.1399, rmse:0.1848
+denormed mse:2.8749, mae:1.2840, rmse:1.6955
+normed mse:0.0341, mae:0.1399, rmse:0.1848
+TTTT denormed mse:2.8749, mae:1.2840, rmse:1.6955
+
+
+
+
+#2023-06-02 18:14:34->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed15_itr0
+normed mse:0.0317, mae:0.1344, rmse:0.1781
+denormed mse:2.6710, mae:1.2333, rmse:1.6343
+normed mse:0.0317, mae:0.1344, rmse:0.1781
+TTTT denormed mse:2.6710, mae:1.2333, rmse:1.6343
+
+
+
+
+#2023-06-02 20:03:56->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed8_itr0
+normed mse:0.0815, mae:0.2137, rmse:0.2854
+denormed mse:6.8605, mae:1.9610, rmse:2.6193
+normed mse:0.0815, mae:0.2137, rmse:0.2854
+TTTT denormed mse:6.8605, mae:1.9610, rmse:2.6193
+
+
+
+
+#2023-06-03 06:02:43->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed25_itr0
+normed mse:0.1499, mae:0.3146, rmse:0.3871
+denormed mse:12.6199, mae:2.8870, rmse:3.5524
+normed mse:0.1499, mae:0.3146, rmse:0.3871
+TTTT denormed mse:12.6199, mae:2.8870, rmse:3.5524
+
+
+
+
+#2023-06-02 20:26:29->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed17_itr0
+normed mse:0.1010, mae:0.2468, rmse:0.3178
+denormed mse:8.5033, mae:2.2648, rmse:2.9160
+normed mse:0.1010, mae:0.2468, rmse:0.3178
+TTTT denormed mse:8.5033, mae:2.2648, rmse:2.9160
+
+
+
+
+#2023-06-03 04:49:37->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed40_itr0
+normed mse:0.0742, mae:0.2084, rmse:0.2725
+denormed mse:6.2508, mae:1.9123, rmse:2.5002
+normed mse:0.0742, mae:0.2084, rmse:0.2725
+TTTT denormed mse:6.2508, mae:1.9123, rmse:2.5002
+
+
+
+
+#2023-06-03 05:26:52->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed11_itr0
+normed mse:0.1854, mae:0.3563, rmse:0.4306
+denormed mse:15.6108, mae:3.2694, rmse:3.9510
+normed mse:0.1854, mae:0.3563, rmse:0.4306
+TTTT denormed mse:15.6108, mae:3.2694, rmse:3.9510
+
+
+
+
+#2023-06-02 23:24:20->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed121_itr0
+normed mse:0.0498, mae:0.1671, rmse:0.2231
+denormed mse:4.1914, mae:1.5338, rmse:2.0473
+normed mse:0.0498, mae:0.1671, rmse:0.2231
+TTTT denormed mse:4.1914, mae:1.5338, rmse:2.0473
+
+
+
+
+#2023-06-03 03:11:05->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed19_itr0
+normed mse:0.0809, mae:0.2135, rmse:0.2844
+denormed mse:6.8131, mae:1.9596, rmse:2.6102
+normed mse:0.0809, mae:0.2135, rmse:0.2844
+TTTT denormed mse:6.8131, mae:1.9596, rmse:2.6102
+
+
+
+
+#2023-06-03 04:12:19->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed87_itr0
+normed mse:0.1462, mae:0.3101, rmse:0.3824
+denormed mse:12.3113, mae:2.8452, rmse:3.5087
+normed mse:0.1462, mae:0.3101, rmse:0.3824
+TTTT denormed mse:12.3113, mae:2.8452, rmse:3.5087
+
+
+
+
+#2023-06-03 05:17:25->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed142_itr0
+normed mse:0.0557, mae:0.1797, rmse:0.2360
+denormed mse:4.6889, mae:1.6490, rmse:2.1654
+normed mse:0.0557, mae:0.1797, rmse:0.2360
+TTTT denormed mse:4.6889, mae:1.6490, rmse:2.1654
+
+
+
+
+#2023-06-03 02:50:30->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed125_itr0
+normed mse:0.0975, mae:0.2431, rmse:0.3123
+denormed mse:8.2107, mae:2.2310, rmse:2.8654
+normed mse:0.0975, mae:0.2431, rmse:0.3123
+TTTT denormed mse:8.2107, mae:2.2310, rmse:2.8654
+
+
+
+
+#2023-06-03 05:08:49->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed42_itr0
+normed mse:0.0962, mae:0.2421, rmse:0.3102
+denormed mse:8.1012, mae:2.2213, rmse:2.8463
+normed mse:0.0962, mae:0.2421, rmse:0.3102
+TTTT denormed mse:8.1012, mae:2.2213, rmse:2.8463
+
+
+
+
+#2023-06-03 00:17:06->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed61_itr0
+normed mse:0.0979, mae:0.2432, rmse:0.3129
+denormed mse:8.2444, mae:2.2315, rmse:2.8713
+normed mse:0.0979, mae:0.2432, rmse:0.3129
+TTTT denormed mse:8.2444, mae:2.2315, rmse:2.8713
+
+
+
+
+#2023-06-03 04:07:14->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed102_itr0
+normed mse:0.0780, mae:0.2102, rmse:0.2792
+denormed mse:6.5642, mae:1.9292, rmse:2.5621
+normed mse:0.0780, mae:0.2102, rmse:0.2792
+TTTT denormed mse:6.5642, mae:1.9292, rmse:2.5621
+
+
+
+
+#2023-06-03 04:08:19->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed38_itr0
+normed mse:0.0525, mae:0.1718, rmse:0.2291
+denormed mse:4.4191, mae:1.5762, rmse:2.1022
+normed mse:0.0525, mae:0.1718, rmse:0.2291
+TTTT denormed mse:4.4191, mae:1.5762, rmse:2.1022
+
+
+
+
+#2023-06-03 04:50:04->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed125_itr0
+normed mse:0.1653, mae:0.3336, rmse:0.4066
+denormed mse:13.9194, mae:3.0610, rmse:3.7309
+normed mse:0.1653, mae:0.3336, rmse:0.4066
+TTTT denormed mse:13.9194, mae:3.0610, rmse:3.7309
+
+
+
+
+#2023-06-03 02:04:08->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed80_itr0
+normed mse:0.0506, mae:0.1683, rmse:0.2249
+denormed mse:4.2593, mae:1.5447, rmse:2.0638
+normed mse:0.0506, mae:0.1683, rmse:0.2249
+TTTT denormed mse:4.2593, mae:1.5447, rmse:2.0638
+
+
+
+
+#2023-06-03 08:53:58->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed9_itr0
+normed mse:0.0738, mae:0.2107, rmse:0.2717
+denormed mse:6.2154, mae:1.9332, rmse:2.4931
+normed mse:0.0738, mae:0.2107, rmse:0.2717
+TTTT denormed mse:6.2154, mae:1.9332, rmse:2.4931
+
+
+
+
+#2023-06-03 07:17:37->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed66_itr0
+normed mse:0.1685, mae:0.3371, rmse:0.4105
+denormed mse:14.1914, mae:3.0930, rmse:3.7672
+normed mse:0.1685, mae:0.3371, rmse:0.4105
+TTTT denormed mse:14.1914, mae:3.0930, rmse:3.7672
+
+
+
+
+#2023-06-03 08:05:15->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed149_itr0
+normed mse:0.0865, mae:0.2347, rmse:0.2942
+denormed mse:7.2863, mae:2.1535, rmse:2.6993
+normed mse:0.0865, mae:0.2347, rmse:0.2942
+TTTT denormed mse:7.2863, mae:2.1535, rmse:2.6993
+
+
+
+
+#2023-06-03 06:54:51->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed45_itr0
+normed mse:0.1529, mae:0.3184, rmse:0.3910
+denormed mse:12.8762, mae:2.9215, rmse:3.5883
+normed mse:0.1529, mae:0.3184, rmse:0.3910
+TTTT denormed mse:12.8762, mae:2.9215, rmse:3.5883
+
+
+
+
+#2023-06-03 01:47:04->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed16_itr0
+normed mse:0.0508, mae:0.1694, rmse:0.2254
+denormed mse:4.2800, mae:1.5542, rmse:2.0688
+normed mse:0.0508, mae:0.1694, rmse:0.2254
+TTTT denormed mse:4.2800, mae:1.5542, rmse:2.0688
+
+
+
+
+#2023-06-03 05:41:02->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed165_itr0
+normed mse:0.0472, mae:0.1637, rmse:0.2172
+denormed mse:3.9734, mae:1.5018, rmse:1.9933
+normed mse:0.0472, mae:0.1637, rmse:0.2172
+TTTT denormed mse:3.9734, mae:1.5018, rmse:1.9933
+
+
+
+
+#2023-06-03 09:04:20->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed26_itr0
+normed mse:0.1756, mae:0.3459, rmse:0.4191
+denormed mse:14.7888, mae:3.1738, rmse:3.8456
+normed mse:0.1756, mae:0.3459, rmse:0.4191
+TTTT denormed mse:14.7888, mae:3.1738, rmse:3.8456
+
+
+
+
+#2023-06-03 09:10:35->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed18_itr0
+normed mse:0.0902, mae:0.2363, rmse:0.3003
+denormed mse:7.5935, mae:2.1687, rmse:2.7556
+normed mse:0.0902, mae:0.2363, rmse:0.3003
+TTTT denormed mse:7.5935, mae:2.1687, rmse:2.7556
+
+
+
+
+#2023-06-03 07:14:24->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed144_itr0
+normed mse:0.1488, mae:0.2964, rmse:0.3858
+denormed mse:12.5310, mae:2.7196, rmse:3.5399
+normed mse:0.1488, mae:0.2964, rmse:0.3858
+TTTT denormed mse:12.5310, mae:2.7196, rmse:3.5399
+
+
+
+
+#2023-06-03 09:37:01->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed41_itr0
+normed mse:0.0773, mae:0.2145, rmse:0.2780
+denormed mse:6.5097, mae:1.9683, rmse:2.5514
+normed mse:0.0773, mae:0.2145, rmse:0.2780
+TTTT denormed mse:6.5097, mae:1.9683, rmse:2.5514
+
+
+
+
+#2023-06-03 03:28:19->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed101_itr0
+normed mse:0.0488, mae:0.1655, rmse:0.2210
+denormed mse:4.1134, mae:1.5184, rmse:2.0282
+normed mse:0.0488, mae:0.1655, rmse:0.2210
+TTTT denormed mse:4.1134, mae:1.5184, rmse:2.0282
+
+
+
+
+#2023-06-03 10:27:53->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed126_itr0
+normed mse:0.0905, mae:0.2376, rmse:0.3009
+denormed mse:7.6236, mae:2.1802, rmse:2.7611
+normed mse:0.0905, mae:0.2376, rmse:0.3009
+TTTT denormed mse:7.6236, mae:2.1802, rmse:2.7611
+
+
+
+
+#2023-06-03 09:56:43->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed20_itr0
+normed mse:0.0749, mae:0.2119, rmse:0.2738
+denormed mse:6.3106, mae:1.9449, rmse:2.5121
+normed mse:0.0749, mae:0.2119, rmse:0.2738
+TTTT denormed mse:6.3106, mae:1.9449, rmse:2.5121
+
+
+
+
+#2023-06-03 01:30:38->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed37_itr0
+normed mse:0.0314, mae:0.1339, rmse:0.1771
+denormed mse:2.6419, mae:1.2291, rmse:1.6254
+normed mse:0.0314, mae:0.1339, rmse:0.1771
+TTTT denormed mse:2.6419, mae:1.2291, rmse:1.6254
+
+
+
+
