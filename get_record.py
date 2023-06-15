@@ -4,7 +4,8 @@ import pandas as pd
 
 
 folder = "EXP_Record/Electricity_S_enmutiTrue_efuTrue_MVMmlp_demutiTrue_dfuFalse"
-str1 = "LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_seed"
+str1 = "LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed"
+
 result=[]
 with open('exp_record.txt','r') as f:
     for line in f:
