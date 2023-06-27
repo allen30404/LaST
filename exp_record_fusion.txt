@@ -19393,3 +19393,12 @@ TTTT denormed mse:5.9016, mae:1.8577, rmse:2.4293
 
 
 
+#2023-06-27 10:28:07->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMConv_enfuTrue_defuFalse_seed64_itr0
+normed mse:0.1761, mae:0.3465, rmse:0.4196
+denormed mse:14.8261, mae:3.1794, rmse:3.8505
+normed mse:0.1761, mae:0.3465, rmse:0.4196
+TTTT denormed mse:14.8261, mae:3.1794, rmse:3.8505
+
+
+
+
