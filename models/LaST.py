@@ -249,10 +249,10 @@ class TNet(nn.Module):
         """Decoder Time-Aware Fusion"""
         if self.Decoder_Fusion == True:
             self.deconv1d_dilation_fusion = nn.ModuleList([nn.ConvTranspose1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,kernel_size=1),
-                                                    nn.ConvTranspose1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,dilation=2,kernel_size=3),
+                                                    #nn.ConvTranspose1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,dilation=2,kernel_size=3),
                                                     nn.ConvTranspose1d(in_channels=self.kernel_max*inner_t,out_channels=inner_t,dilation=3,kernel_size=3)])
 
-            self.deconv1d_redu_fusion = nn.ConvTranspose1d(in_channels=3*inner_t,out_channels=inner_t,kernel_size=1)
+            self.deconv1d_redu_fusion = nn.ConvTranspose1d(in_channels=2*inner_t,out_channels=inner_t,kernel_size=1)
             self.mlp_to_201 = nn.ModuleList([nn.Linear(205,201),nn.Linear(207,201)])
 
         """ Muti-Scale Encoder"""

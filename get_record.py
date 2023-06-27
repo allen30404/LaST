@@ -3,11 +3,11 @@ import csv
 import pandas as pd
 
 
-folder = "EXP_Record/Electricity_S_enmutiTrue_efuTrue_MVMmlp_demutiTrue_dfuFalse"
-str1 = "LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed"
+folder = "EXP_Record/Ele_fusion_1_3"
+str1 = "LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed"
 
 result=[]
-with open('exp_record.txt','r') as f:
+with open('exp_record_fusion.txt','r') as f:
     for line in f:
         result.append(line.strip('\''))
 

@@ -24703,3 +24703,1525 @@ TTTT denormed mse:1634.1318, mae:10.4636, rmse:40.4244
 
 
 
+#2023-06-15 05:31:53->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed224_itr0
+normed mse:0.3345, mae:0.3493, rmse:0.5783
+denormed mse:2402.2599, mae:16.8686, rmse:49.0129
+normed mse:0.3345, mae:0.3493, rmse:0.5783
+TTTT denormed mse:2402.2599, mae:16.8686, rmse:49.0129
+
+
+
+
+#2023-06-15 01:08:54->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed98_itr0
+normed mse:0.2561, mae:0.2926, rmse:0.5060
+denormed mse:1965.4754, mae:13.8166, rmse:44.3337
+normed mse:0.2561, mae:0.2926, rmse:0.5060
+TTTT denormed mse:1965.4754, mae:13.8166, rmse:44.3337
+
+
+
+
+#2023-06-14 08:44:58->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed181_itr0
+normed mse:0.1892, mae:0.2411, rmse:0.4350
+denormed mse:2044.5407, mae:13.7499, rmse:45.2166
+normed mse:0.1892, mae:0.2411, rmse:0.4350
+TTTT denormed mse:2044.5407, mae:13.7499, rmse:45.2166
+
+
+
+
+#2023-06-15 06:11:53->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed56_itr0
+normed mse:0.2570, mae:0.2953, rmse:0.5069
+denormed mse:2024.7223, mae:14.3318, rmse:44.9969
+normed mse:0.2570, mae:0.2953, rmse:0.5069
+TTTT denormed mse:2024.7223, mae:14.3318, rmse:44.9969
+
+
+
+
+#2023-06-14 08:46:55->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed181_itr0
+normed mse:0.1892, mae:0.2411, rmse:0.4350
+denormed mse:2044.5407, mae:13.7499, rmse:45.2166
+normed mse:0.1892, mae:0.2411, rmse:0.4350
+TTTT denormed mse:2044.5407, mae:13.7499, rmse:45.2166
+
+
+
+
+#2023-06-13 16:17:24->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed180_itr0
+normed mse:0.0991, mae:0.1197, rmse:0.3147
+denormed mse:1581.7612, mae:10.3436, rmse:39.7714
+normed mse:0.0991, mae:0.1197, rmse:0.3147
+TTTT denormed mse:1581.7612, mae:10.3436, rmse:39.7714
+
+
+
+
+#2023-06-15 06:55:47->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed161_itr0
+normed mse:0.1908, mae:0.2416, rmse:0.4368
+denormed mse:1963.1949, mae:13.0647, rmse:44.3080
+normed mse:0.1908, mae:0.2416, rmse:0.4368
+TTTT denormed mse:1963.1949, mae:13.0647, rmse:44.3080
+
+
+
+
+#2023-06-15 07:04:52->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed161_itr0
+normed mse:0.1908, mae:0.2416, rmse:0.4368
+denormed mse:1963.1949, mae:13.0647, rmse:44.3080
+normed mse:0.1908, mae:0.2416, rmse:0.4368
+TTTT denormed mse:1963.1949, mae:13.0647, rmse:44.3080
+
+
+
+
+#2023-06-15 05:46:23->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed183_itr0
+normed mse:0.3144, mae:0.3370, rmse:0.5607
+denormed mse:2363.5320, mae:16.5023, rmse:48.6162
+normed mse:0.3144, mae:0.3370, rmse:0.5607
+TTTT denormed mse:2363.5320, mae:16.5023, rmse:48.6162
+
+
+
+
+#2023-06-13 16:17:13->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed159_itr0
+normed mse:0.1194, mae:0.1557, rmse:0.3455
+denormed mse:1744.1819, mae:11.1165, rmse:41.7634
+normed mse:0.1194, mae:0.1557, rmse:0.3455
+TTTT denormed mse:1744.1819, mae:11.1165, rmse:41.7634
+
+
+
+
+#2023-06-14 17:29:35->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed55_itr0
+normed mse:0.1212, mae:0.1593, rmse:0.3481
+denormed mse:1906.7151, mae:12.4317, rmse:43.6659
+normed mse:0.1212, mae:0.1593, rmse:0.3481
+TTTT denormed mse:1906.7151, mae:12.4317, rmse:43.6659
+
+
+
+
+#2023-06-15 06:21:06->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed120_itr0
+normed mse:0.3084, mae:0.3339, rmse:0.5553
+denormed mse:2261.0095, mae:16.2863, rmse:47.5501
+normed mse:0.3084, mae:0.3339, rmse:0.5553
+TTTT denormed mse:2261.0095, mae:16.2863, rmse:47.5501
+
+
+
+
+#2023-06-15 07:06:02->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed140_itr0
+normed mse:0.3200, mae:0.3393, rmse:0.5657
+denormed mse:2017.2794, mae:14.4357, rmse:44.9141
+normed mse:0.3200, mae:0.3393, rmse:0.5657
+TTTT denormed mse:2017.2794, mae:14.4357, rmse:44.9141
+
+
+
+
+#2023-06-14 09:50:08->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed223_itr0
+normed mse:0.1858, mae:0.2347, rmse:0.4311
+denormed mse:1889.4133, mae:12.7348, rmse:43.4674
+normed mse:0.1858, mae:0.2347, rmse:0.4311
+TTTT denormed mse:1889.4133, mae:12.7348, rmse:43.4674
+
+
+
+
+#2023-06-13 16:17:34->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed201_itr0
+normed mse:0.0985, mae:0.1184, rmse:0.3138
+denormed mse:1586.0043, mae:10.3061, rmse:39.8247
+normed mse:0.0985, mae:0.1184, rmse:0.3138
+TTTT denormed mse:1586.0043, mae:10.3061, rmse:39.8247
+
+
+
+
+#2023-06-14 20:43:52->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed203_itr0
+normed mse:0.3078, mae:0.3339, rmse:0.5548
+denormed mse:1957.2328, mae:13.9699, rmse:44.2406
+normed mse:0.3078, mae:0.3339, rmse:0.5548
+TTTT denormed mse:1957.2328, mae:13.9699, rmse:44.2406
+
+
+
+
+#2023-06-15 12:46:11->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed163_itr0
+normed mse:0.3160, mae:0.3395, rmse:0.5621
+denormed mse:2284.8289, mae:15.9388, rmse:47.7999
+normed mse:0.3160, mae:0.3395, rmse:0.5621
+TTTT denormed mse:2284.8289, mae:15.9388, rmse:47.7999
+
+
+
+
+#2023-06-15 10:38:00->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed141_itr0
+normed mse:0.2577, mae:0.2952, rmse:0.5076
+denormed mse:2117.3877, mae:15.2081, rmse:46.0151
+normed mse:0.2577, mae:0.2952, rmse:0.5076
+TTTT denormed mse:2117.3877, mae:15.2081, rmse:46.0151
+
+
+
+
+#2023-06-15 08:30:54->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed225_itr0
+normed mse:0.2521, mae:0.2908, rmse:0.5021
+denormed mse:2177.3408, mae:15.1673, rmse:46.6620
+normed mse:0.2521, mae:0.2908, rmse:0.5021
+TTTT denormed mse:2177.3408, mae:15.1673, rmse:46.6620
+
+
+
+
+#2023-06-14 23:23:50->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed76_itr0
+normed mse:0.1894, mae:0.2428, rmse:0.4352
+denormed mse:1949.3736, mae:13.3983, rmse:44.1517
+normed mse:0.1894, mae:0.2428, rmse:0.4352
+TTTT denormed mse:1949.3736, mae:13.3983, rmse:44.1517
+
+
+
+
+#2023-06-15 12:00:45->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed78_itr0
+normed mse:0.3126, mae:0.3334, rmse:0.5591
+denormed mse:2125.0581, mae:15.0468, rmse:46.0984
+normed mse:0.3126, mae:0.3334, rmse:0.5591
+TTTT denormed mse:2125.0581, mae:15.0468, rmse:46.0984
+
+
+
+
+#2023-06-15 07:58:55->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed58_itr0
+normed mse:0.3100, mae:0.3329, rmse:0.5568
+denormed mse:1987.1396, mae:14.0676, rmse:44.5773
+normed mse:0.3100, mae:0.3329, rmse:0.5568
+TTTT denormed mse:1987.1396, mae:14.0676, rmse:44.5773
+
+
+
+
+#2023-06-14 18:42:00->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed139_itr0
+normed mse:0.1860, mae:0.2380, rmse:0.4313
+denormed mse:1928.2353, mae:12.9774, rmse:43.9117
+normed mse:0.1860, mae:0.2380, rmse:0.4313
+TTTT denormed mse:1928.2353, mae:12.9774, rmse:43.9117
+
+
+
+
+#2023-06-15 02:33:50->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed98_itr0
+normed mse:0.1876, mae:0.2390, rmse:0.4331
+denormed mse:1981.4583, mae:13.5491, rmse:44.5136
+normed mse:0.1876, mae:0.2390, rmse:0.4331
+TTTT denormed mse:1981.4583, mae:13.5491, rmse:44.5136
+
+
+
+
+#2023-06-15 13:51:55->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed56_itr0
+normed mse:0.1880, mae:0.2355, rmse:0.4336
+denormed mse:1952.5943, mae:12.9027, rmse:44.1882
+normed mse:0.1880, mae:0.2355, rmse:0.4336
+TTTT denormed mse:1952.5943, mae:12.9027, rmse:44.1882
+
+
+
+
+#2023-06-15 10:47:11->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed99_itr0
+normed mse:0.3096, mae:0.3324, rmse:0.5564
+denormed mse:2021.2209, mae:14.2226, rmse:44.9580
+normed mse:0.3096, mae:0.3324, rmse:0.5564
+TTTT denormed mse:2021.2209, mae:14.2226, rmse:44.9580
+
+
+
+
+#2023-06-15 05:52:19->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed77_itr0
+normed mse:0.2451, mae:0.2864, rmse:0.4951
+denormed mse:1951.2375, mae:13.7276, rmse:44.1728
+normed mse:0.2451, mae:0.2864, rmse:0.4951
+TTTT denormed mse:1951.2375, mae:13.7276, rmse:44.1728
+
+
+
+
+#2023-06-15 16:40:58->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed225_itr0
+normed mse:0.3212, mae:0.3375, rmse:0.5667
+denormed mse:2249.2605, mae:15.9070, rmse:47.4264
+normed mse:0.3212, mae:0.3375, rmse:0.5667
+TTTT denormed mse:2249.2605, mae:15.9070, rmse:47.4264
+
+
+
+
+#2023-06-15 08:30:18->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed97_itr0
+normed mse:0.1234, mae:0.1668, rmse:0.3513
+denormed mse:1971.9473, mae:12.9936, rmse:44.4066
+normed mse:0.1234, mae:0.1668, rmse:0.3513
+TTTT denormed mse:1971.9473, mae:12.9936, rmse:44.4066
+
+
+
+
+#2023-06-14 17:10:37->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed223_itr0
+normed mse:0.1206, mae:0.1576, rmse:0.3473
+denormed mse:1823.4134, mae:11.7348, rmse:42.7014
+normed mse:0.1206, mae:0.1576, rmse:0.3473
+TTTT denormed mse:1823.4134, mae:11.7348, rmse:42.7014
+
+
+
+
+#2023-06-15 17:40:46->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed57_itr0
+normed mse:0.2566, mae:0.2962, rmse:0.5066
+denormed mse:2061.9719, mae:14.9078, rmse:45.4089
+normed mse:0.2566, mae:0.2962, rmse:0.5066
+TTTT denormed mse:2061.9719, mae:14.9078, rmse:45.4089
+
+
+
+
+#2023-06-15 12:31:14->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed120_itr0
+normed mse:0.2465, mae:0.2857, rmse:0.4965
+denormed mse:1861.3285, mae:12.9495, rmse:43.1431
+normed mse:0.2465, mae:0.2857, rmse:0.4965
+TTTT denormed mse:1861.3285, mae:12.9495, rmse:43.1431
+
+
+
+
+#2023-06-14 19:10:41->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed139_itr0
+normed mse:0.1203, mae:0.1587, rmse:0.3468
+denormed mse:1794.0352, mae:11.8447, rmse:42.3561
+normed mse:0.1203, mae:0.1587, rmse:0.3468
+TTTT denormed mse:1794.0352, mae:11.8447, rmse:42.3561
+
+
+
+
+#2023-06-15 04:37:57->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed118_itr0
+normed mse:0.1203, mae:0.1578, rmse:0.3468
+denormed mse:1836.0900, mae:12.0027, rmse:42.8496
+normed mse:0.1203, mae:0.1578, rmse:0.3468
+TTTT denormed mse:1836.0900, mae:12.0027, rmse:42.8496
+
+
+
+
+#2023-06-15 17:17:49->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed99_itr0
+normed mse:0.2529, mae:0.2866, rmse:0.5029
+denormed mse:1966.3155, mae:13.3854, rmse:44.3432
+normed mse:0.2529, mae:0.2866, rmse:0.5029
+TTTT denormed mse:1966.3155, mae:13.3854, rmse:44.3432
+
+
+
+
+#2023-06-13 16:16:38->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed117_itr0
+normed mse:0.0979, mae:0.1162, rmse:0.3130
+denormed mse:1544.3883, mae:9.7327, rmse:39.2987
+normed mse:0.0979, mae:0.1162, rmse:0.3130
+TTTT denormed mse:1544.3883, mae:9.7327, rmse:39.2987
+
+
+
+
+#2023-06-15 15:06:45->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed119_itr0
+normed mse:0.1878, mae:0.2383, rmse:0.4334
+denormed mse:1944.6721, mae:12.9537, rmse:44.0984
+normed mse:0.1878, mae:0.2383, rmse:0.4334
+TTTT denormed mse:1944.6721, mae:12.9537, rmse:44.0984
+
+
+
+
+#2023-06-15 21:11:09->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed141_itr0
+normed mse:0.3112, mae:0.3365, rmse:0.5579
+denormed mse:2292.9072, mae:16.1633, rmse:47.8843
+normed mse:0.3112, mae:0.3365, rmse:0.5579
+TTTT denormed mse:2292.9072, mae:16.1633, rmse:47.8843
+
+
+
+
+#2023-06-13 16:16:29->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed96_itr0
+normed mse:0.0977, mae:0.1158, rmse:0.3125
+denormed mse:1537.2111, mae:9.7792, rmse:39.2073
+normed mse:0.0977, mae:0.1158, rmse:0.3125
+TTTT denormed mse:1537.2111, mae:9.7792, rmse:39.2073
+
+
+
+
+#2023-06-15 22:55:53->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed204_itr0
+normed mse:0.3250, mae:0.3468, rmse:0.5701
+denormed mse:2545.5641, mae:17.6346, rmse:50.4536
+normed mse:0.3250, mae:0.3468, rmse:0.5701
+TTTT denormed mse:2545.5641, mae:17.6346, rmse:50.4536
+
+
+
+
+#2023-06-16 02:55:03->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed59_itr0
+normed mse:0.3347, mae:0.3514, rmse:0.5785
+denormed mse:2685.8081, mae:18.2369, rmse:51.8248
+normed mse:0.3347, mae:0.3514, rmse:0.5785
+TTTT denormed mse:2685.8081, mae:18.2369, rmse:51.8248
+
+
+
+
+#2023-06-15 21:09:35->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed121_itr0
+normed mse:0.3158, mae:0.3412, rmse:0.5620
+denormed mse:2209.9025, mae:15.3831, rmse:47.0096
+normed mse:0.3158, mae:0.3412, rmse:0.5620
+TTTT denormed mse:2209.9025, mae:15.3831, rmse:47.0096
+
+
+
+
+#2023-06-15 23:33:33->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed164_itr0
+normed mse:0.3054, mae:0.3290, rmse:0.5526
+denormed mse:1997.4193, mae:14.4061, rmse:44.6925
+normed mse:0.3054, mae:0.3290, rmse:0.5526
+TTTT denormed mse:1997.4193, mae:14.4061, rmse:44.6925
+
+
+
+
+#2023-06-14 18:04:00->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed181_itr0
+normed mse:0.1199, mae:0.1558, rmse:0.3462
+denormed mse:1793.9717, mae:11.4251, rmse:42.3553
+normed mse:0.1199, mae:0.1558, rmse:0.3462
+TTTT denormed mse:1793.9717, mae:11.4251, rmse:42.3553
+
+
+
+
+#2023-06-15 19:01:58->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed162_itr0
+normed mse:0.1843, mae:0.2326, rmse:0.4293
+denormed mse:1922.4967, mae:12.8446, rmse:43.8463
+normed mse:0.1843, mae:0.2326, rmse:0.4293
+TTTT denormed mse:1922.4967, mae:12.8446, rmse:43.8463
+
+
+
+
+#2023-06-15 19:15:46->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed162_itr0
+normed mse:0.1843, mae:0.2326, rmse:0.4293
+denormed mse:1922.4967, mae:12.8446, rmse:43.8463
+normed mse:0.1843, mae:0.2326, rmse:0.4293
+TTTT denormed mse:1922.4967, mae:12.8446, rmse:43.8463
+
+
+
+
+#2023-06-15 11:31:38->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed204_itr0
+normed mse:0.2471, mae:0.2814, rmse:0.4971
+denormed mse:1883.2725, mae:12.9056, rmse:43.3967
+normed mse:0.2471, mae:0.2814, rmse:0.4971
+TTTT denormed mse:1883.2725, mae:12.9056, rmse:43.3967
+
+
+
+
+#2023-06-13 16:16:46->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed138_itr0
+normed mse:0.0977, mae:0.1166, rmse:0.3125
+denormed mse:1537.6629, mae:9.8354, rmse:39.2130
+normed mse:0.0977, mae:0.1166, rmse:0.3125
+TTTT denormed mse:1537.6629, mae:9.8354, rmse:39.2130
+
+
+
+
+#2023-06-16 04:09:54->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed100_itr0
+normed mse:0.3247, mae:0.3450, rmse:0.5698
+denormed mse:2297.3868, mae:16.1525, rmse:47.9311
+normed mse:0.3247, mae:0.3450, rmse:0.5698
+TTTT denormed mse:2297.3868, mae:16.1525, rmse:47.9311
+
+
+
+
+#2023-06-16 00:07:02->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed142_itr0
+normed mse:0.2519, mae:0.2892, rmse:0.5019
+denormed mse:1934.7802, mae:13.4492, rmse:43.9861
+normed mse:0.2519, mae:0.2892, rmse:0.5019
+TTTT denormed mse:1934.7802, mae:13.4492, rmse:43.9861
+
+
+
+
+#2023-06-16 02:47:49->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed79_itr0
+normed mse:0.3239, mae:0.3399, rmse:0.5691
+denormed mse:2076.6706, mae:14.8746, rmse:45.5705
+normed mse:0.3239, mae:0.3399, rmse:0.5691
+TTTT denormed mse:2076.6706, mae:14.8746, rmse:45.5705
+
+
+
+
+#2023-06-15 08:32:34->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed203_itr0
+normed mse:0.1843, mae:0.2341, rmse:0.4294
+denormed mse:1908.3532, mae:12.7006, rmse:43.6847
+normed mse:0.1843, mae:0.2341, rmse:0.4294
+TTTT denormed mse:1908.3532, mae:12.7006, rmse:43.6847
+
+
+
+
+#2023-06-16 01:04:27->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed226_itr0
+normed mse:0.2576, mae:0.2960, rmse:0.5076
+denormed mse:2275.7039, mae:15.8212, rmse:47.7043
+normed mse:0.2576, mae:0.2960, rmse:0.5076
+TTTT denormed mse:2275.7039, mae:15.8212, rmse:47.7043
+
+
+
+
+#2023-06-13 16:17:47->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed222_itr0
+normed mse:0.0981, mae:0.1171, rmse:0.3132
+denormed mse:1554.3433, mae:9.9071, rmse:39.4252
+normed mse:0.0981, mae:0.1171, rmse:0.3132
+TTTT denormed mse:1554.3433, mae:9.9071, rmse:39.4252
+
+
+
+
+#2023-06-16 03:01:21->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed99_itr0
+normed mse:0.1903, mae:0.2433, rmse:0.4363
+denormed mse:2253.4696, mae:14.9007, rmse:47.4707
+normed mse:0.1903, mae:0.2433, rmse:0.4363
+TTTT denormed mse:2253.4696, mae:14.9007, rmse:47.4707
+
+
+
+
+#2023-06-16 02:59:29->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed140_itr0
+normed mse:0.1858, mae:0.2344, rmse:0.4310
+denormed mse:1900.4503, mae:12.6423, rmse:43.5942
+normed mse:0.1858, mae:0.2344, rmse:0.4310
+TTTT denormed mse:1900.4503, mae:12.6423, rmse:43.5942
+
+
+
+
+#2023-06-15 19:56:46->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed184_itr0
+normed mse:0.3023, mae:0.3253, rmse:0.5498
+denormed mse:1982.6538, mae:13.9930, rmse:44.5270
+normed mse:0.3023, mae:0.3253, rmse:0.5498
+TTTT denormed mse:1982.6538, mae:13.9930, rmse:44.5270
+
+
+
+
+#2023-06-16 04:35:31->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed78_itr0
+normed mse:0.2539, mae:0.2863, rmse:0.5039
+denormed mse:1895.8857, mae:13.1667, rmse:43.5418
+normed mse:0.2539, mae:0.2863, rmse:0.5039
+TTTT denormed mse:1895.8857, mae:13.1667, rmse:43.5418
+
+
+
+
+#2023-06-16 06:55:10->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed58_itr0
+normed mse:0.2570, mae:0.2967, rmse:0.5069
+denormed mse:2012.3024, mae:14.3124, rmse:44.8587
+normed mse:0.2570, mae:0.2967, rmse:0.5069
+TTTT denormed mse:2012.3024, mae:14.3124, rmse:44.8587
+
+
+
+
+#2023-06-16 07:40:24->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed121_itr0
+normed mse:0.2571, mae:0.2943, rmse:0.5071
+denormed mse:2032.4133, mae:14.3849, rmse:45.0823
+normed mse:0.2571, mae:0.2943, rmse:0.5071
+TTTT denormed mse:2032.4133, mae:14.3849, rmse:45.0823
+
+
+
+
+#2023-06-16 11:05:42->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed205_itr0
+normed mse:0.3270, mae:0.3472, rmse:0.5718
+denormed mse:2775.2708, mae:18.6943, rmse:52.6808
+normed mse:0.3270, mae:0.3472, rmse:0.5718
+TTTT denormed mse:2775.2708, mae:18.6943, rmse:52.6808
+
+
+
+
+#2023-06-16 11:20:03->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed122_itr0
+normed mse:0.3194, mae:0.3373, rmse:0.5651
+denormed mse:2227.4723, mae:15.5195, rmse:47.1961
+normed mse:0.3194, mae:0.3373, rmse:0.5651
+TTTT denormed mse:2227.4723, mae:15.5195, rmse:47.1961
+
+
+
+
+#2023-06-16 11:34:56->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed165_itr0
+normed mse:0.3132, mae:0.3325, rmse:0.5596
+denormed mse:1998.3881, mae:14.2781, rmse:44.7033
+normed mse:0.3132, mae:0.3325, rmse:0.5596
+TTTT denormed mse:1998.3881, mae:14.2781, rmse:44.7033
+
+
+
+
+#2023-06-14 23:06:16->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed202_itr0
+normed mse:0.1192, mae:0.1540, rmse:0.3452
+denormed mse:1728.6823, mae:11.0460, rmse:41.5774
+normed mse:0.1192, mae:0.1540, rmse:0.3452
+TTTT denormed mse:1728.6823, mae:11.0460, rmse:41.5774
+
+
+
+
+#2023-06-16 09:47:09->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed120_itr0
+normed mse:0.1913, mae:0.2411, rmse:0.4374
+denormed mse:1986.0724, mae:13.3613, rmse:44.5654
+normed mse:0.1913, mae:0.2411, rmse:0.4374
+TTTT denormed mse:1986.0724, mae:13.3613, rmse:44.5654
+
+
+
+
+#2023-06-16 09:55:43->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed142_itr0
+normed mse:0.3048, mae:0.3298, rmse:0.5521
+denormed mse:2010.6734, mae:14.4752, rmse:44.8405
+normed mse:0.3048, mae:0.3298, rmse:0.5521
+TTTT denormed mse:2010.6734, mae:14.4752, rmse:44.8405
+
+
+
+
+#2023-06-15 17:32:23->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed182_itr0
+normed mse:0.1871, mae:0.2393, rmse:0.4325
+denormed mse:1894.5460, mae:13.0137, rmse:43.5264
+normed mse:0.1871, mae:0.2393, rmse:0.4325
+TTTT denormed mse:1894.5460, mae:13.0137, rmse:43.5264
+
+
+
+
+#2023-06-17 00:16:01->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed54_itr0
+normed mse:0.3244, mae:0.3440, rmse:0.5696
+denormed mse:2399.5938, mae:16.7072, rmse:48.9856
+normed mse:0.3244, mae:0.3440, rmse:0.5696
+TTTT denormed mse:2399.5938, mae:16.7072, rmse:48.9856
+
+
+
+
+#2023-06-17 00:20:26->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed159_itr0
+normed mse:0.3320, mae:0.3499, rmse:0.5762
+denormed mse:2319.7582, mae:16.3116, rmse:48.1639
+normed mse:0.3320, mae:0.3499, rmse:0.5762
+TTTT denormed mse:2319.7582, mae:16.3116, rmse:48.1639
+
+
+
+
+#2023-06-17 00:20:36->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed222_itr0
+normed mse:0.3311, mae:0.3428, rmse:0.5754
+denormed mse:2315.0977, mae:16.1867, rmse:48.1155
+normed mse:0.3311, mae:0.3428, rmse:0.5754
+TTTT denormed mse:2315.0977, mae:16.1867, rmse:48.1155
+
+
+
+
+#2023-06-17 00:20:07->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed75_itr0
+normed mse:0.3209, mae:0.3447, rmse:0.5665
+denormed mse:2699.6521, mae:18.5719, rmse:51.9582
+normed mse:0.3209, mae:0.3447, rmse:0.5665
+TTTT denormed mse:2699.6521, mae:18.5719, rmse:51.9582
+
+
+
+
+#2023-06-17 00:20:27->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed180_itr0
+normed mse:0.1100, mae:0.1503, rmse:0.3317
+denormed mse:2174.9149, mae:14.3044, rmse:46.6360
+normed mse:0.1100, mae:0.1503, rmse:0.3317
+TTTT denormed mse:2174.9149, mae:14.3044, rmse:46.6360
+
+
+
+
+#2023-06-17 00:20:18->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed138_itr0
+normed mse:0.2646, mae:0.3063, rmse:0.5144
+denormed mse:2420.5802, mae:16.6895, rmse:49.1994
+normed mse:0.2646, mae:0.3063, rmse:0.5144
+TTTT denormed mse:2420.5802, mae:16.6895, rmse:49.1994
+
+
+
+
+#2023-06-17 00:20:41->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed201_itr0
+normed mse:0.3208, mae:0.3398, rmse:0.5664
+denormed mse:2319.1521, mae:16.4266, rmse:48.1576
+normed mse:0.3208, mae:0.3398, rmse:0.5664
+TTTT denormed mse:2319.1521, mae:16.4266, rmse:48.1576
+
+
+
+
+#2023-06-17 00:16:01->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed54_itr0
+normed mse:0.2588, mae:0.3006, rmse:0.5087
+denormed mse:2253.6168, mae:16.1141, rmse:47.4723
+normed mse:0.2588, mae:0.3006, rmse:0.5087
+TTTT denormed mse:2253.6168, mae:16.1141, rmse:47.4723
+
+
+
+
+#2023-06-17 00:20:29->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed180_itr0
+normed mse:0.3200, mae:0.3382, rmse:0.5657
+denormed mse:2239.9774, mae:15.7999, rmse:47.3284
+normed mse:0.3200, mae:0.3382, rmse:0.5657
+TTTT denormed mse:2239.9774, mae:15.7999, rmse:47.3284
+
+
+
+
+#2023-06-17 00:20:19->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed138_itr0
+normed mse:0.1977, mae:0.2504, rmse:0.4446
+denormed mse:2311.3680, mae:15.4051, rmse:48.0767
+normed mse:0.1977, mae:0.2504, rmse:0.4446
+TTTT denormed mse:2311.3680, mae:15.4051, rmse:48.0767
+
+
+
+
+#2023-06-17 00:20:13->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed117_itr0
+normed mse:0.2587, mae:0.3006, rmse:0.5086
+denormed mse:2428.1603, mae:16.5881, rmse:49.2764
+normed mse:0.2587, mae:0.3006, rmse:0.5086
+TTTT denormed mse:2428.1603, mae:16.5881, rmse:49.2764
+
+
+
+
+#2023-06-17 00:20:22->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuTrue_seed138_itr0
+normed mse:0.3162, mae:0.3323, rmse:0.5623
+denormed mse:2048.9224, mae:14.6893, rmse:45.2650
+normed mse:0.3162, mae:0.3323, rmse:0.5623
+TTTT denormed mse:2048.9224, mae:14.6893, rmse:45.2650
+
+
+
+
+#2023-06-17 00:20:37->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed222_itr0
+normed mse:0.2530, mae:0.2917, rmse:0.5030
+denormed mse:2028.4867, mae:14.3097, rmse:45.0387
+normed mse:0.2530, mae:0.2917, rmse:0.5030
+TTTT denormed mse:2028.4867, mae:14.3097, rmse:45.0387
+
+
+
+
+#2023-06-17 00:20:10->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed96_itr0
+normed mse:0.3076, mae:0.3311, rmse:0.5546
+denormed mse:2113.9770, mae:14.9260, rmse:45.9780
+normed mse:0.3076, mae:0.3311, rmse:0.5546
+TTTT denormed mse:2113.9770, mae:14.9260, rmse:45.9780
+
+
+
+
+#2023-06-17 00:20:14->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed117_itr0
+normed mse:0.3099, mae:0.3311, rmse:0.5567
+denormed mse:1989.4652, mae:13.7990, rmse:44.6034
+normed mse:0.3099, mae:0.3311, rmse:0.5567
+TTTT denormed mse:1989.4652, mae:13.7990, rmse:44.6034
+
+
+
+
+#2023-06-17 00:20:05->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed75_itr0
+normed mse:0.1911, mae:0.2424, rmse:0.4372
+denormed mse:2175.5146, mae:14.6123, rmse:46.6424
+normed mse:0.1911, mae:0.2424, rmse:0.4372
+TTTT denormed mse:2175.5146, mae:14.6123, rmse:46.6424
+
+
+
+
+#2023-06-17 00:16:00->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed54_itr0
+normed mse:0.1868, mae:0.2376, rmse:0.4322
+denormed mse:1908.2446, mae:12.7713, rmse:43.6835
+normed mse:0.1868, mae:0.2376, rmse:0.4322
+TTTT denormed mse:1908.2446, mae:12.7713, rmse:43.6835
+
+
+
+
+#2023-06-17 14:40:18->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed160_itr0
+normed mse:0.3366, mae:0.3515, rmse:0.5802
+denormed mse:2354.9128, mae:16.4789, rmse:48.5274
+normed mse:0.3366, mae:0.3515, rmse:0.5802
+TTTT denormed mse:2354.9128, mae:16.4789, rmse:48.5274
+
+
+
+
+#2023-06-17 16:35:16->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed223_itr0
+normed mse:0.3174, mae:0.3394, rmse:0.5634
+denormed mse:2364.2433, mae:16.7412, rmse:48.6235
+normed mse:0.3174, mae:0.3394, rmse:0.5634
+TTTT denormed mse:2364.2433, mae:16.7412, rmse:48.6235
+
+
+
+
+#2023-06-17 00:20:06->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed75_itr0
+normed mse:0.2545, mae:0.2915, rmse:0.5045
+denormed mse:1937.1566, mae:13.5961, rmse:44.0131
+normed mse:0.2545, mae:0.2915, rmse:0.5045
+TTTT denormed mse:1937.1566, mae:13.5961, rmse:44.0131
+
+
+
+
+#2023-06-17 13:36:01->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed55_itr0
+normed mse:0.3214, mae:0.3389, rmse:0.5670
+denormed mse:2263.4086, mae:15.9590, rmse:47.5753
+normed mse:0.3214, mae:0.3389, rmse:0.5670
+TTTT denormed mse:2263.4086, mae:15.9590, rmse:47.5753
+
+
+
+
+#2023-06-17 00:20:40->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed201_itr0
+normed mse:0.2582, mae:0.3002, rmse:0.5082
+denormed mse:2011.0276, mae:14.1236, rmse:44.8445
+normed mse:0.2582, mae:0.3002, rmse:0.5082
+TTTT denormed mse:2011.0276, mae:14.1236, rmse:44.8445
+
+
+
+
+#2023-06-17 00:20:40->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed201_itr0
+normed mse:0.1856, mae:0.2380, rmse:0.4309
+denormed mse:2076.0724, mae:13.8996, rmse:45.5639
+normed mse:0.1856, mae:0.2380, rmse:0.4309
+TTTT denormed mse:2076.0724, mae:13.8996, rmse:45.5639
+
+
+
+
+#2023-06-17 19:30:12->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed181_itr0
+normed mse:0.3306, mae:0.3480, rmse:0.5750
+denormed mse:2393.1772, mae:16.7439, rmse:48.9201
+normed mse:0.3306, mae:0.3480, rmse:0.5750
+TTTT denormed mse:2393.1772, mae:16.7439, rmse:48.9201
+
+
+
+
+#2023-06-17 17:51:01->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed76_itr0
+normed mse:0.3276, mae:0.3464, rmse:0.5724
+denormed mse:2421.1828, mae:16.8772, rmse:49.2055
+normed mse:0.3276, mae:0.3464, rmse:0.5724
+TTTT denormed mse:2421.1828, mae:16.8772, rmse:49.2055
+
+
+
+
+#2023-06-17 00:20:09->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed96_itr0
+normed mse:0.1870, mae:0.2367, rmse:0.4325
+denormed mse:1982.8572, mae:13.3370, rmse:44.5293
+normed mse:0.1870, mae:0.2367, rmse:0.4325
+TTTT denormed mse:1982.8572, mae:13.3370, rmse:44.5293
+
+
+
+
+#2023-06-17 00:20:28->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed180_itr0
+normed mse:0.1850, mae:0.2336, rmse:0.4301
+denormed mse:2024.4940, mae:13.4816, rmse:44.9944
+normed mse:0.1850, mae:0.2336, rmse:0.4301
+TTTT denormed mse:2024.4940, mae:13.4816, rmse:44.9944
+
+
+
+
+#2023-06-17 00:20:29->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed180_itr0
+normed mse:0.1850, mae:0.2336, rmse:0.4301
+denormed mse:2024.4940, mae:13.4816, rmse:44.9944
+normed mse:0.1850, mae:0.2336, rmse:0.4301
+TTTT denormed mse:2024.4940, mae:13.4816, rmse:44.9944
+
+
+
+
+#2023-06-17 18:01:07->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed139_itr0
+normed mse:0.2684, mae:0.3079, rmse:0.5181
+denormed mse:2262.4797, mae:15.8640, rmse:47.5655
+normed mse:0.2684, mae:0.3079, rmse:0.5181
+TTTT denormed mse:2262.4797, mae:15.8640, rmse:47.5655
+
+
+
+
+#2023-06-17 22:09:03->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuTrue_seed139_itr0
+normed mse:0.3097, mae:0.3360, rmse:0.5565
+denormed mse:2183.5476, mae:15.3918, rmse:46.7284
+normed mse:0.3097, mae:0.3360, rmse:0.5565
+TTTT denormed mse:2183.5476, mae:15.3918, rmse:46.7284
+
+
+
+
+#2023-06-17 21:04:07->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed118_itr0
+normed mse:0.2559, mae:0.2964, rmse:0.5059
+denormed mse:2214.0294, mae:15.4746, rmse:47.0535
+normed mse:0.2559, mae:0.2964, rmse:0.5059
+TTTT denormed mse:2214.0294, mae:15.4746, rmse:47.0535
+
+
+
+
+#2023-06-17 00:20:36->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed222_itr0
+normed mse:0.1878, mae:0.2403, rmse:0.4334
+denormed mse:2003.8477, mae:13.5722, rmse:44.7644
+normed mse:0.1878, mae:0.2403, rmse:0.4334
+TTTT denormed mse:2003.8477, mae:13.5722, rmse:44.7644
+
+
+
+
+#2023-06-18 04:10:35->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed118_itr0
+normed mse:0.3220, mae:0.3432, rmse:0.5674
+denormed mse:2413.6403, mae:16.6756, rmse:49.1288
+normed mse:0.3220, mae:0.3432, rmse:0.5674
+TTTT denormed mse:2413.6403, mae:16.6756, rmse:49.1288
+
+
+
+
+#2023-06-18 02:18:08->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed97_itr0
+normed mse:0.3347, mae:0.3517, rmse:0.5785
+denormed mse:2307.0153, mae:16.3499, rmse:48.0314
+normed mse:0.3347, mae:0.3517, rmse:0.5785
+TTTT denormed mse:2307.0153, mae:16.3499, rmse:48.0314
+
+
+
+
+#2023-06-17 00:20:13->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed117_itr0
+normed mse:0.1888, mae:0.2401, rmse:0.4345
+denormed mse:1987.1854, mae:13.3812, rmse:44.5779
+normed mse:0.1888, mae:0.2401, rmse:0.4345
+TTTT denormed mse:1987.1854, mae:13.3812, rmse:44.5779
+
+
+
+
+#2023-06-18 10:13:16->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed224_itr0
+normed mse:0.3196, mae:0.3376, rmse:0.5653
+denormed mse:2327.6006, mae:16.4074, rmse:48.2452
+normed mse:0.3196, mae:0.3376, rmse:0.5653
+TTTT denormed mse:2327.6006, mae:16.4074, rmse:48.2452
+
+
+
+
+#2023-06-17 00:20:25->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed159_itr0
+normed mse:0.1890, mae:0.2391, rmse:0.4348
+denormed mse:1913.6572, mae:12.6382, rmse:43.7454
+normed mse:0.1890, mae:0.2391, rmse:0.4348
+TTTT denormed mse:1913.6572, mae:12.6382, rmse:43.7454
+
+
+
+
+#2023-06-17 00:20:26->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed159_itr0
+normed mse:0.1890, mae:0.2391, rmse:0.4348
+denormed mse:1913.6572, mae:12.6382, rmse:43.7454
+normed mse:0.1890, mae:0.2391, rmse:0.4348
+TTTT denormed mse:1913.6572, mae:12.6382, rmse:43.7454
+
+
+
+
+#2023-06-17 19:25:01->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed55_itr0
+normed mse:0.2509, mae:0.2941, rmse:0.5009
+denormed mse:1947.4504, mae:13.8522, rmse:44.1299
+normed mse:0.2509, mae:0.2941, rmse:0.5009
+TTTT denormed mse:1947.4504, mae:13.8522, rmse:44.1299
+
+
+
+
+#2023-06-17 19:19:31->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed202_itr0
+normed mse:0.3059, mae:0.3261, rmse:0.5531
+denormed mse:2072.6224, mae:14.4218, rmse:45.5261
+normed mse:0.3059, mae:0.3261, rmse:0.5531
+TTTT denormed mse:2072.6224, mae:14.4218, rmse:45.5261
+
+
+
+
+#2023-06-18 11:55:55->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed202_itr0
+normed mse:0.2578, mae:0.2955, rmse:0.5077
+denormed mse:2288.4846, mae:15.8056, rmse:47.8381
+normed mse:0.2578, mae:0.2955, rmse:0.5077
+TTTT denormed mse:2288.4846, mae:15.8056, rmse:47.8381
+
+
+
+
+#2023-06-17 00:20:09->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed96_itr0
+normed mse:0.2522, mae:0.2928, rmse:0.5022
+denormed mse:1943.1467, mae:13.5002, rmse:44.0811
+normed mse:0.2522, mae:0.2928, rmse:0.5022
+TTTT denormed mse:1943.1467, mae:13.5002, rmse:44.0811
+
+
+
+
+#2023-06-18 10:39:58->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed76_itr0
+normed mse:0.2562, mae:0.2947, rmse:0.5061
+denormed mse:2090.0711, mae:14.6899, rmse:45.7173
+normed mse:0.2562, mae:0.2947, rmse:0.5061
+TTTT denormed mse:2090.0711, mae:14.6899, rmse:45.7173
+
+
+
+
+#2023-06-17 00:20:25->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed159_itr0
+normed mse:0.0999, mae:0.1240, rmse:0.3160
+denormed mse:1685.0265, mae:11.3092, rmse:41.0491
+normed mse:0.0999, mae:0.1240, rmse:0.3160
+TTTT denormed mse:1685.0265, mae:11.3092, rmse:41.0491
+
+
+
+
+#2023-06-18 11:14:21->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed56_itr0
+normed mse:0.3241, mae:0.3496, rmse:0.5693
+denormed mse:2218.3000, mae:15.8624, rmse:47.0988
+normed mse:0.3241, mae:0.3496, rmse:0.5693
+TTTT denormed mse:2218.3000, mae:15.8624, rmse:47.0988
+
+
+
+
+#2023-06-17 00:20:18->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed138_itr0
+normed mse:0.1213, mae:0.1601, rmse:0.3483
+denormed mse:1803.8867, mae:11.8151, rmse:42.4722
+normed mse:0.1213, mae:0.1601, rmse:0.3483
+TTTT denormed mse:1803.8867, mae:11.8151, rmse:42.4722
+
+
+
+
+#2023-06-17 00:20:24->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed159_itr0
+normed mse:0.1221, mae:0.1616, rmse:0.3494
+denormed mse:1799.3933, mae:11.5859, rmse:42.4193
+normed mse:0.1221, mae:0.1616, rmse:0.3494
+TTTT denormed mse:1799.3933, mae:11.5859, rmse:42.4193
+
+
+
+
+#2023-06-18 22:17:07->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuTrue_seed140_itr0
+normed mse:0.3151, mae:0.3333, rmse:0.5613
+denormed mse:2274.0423, mae:15.9350, rmse:47.6869
+normed mse:0.3151, mae:0.3333, rmse:0.5613
+TTTT denormed mse:2274.0423, mae:15.9350, rmse:47.6869
+
+
+
+
+#2023-06-18 08:55:21->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed161_itr0
+normed mse:0.3102, mae:0.3352, rmse:0.5569
+denormed mse:2003.2245, mae:14.3842, rmse:44.7574
+normed mse:0.3102, mae:0.3352, rmse:0.5569
+TTTT denormed mse:2003.2245, mae:14.3842, rmse:44.7574
+
+
+
+
+#2023-06-18 01:36:34->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed223_itr0
+normed mse:0.2494, mae:0.2889, rmse:0.4994
+denormed mse:1940.1776, mae:13.4873, rmse:44.0474
+normed mse:0.2494, mae:0.2889, rmse:0.4994
+TTTT denormed mse:1940.1776, mae:13.4873, rmse:44.0474
+
+
+
+
+#2023-06-19 00:13:26->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed119_itr0
+normed mse:0.3088, mae:0.3306, rmse:0.5557
+denormed mse:2192.9870, mae:15.4070, rmse:46.8293
+normed mse:0.3088, mae:0.3306, rmse:0.5557
+TTTT denormed mse:2192.9870, mae:15.4070, rmse:46.8293
+
+
+
+
+#2023-06-19 03:42:13->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed225_itr0
+normed mse:0.3134, mae:0.3350, rmse:0.5598
+denormed mse:2242.5594, mae:15.8318, rmse:47.3557
+normed mse:0.3134, mae:0.3350, rmse:0.5598
+TTTT denormed mse:2242.5594, mae:15.8318, rmse:47.3557
+
+
+
+
+#2023-06-17 00:20:40->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed201_itr0
+normed mse:0.1195, mae:0.1556, rmse:0.3456
+denormed mse:1760.5505, mae:11.1628, rmse:41.9589
+normed mse:0.1195, mae:0.1556, rmse:0.3456
+TTTT denormed mse:1760.5505, mae:11.1628, rmse:41.9589
+
+
+
+
+#2023-06-18 12:04:46->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed202_itr0
+normed mse:0.1862, mae:0.2373, rmse:0.4315
+denormed mse:1987.1530, mae:13.3373, rmse:44.5775
+normed mse:0.1862, mae:0.2373, rmse:0.4315
+TTTT denormed mse:1987.1530, mae:13.3373, rmse:44.5775
+
+
+
+
+#2023-06-18 14:37:24->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed182_itr0
+normed mse:0.3109, mae:0.3304, rmse:0.5576
+denormed mse:1991.6466, mae:14.0508, rmse:44.6279
+normed mse:0.3109, mae:0.3304, rmse:0.5576
+TTTT denormed mse:1991.6466, mae:14.0508, rmse:44.6279
+
+
+
+
+#2023-06-19 00:18:11->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed98_itr0
+normed mse:0.3071, mae:0.3306, rmse:0.5542
+denormed mse:2113.7933, mae:14.9303, rmse:45.9760
+normed mse:0.3071, mae:0.3306, rmse:0.5542
+TTTT denormed mse:2113.7933, mae:14.9303, rmse:45.9760
+
+
+
+
+#2023-06-18 15:39:12->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed77_itr0
+normed mse:0.3189, mae:0.3385, rmse:0.5647
+denormed mse:2250.1217, mae:15.7464, rmse:47.4354
+normed mse:0.3189, mae:0.3385, rmse:0.5647
+TTTT denormed mse:2250.1217, mae:15.7464, rmse:47.4354
+
+
+
+
+#2023-06-17 00:20:28->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed180_itr0
+normed mse:0.1214, mae:0.1585, rmse:0.3484
+denormed mse:1786.2523, mae:11.5102, rmse:42.2641
+normed mse:0.1214, mae:0.1585, rmse:0.3484
+TTTT denormed mse:1786.2523, mae:11.5102, rmse:42.2641
+
+
+
+
+#2023-06-17 00:15:59->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed54_itr0
+normed mse:0.1198, mae:0.1567, rmse:0.3461
+denormed mse:1783.0289, mae:11.5258, rmse:42.2259
+normed mse:0.1198, mae:0.1567, rmse:0.3461
+TTTT denormed mse:1783.0289, mae:11.5258, rmse:42.2259
+
+
+
+
+#2023-06-18 06:30:29->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed55_itr0
+normed mse:0.1857, mae:0.2362, rmse:0.4310
+denormed mse:1945.0822, mae:12.8869, rmse:44.1031
+normed mse:0.1857, mae:0.2362, rmse:0.4310
+TTTT denormed mse:1945.0822, mae:12.8869, rmse:44.1031
+
+
+
+
+#2023-06-19 05:46:38->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed203_itr0
+normed mse:0.2578, mae:0.2948, rmse:0.5078
+denormed mse:1921.2566, mae:13.5810, rmse:43.8321
+normed mse:0.2578, mae:0.2948, rmse:0.5078
+TTTT denormed mse:1921.2566, mae:13.5810, rmse:43.8321
+
+
+
+
+#2023-06-19 11:16:13->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed57_itr0
+normed mse:0.3337, mae:0.3494, rmse:0.5777
+denormed mse:2331.3322, mae:16.4781, rmse:48.2839
+normed mse:0.3337, mae:0.3494, rmse:0.5777
+TTTT denormed mse:2331.3322, mae:16.4781, rmse:48.2839
+
+
+
+
+#2023-06-19 04:46:10->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed203_itr0
+normed mse:0.3040, mae:0.3291, rmse:0.5514
+denormed mse:2059.1339, mae:14.6022, rmse:45.3777
+normed mse:0.3040, mae:0.3291, rmse:0.5514
+TTTT denormed mse:2059.1339, mae:14.6022, rmse:45.3777
+
+
+
+
+#2023-06-17 00:20:12->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed117_itr0
+normed mse:0.1223, mae:0.1620, rmse:0.3497
+denormed mse:1834.8658, mae:11.8946, rmse:42.8353
+normed mse:0.1223, mae:0.1620, rmse:0.3497
+TTTT denormed mse:1834.8658, mae:11.8946, rmse:42.8353
+
+
+
+
+#2023-06-19 10:14:22->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed77_itr0
+normed mse:0.2602, mae:0.2976, rmse:0.5101
+denormed mse:2019.4185, mae:14.4489, rmse:44.9379
+normed mse:0.2602, mae:0.2976, rmse:0.5101
+TTTT denormed mse:2019.4185, mae:14.4489, rmse:44.9379
+
+
+
+
+#2023-06-18 23:06:37->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed119_itr0
+normed mse:0.2540, mae:0.2911, rmse:0.5040
+denormed mse:1957.3802, mae:13.7178, rmse:44.2423
+normed mse:0.2540, mae:0.2911, rmse:0.5040
+TTTT denormed mse:1957.3802, mae:13.7178, rmse:44.2423
+
+
+
+
+#2023-06-19 17:08:30->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuTrue_seed141_itr0
+normed mse:0.3083, mae:0.3366, rmse:0.5553
+denormed mse:2264.9477, mae:15.9700, rmse:47.5915
+normed mse:0.3083, mae:0.3366, rmse:0.5553
+TTTT denormed mse:2264.9477, mae:15.9700, rmse:47.5915
+
+
+
+
+#2023-06-18 18:04:17->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed181_itr0
+normed mse:0.1865, mae:0.2359, rmse:0.4318
+denormed mse:2007.6468, mae:13.1634, rmse:44.8068
+normed mse:0.1865, mae:0.2359, rmse:0.4318
+TTTT denormed mse:2007.6468, mae:13.1634, rmse:44.8068
+
+
+
+
+#2023-06-20 00:14:34->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed226_itr0
+normed mse:0.3503, mae:0.3619, rmse:0.5919
+denormed mse:3028.1933, mae:19.6343, rmse:55.0290
+normed mse:0.3503, mae:0.3619, rmse:0.5919
+TTTT denormed mse:3028.1933, mae:19.6343, rmse:55.0290
+
+
+
+
+#2023-06-18 18:08:16->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed181_itr0
+normed mse:0.1865, mae:0.2359, rmse:0.4318
+denormed mse:2007.6468, mae:13.1634, rmse:44.8068
+normed mse:0.1865, mae:0.2359, rmse:0.4318
+TTTT denormed mse:2007.6468, mae:13.1634, rmse:44.8068
+
+
+
+
+#2023-06-17 00:20:17->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed138_itr0
+normed mse:0.0983, mae:0.1186, rmse:0.3135
+denormed mse:1548.9388, mae:9.9167, rmse:39.3566
+normed mse:0.0983, mae:0.1186, rmse:0.3135
+TTTT denormed mse:1548.9388, mae:9.9167, rmse:39.3566
+
+
+
+
+#2023-06-18 18:03:18->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed97_itr0
+normed mse:0.1884, mae:0.2389, rmse:0.4340
+denormed mse:1970.8629, mae:13.3321, rmse:44.3944
+normed mse:0.1884, mae:0.2389, rmse:0.4340
+TTTT denormed mse:1970.8629, mae:13.3321, rmse:44.3944
+
+
+
+
+#2023-06-17 19:33:54->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed139_itr0
+normed mse:0.1870, mae:0.2379, rmse:0.4324
+denormed mse:1920.9365, mae:12.6179, rmse:43.8285
+normed mse:0.1870, mae:0.2379, rmse:0.4324
+TTTT denormed mse:1920.9365, mae:12.6179, rmse:43.8285
+
+
+
+
+#2023-06-19 21:40:06->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed224_itr0
+normed mse:0.2697, mae:0.3043, rmse:0.5194
+denormed mse:2355.1248, mae:16.2305, rmse:48.5296
+normed mse:0.2697, mae:0.3043, rmse:0.5194
+TTTT denormed mse:2355.1248, mae:16.2305, rmse:48.5296
+
+
+
+
+#2023-06-18 18:08:41->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed140_itr0
+normed mse:0.2534, mae:0.2896, rmse:0.5034
+denormed mse:1953.8485, mae:13.7601, rmse:44.2024
+normed mse:0.2534, mae:0.2896, rmse:0.5034
+TTTT denormed mse:1953.8485, mae:13.7601, rmse:44.2024
+
+
+
+
+#2023-06-19 02:56:53->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed118_itr0
+normed mse:0.1878, mae:0.2398, rmse:0.4334
+denormed mse:1940.8459, mae:13.0431, rmse:44.0550
+normed mse:0.1878, mae:0.2398, rmse:0.4334
+TTTT denormed mse:1940.8459, mae:13.0431, rmse:44.0550
+
+
+
+
+#2023-06-18 23:54:06->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuTrue_seed223_itr0
+normed mse:0.1871, mae:0.2385, rmse:0.4326
+denormed mse:1948.6748, mae:13.1927, rmse:44.1438
+normed mse:0.1871, mae:0.2385, rmse:0.4326
+TTTT denormed mse:1948.6748, mae:13.1927, rmse:44.1438
+
+---------------------------------------------- kernel = 4 -----------------------------------------------------------------
+
+
+#2023-06-21 15:02:53->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed104_itr0
+normed mse:0.0999, mae:0.2458, rmse:0.3161
+denormed mse:8.4120, mae:2.2560, rmse:2.9003
+normed mse:0.0999, mae:0.2458, rmse:0.3161
+TTTT denormed mse:8.4120, mae:2.2560, rmse:2.9003
+
+
+
+
+#2023-06-21 15:02:30->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed160_itr0
+normed mse:0.0744, mae:0.2058, rmse:0.2727
+denormed mse:6.2638, mae:1.8887, rmse:2.5028
+normed mse:0.0744, mae:0.2058, rmse:0.2727
+TTTT denormed mse:6.2638, mae:1.8887, rmse:2.5028
+
+
+
+
+#2023-06-21 15:07:38->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed181_itr0
+normed mse:0.3249, mae:0.4226, rmse:0.5700
+denormed mse:102560.8423, mae:237.4188, rmse:320.2512
+normed mse:0.3249, mae:0.4226, rmse:0.5700
+TTTT denormed mse:102560.8423, mae:237.4188, rmse:320.2512
+
+
+
+
+#2023-06-21 15:07:17->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed181_itr0
+normed mse:0.2851, mae:0.3790, rmse:0.5339
+denormed mse:89981.1367, mae:212.9454, rmse:299.9686
+normed mse:0.2851, mae:0.3790, rmse:0.5339
+TTTT denormed mse:89981.1367, mae:212.9454, rmse:299.9686
+
+
+
+
+#2023-06-21 15:01:42->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed5_itr0
+normed mse:0.0485, mae:0.1639, rmse:0.2203
+denormed mse:4.0862, mae:1.5043, rmse:2.0214
+normed mse:0.0485, mae:0.1639, rmse:0.2203
+TTTT denormed mse:4.0862, mae:1.5043, rmse:2.0214
+
+
+
+
+#2023-06-21 15:06:27->LaST_Electricity_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed183_itr0
+normed mse:0.1882, mae:0.3085, rmse:0.4339
+denormed mse:59413.2422, mae:173.2986, rmse:243.7483
+normed mse:0.1882, mae:0.3085, rmse:0.4339
+TTTT denormed mse:59413.2422, mae:173.2986, rmse:243.7483
+
+
+
+
+#2023-06-21 15:03:13->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed209_itr0
+normed mse:0.1842, mae:0.3553, rmse:0.4292
+denormed mse:15.5122, mae:3.2600, rmse:3.9386
+normed mse:0.1842, mae:0.3553, rmse:0.4292
+TTTT denormed mse:15.5122, mae:3.2600, rmse:3.9386
+
+
+
+
+#2023-06-21 15:00:27->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed270_itr0
+normed mse:0.0280, mae:0.1265, rmse:0.1672
+denormed mse:2.3542, mae:1.1605, rmse:1.5343
+normed mse:0.0280, mae:0.1265, rmse:0.1672
+TTTT denormed mse:2.3542, mae:1.1605, rmse:1.5343
+
+
+
+
+#2023-06-21 15:05:45->LaST_Electricity_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed161_itr0
+normed mse:0.1464, mae:0.2710, rmse:0.3826
+denormed mse:46205.5960, mae:152.2494, rmse:214.9549
+normed mse:0.1464, mae:0.2710, rmse:0.3826
+TTTT denormed mse:46205.5960, mae:152.2494, rmse:214.9549
+
+
+
+
+#2023-06-21 15:06:56->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed140_itr0
+normed mse:0.2405, mae:0.3436, rmse:0.4904
+denormed mse:75905.3577, mae:193.0311, rmse:275.5093
+normed mse:0.2405, mae:0.3436, rmse:0.4904
+TTTT denormed mse:75905.3577, mae:193.0311, rmse:275.5093
+
+
+
+
+#2023-06-21 17:42:37->LaST_ETTh1_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed104_itr0
+normed mse:0.0893, mae:0.2352, rmse:0.2988
+denormed mse:7.5171, mae:2.1585, rmse:2.7417
+normed mse:0.0893, mae:0.2352, rmse:0.2988
+TTTT denormed mse:7.5171, mae:2.1585, rmse:2.7417
+
+
+
+
+#2023-06-21 17:42:36->LaST_ETTh1_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed160_itr0
+normed mse:0.0700, mae:0.2021, rmse:0.2647
+denormed mse:5.8986, mae:1.8549, rmse:2.4287
+normed mse:0.0700, mae:0.2021, rmse:0.2647
+TTTT denormed mse:5.8986, mae:1.8549, rmse:2.4287
+
+
+
+
+#2023-06-21 17:42:42->LaST_Electricity_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed181_itr0
+normed mse:0.3214, mae:0.4208, rmse:0.5669
+denormed mse:101436.4221, mae:236.3986, rmse:318.4909
+normed mse:0.3214, mae:0.4208, rmse:0.5669
+TTTT denormed mse:101436.4221, mae:236.3986, rmse:318.4909
+
+
+
+
+#2023-06-21 17:42:38->LaST_ETTh1_ftS_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed209_itr0
+normed mse:0.1424, mae:0.3052, rmse:0.3774
+denormed mse:11.9931, mae:2.8011, rmse:3.4631
+normed mse:0.1424, mae:0.3052, rmse:0.3774
+TTTT denormed mse:11.9931, mae:2.8011, rmse:3.4631
+
+
+
+
+#2023-06-21 17:42:41->LaST_Electricity_ftS_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed140_itr0
+normed mse:0.2433, mae:0.3461, rmse:0.4932
+denormed mse:76784.9702, mae:194.4377, rmse:277.1010
+normed mse:0.2433, mae:0.3461, rmse:0.4932
+TTTT denormed mse:76784.9702, mae:194.4377, rmse:277.1010
+
+
+
+
+#2023-06-21 17:42:36->LaST_ETTh1_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed5_itr0
+normed mse:0.0458, mae:0.1604, rmse:0.2140
+denormed mse:3.8547, mae:1.4716, rmse:1.9633
+normed mse:0.0458, mae:0.1604, rmse:0.2140
+TTTT denormed mse:3.8547, mae:1.4716, rmse:1.9633
+
+
+
+
+#2023-06-21 17:42:41->LaST_Electricity_ftS_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed181_itr0
+normed mse:0.2846, mae:0.3780, rmse:0.5334
+denormed mse:89817.0258, mae:212.3638, rmse:299.6949
+normed mse:0.2846, mae:0.3780, rmse:0.5334
+TTTT denormed mse:89817.0258, mae:212.3638, rmse:299.6949
+
+
+
+
+#2023-06-21 17:42:34->LaST_ETTh1_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed270_itr0
+normed mse:0.0315, mae:0.1326, rmse:0.1774
+denormed mse:2.6500, mae:1.2164, rmse:1.6279
+normed mse:0.0315, mae:0.1326, rmse:0.1774
+TTTT denormed mse:2.6500, mae:1.2164, rmse:1.6279
+
+
+
+
+#2023-06-21 17:42:40->LaST_Electricity_ftS_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed183_itr0
+normed mse:0.1869, mae:0.3063, rmse:0.4323
+denormed mse:58991.5690, mae:172.0687, rmse:242.8818
+normed mse:0.1869, mae:0.3063, rmse:0.4323
+TTTT denormed mse:58991.5690, mae:172.0687, rmse:242.8818
+
+
+
+
+#2023-06-21 17:42:40->LaST_Electricity_ftS_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiFalse_MVMmlp_enfuTrue_defuFalse_seed161_itr0
+normed mse:0.1466, mae:0.2711, rmse:0.3829
+denormed mse:46265.3022, mae:152.3206, rmse:215.0937
+normed mse:0.1466, mae:0.2711, rmse:0.3829
+TTTT denormed mse:46265.3022, mae:152.3206, rmse:215.0937
+
+
+
+
+#2023-06-21 23:13:43->LaST_Weather_ftM_sl201_ll0_pl720_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed184_itr0
+normed mse:0.3100, mae:0.3270, rmse:0.5568
+denormed mse:1940.6597, mae:13.6014, rmse:44.0529
+normed mse:0.3100, mae:0.3270, rmse:0.5568
+TTTT denormed mse:1940.6597, mae:13.6014, rmse:44.0529
+
+
+
+
+#2023-06-21 23:13:19->LaST_Weather_ftM_sl201_ll0_pl336_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed77_itr0
+normed mse:0.2502, mae:0.2854, rmse:0.5002
+denormed mse:1908.9014, mae:13.2881, rmse:43.6910
+normed mse:0.2502, mae:0.2854, rmse:0.5002
+TTTT denormed mse:1908.9014, mae:13.2881, rmse:43.6910
+
+
+
+
+#2023-06-21 23:13:03->LaST_Weather_ftM_sl201_ll0_pl168_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed162_itr0
+normed mse:0.1883, mae:0.2355, rmse:0.4339
+denormed mse:1903.3047, mae:12.7981, rmse:43.6269
+normed mse:0.1883, mae:0.2355, rmse:0.4339
+TTTT denormed mse:1903.3047, mae:12.7981, rmse:43.6269
+
+
+
+
+#2023-06-21 23:12:46->LaST_Weather_ftM_sl201_ll0_pl48_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed202_itr0
+normed mse:0.1222, mae:0.1586, rmse:0.3496
+denormed mse:1846.0543, mae:11.6831, rmse:42.9657
+normed mse:0.1222, mae:0.1586, rmse:0.3496
+TTTT denormed mse:1846.0543, mae:11.6831, rmse:42.9657
+
+
+
+
+#2023-06-21 15:11:06->LaST_Weather_ftM_sl201_ll0_pl24_lr0.001_bs32_ls128_dp0.2_enmutiTrue_demutiTrue_MVMmlp_enfuTrue_defuFalse_seed138_itr0
+normed mse:0.0992, mae:0.1181, rmse:0.3150
+denormed mse:1594.0638, mae:10.0768, rmse:39.9257
+normed mse:0.0992, mae:0.1181, rmse:0.3150
+TTTT denormed mse:1594.0638, mae:10.0768, rmse:39.9257
+
+
+
+
+-----------------------------------------------Fusion kernel num = 2------------------------------------------
