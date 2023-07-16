@@ -1,10 +1,13 @@
+from sqlite3 import Timestamp
 from models.units import *
 import math
 import torch
 from torch import nn
 from torch.autograd import Variable
+import numpy as np 
+from matplotlib import pyplot as plt 
 
-
+count = 0
 class FeedNet(nn.Module):
     def __init__(self, in_dim, out_dim, type="mlp", n_layers=1, inner_dim=None, activaion=None, dropout=0.1):
         super(FeedNet, self).__init__()
@@ -241,10 +244,10 @@ class TNet(nn.Module):
         """Encoder Time-Aware Fusion"""
         if self.Encoder_Fusion == True:
             self.conv1d_dilation_fusion = nn.ModuleList([nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,kernel_size=1,padding='same'),
-                                                    nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,dilation=2,kernel_size=3,padding='same'),
+                                                    #nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,dilation=2,kernel_size=3,padding='same'),
                                                     nn.Conv1d(in_channels=self.kernel_max*in_dim,out_channels=in_dim,dilation=3,kernel_size=3,padding='same')])
     
-            self.conv1d_redu_fusion = nn.Conv1d(in_channels=3*in_dim,out_channels=in_dim,kernel_size=1,padding='same')
+            self.conv1d_redu_fusion = nn.Conv1d(in_channels=2*in_dim,out_channels=in_dim,kernel_size=1,padding='same')
         
         """Decoder Time-Aware Fusion"""
         if self.Decoder_Fusion == True:
@@ -305,7 +308,7 @@ class TNet(nn.Module):
 
             """Fusion Encoder"""   
             if self.Encoder_Fusion == True:
-                for k in range(3):
+                for k in range(len(self.conv1d_dilation_fusion)):
                     Encoder_Fusion_Out = self.conv1d_dilation_fusion[k](Encoder_Multi_Scale_Out_Concat)
                     if k == 0:
                         Encoder_Fusion_Out_Concat = Encoder_Fusion_Out
@@ -341,7 +344,7 @@ class TNet(nn.Module):
             
             """Fusion Decoder""" 
             if self.Decoder_Fusion == True:
-                for l in range(3):
+                for l in range(len(self.deconv1d_dilation_fusion)):
                     Decoder_Fusion_Out = self.deconv1d_dilation_fusion[l](Decoder_Multi_Scale_Out_Concat)
                     if l == 0:
                         Decoder_Fusion_Out_Concat = Decoder_Fusion_Out
@@ -405,6 +408,7 @@ class LaST(nn.Module):
         self.LaSTLayer = LaSTBlock(self.in_dim, self.out_dim, input_len, output_len, SNet, self.inner_s, TNet,
                                    self.inner_t,self.Encoder_Muti_Scale,self.Decoder_Muti_Scale,self.Mean_Var_Model,self.Encoder_Fusion,Decoder_Fusion, dropout=dropout)
 
+
     def forward(self, x, x_mark=None):
         b, t, _ = x.shape
         x_his = x
@@ -418,6 +422,25 @@ class LaST(nn.Module):
 
         x_s, x_t, elbo, mlbo, mubo = self.LaSTLayer(x_his)
         x_pred = x_s + x_t
+
+
+        global count
+        count+=1
+        if count == 100:
+            total_t = []
+            total_s = []
+            timestamp = np.arange(0,1536)
+            total_s.append(x_s.detach().cpu().numpy().squeeze())
+            total_t.append(x_t.detach().cpu().numpy().squeeze())
+            plt.plot(timestamp[0:120],np.array(total_s).reshape(768)[0:120],label="season")
+            plt.plot(timestamp[0:120],np.array(total_t).reshape(768)[0:120],label="trend")
+            plt.legend()
+            plt.savefig("./EXP_Record/ETTh1_Figure/test_s_t.png")
+            plt.cla()
+            count = 0
+
+
+
         x_pred = x_pred.squeeze(-1) if self.v_num > 1 else x_pred
 
         return x_pred, elbo, mlbo, mubo

@@ -134,7 +134,6 @@ class Exp_LaST(Exp_Basic):
     def valid(self, valid_data, valid_loader, criterion):
         self.model.eval()
         total_loss = []
-
         mse_i, mses_i = [], []
         mae_i, maes_i = [], []
 
@@ -279,6 +278,7 @@ class Exp_LaST(Exp_Basic):
         for i, (batch_x, batch_y, batch_x_mark, batch_y_mark) in enumerate(test_loader):
             pred, pred_scale, true, true_scale, elbo, mlbo, mubo = self._process_one_batch_LaSTNet(
                 test_data, batch_x, batch_y, batch_x_mark, batch_y_mark)
+
 
             pred = pred.detach().cpu().numpy()
             true = true.detach().cpu().numpy()
