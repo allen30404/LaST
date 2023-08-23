@@ -1,5 +1,4 @@
-# MSTA-VAE: Enhancing Trend Representation for Time Series Forecasting via Multi-Scale and Time-Aware Fusion(https://github.com/allen30404/LaST_Paper/assets/61857422/5c9c6a71-1787-45bc-abb4-1d9552188bb0)
-
+# MSTA-VAE: Enhancing Trend Representation for Time Series Forecasting via Multi-Scale and Time-Aware Fusion
 ## Dataset
 
 We conducted extensive experiments on seven real-world benchmark datasets from four covering the categories of mainstream time series forecasting applications.  
