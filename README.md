@@ -9,8 +9,6 @@ Please download from the following buttons and place them into `datasets` folder
 
 
 
-## Usage
-
 #### Requirements
 
 # import virtual environment
