@@ -1,4 +1,5 @@
-# MSTA-VAE: Enhancing Trend Representation for Time Series Forecasting via Multi-Scale and Time-Aware Fusion
+# MSTA-VAE: Enhancing Trend Representation for Time Series Forecasting via Multi-Scale and Time-Aware Fusion
+
 ## Dataset
 
 We conducted extensive experiments on seven real-world benchmark datasets from four covering the categories of mainstream time series forecasting applications.  
@@ -12,10 +13,10 @@ Please download from the following buttons and place them into `datasets` folder
 #### Requirements
 
 # import virtual environment
-conda env create -f MSTA_VAE.yaml
+conda env create -f environment.yml
 
 # activate environment
-conda activate MSTA_VAE
+conda activate environment.yml
 
 
 
